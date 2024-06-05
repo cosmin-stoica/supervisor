@@ -1,0 +1,560 @@
+08:14:25.272> [[[DEBUG: Processing start: Avvio ML2-160 - 2024-03-29 08-14-22.txt]]]
+
+08:14:25.277> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:14:22.598Z",
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "workstation": "ML2-160",
+   "operation": "160",
+   "user": "048-MAGG"
+}
+]]]
+
+08:14:25.280> {{{SERVER: Sending to server}}}
+
+08:14:25.320> {{{SERVER: Response code: 400}}}
+
+08:14:25.324> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Value cannot be null.\r\nParameter name: logger","errorMessageForLogging":"Value cannot be null.\rParameter name: logger","errors":["Value cannot be null.\r\nParameter name: logger"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:14:25.328> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:14:25.332> [[[DEBUG: Moving to error: Avvio ML2-160 - 2024-03-29 08-14-22.txt]]]
+
+08:14:25.336> [[[DEBUG: Processing end: Avvio ML2-160 - 2024-03-29 08-14-22.txt]]]
+08:17:16.512> [[[DEBUG: Processing start: Avvio ML2-190 - 2024-03-29 08-17-11.txt]]]
+
+08:17:16.517> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:17:11.286Z",
+   "orderNumber": "OP000055410-01",
+   "serialNumber": "OP000055410-01",
+   "workstation": "ML2-190",
+   "operation": "190",
+   "user": "343-ROSA"
+}
+]]]
+
+08:17:16.520> {{{SERVER: Sending to server}}}
+
+08:17:16.660> {{{SERVER: Response code: 400}}}
+
+08:17:16.664> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Il Serial Number non � ancora stato dichiarato nell'operazione 180 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055410-01, OrderNumber: OP000055410-01, Operation: 190","errorMessageForLogging":"Il Serial Number non � ancora stato dichiarato nell'operazione 180 !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055410-01, OrderNumber: OP000055410-01, Operation: 190","errors":["Il Serial Number non � ancora stato dichiarato nell'operazione 180 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055410-01, OrderNumber: OP000055410-01, Operation: 190"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:17:16.666> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:17:16.669> [[[DEBUG: Moving to error: Avvio ML2-190 - 2024-03-29 08-17-11.txt]]]
+
+08:17:16.672> [[[DEBUG: Processing end: Avvio ML2-190 - 2024-03-29 08-17-11.txt]]]
+08:17:45.908> [[[DEBUG: Processing start: Avvio ML1-005C - 2024-03-29 08-17-42.txt]]]
+
+08:17:45.913> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:17:42.638Z",
+   "orderNumber": "OP000054518-01",
+   "serialNumber": "OP000054518-01",
+   "workstation": "ML1-005C",
+   "operation": "005C",
+   "user": "438-LEOV"
+}
+]]]
+
+08:17:45.916> {{{SERVER: Sending to server}}}
+
+08:17:46.145> {{{SERVER: Response code: 200}}}
+
+08:17:46.149> {{{SERVER: Response body: true}}}
+
+08:17:46.152> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:17:46.155> [[[DEBUG: Moving to sent: Avvio ML1-005C - 2024-03-29 08-17-42.txt]]]
+
+08:17:46.158> [[[DEBUG: Processing end: Avvio ML1-005C - 2024-03-29 08-17-42.txt]]]
+08:18:32.126> [[[DEBUG: Processing start: Avvio ML2-180 - 2024-03-29 08-18-30.txt]]]
+
+08:18:32.131> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:18:30.575Z",
+   "orderNumber": "OP000055409.1-01",
+   "serialNumber": "OP000055409.1-01",
+   "workstation": "ML2-180",
+   "operation": "180",
+   "user": "038-MARA"
+}
+]]]
+
+08:18:32.134> {{{SERVER: Sending to server}}}
+
+08:18:32.274> {{{SERVER: Response code: 400}}}
+
+08:18:32.277> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055409.1-01, OrderNumber: OP000055409.1-01, Operation: 180","errorMessageForLogging":"Serial Number sconosciuto !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055409.1-01, OrderNumber: OP000055409.1-01, Operation: 180","errors":["Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055409.1-01, OrderNumber: OP000055409.1-01, Operation: 180"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:18:32.280> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:18:32.284> [[[DEBUG: Moving to error: Avvio ML2-180 - 2024-03-29 08-18-30.txt]]]
+
+08:18:32.287> [[[DEBUG: Processing end: Avvio ML2-180 - 2024-03-29 08-18-30.txt]]]
+08:18:58.268> [[[DEBUG: Processing start: Avvio ML2-160 - 2024-03-29 08-18-53.txt]]]
+
+08:18:58.275> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:18:53.078Z",
+   "orderNumber": "OP000054441-01",
+   "serialNumber": "OP000054441-01",
+   "workstation": "ML2-160",
+   "operation": "160",
+   "user": "048-MAGG"
+}
+]]]
+
+08:18:58.278> {{{SERVER: Sending to server}}}
+
+08:18:58.445> {{{SERVER: Response code: 400}}}
+
+08:18:58.449> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Il Serial Number non � ancora stato dichiarato nell'operazione 05A !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441-01, OrderNumber: OP000054441-01, Operation: 160","errorMessageForLogging":"Il Serial Number non � ancora stato dichiarato nell'operazione 05A !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441-01, OrderNumber: OP000054441-01, Operation: 160","errors":["Il Serial Number non � ancora stato dichiarato nell'operazione 05A !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441-01, OrderNumber: OP000054441-01, Operation: 160"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:18:58.452> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:18:58.455> [[[DEBUG: Moving to error: Avvio ML2-160 - 2024-03-29 08-18-53.txt]]]
+
+08:18:58.459> [[[DEBUG: Processing end: Avvio ML2-160 - 2024-03-29 08-18-53.txt]]]
+08:19:19.888> [[[DEBUG: Processing start: Avvio ML2-180 - 2024-03-29 08-19-16.txt]]]
+
+08:19:19.893> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:19:16.379Z",
+   "orderNumber": "OP000055409-01",
+   "serialNumber": "OP000055409-01",
+   "workstation": "ML2-180",
+   "operation": "180",
+   "user": "038-MARA"
+}
+]]]
+
+08:19:19.896> {{{SERVER: Sending to server}}}
+
+08:19:19.991> {{{SERVER: Response code: 400}}}
+
+08:19:19.994> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Il Serial Number non � ancora stato dichiarato nell'operazione 160 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055409-01, OrderNumber: OP000055409-01, Operation: 180","errorMessageForLogging":"Il Serial Number non � ancora stato dichiarato nell'operazione 160 !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055409-01, OrderNumber: OP000055409-01, Operation: 180","errors":["Il Serial Number non � ancora stato dichiarato nell'operazione 160 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055409-01, OrderNumber: OP000055409-01, Operation: 180"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:19:19.997> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:19:20.000> [[[DEBUG: Moving to error: Avvio ML2-180 - 2024-03-29 08-19-16.txt]]]
+
+08:19:20.004> [[[DEBUG: Processing end: Avvio ML2-180 - 2024-03-29 08-19-16.txt]]]
+08:19:45.985> [[[DEBUG: Processing start: Avvio ML1-005A - 2024-03-29 08-19-41.txt]]]
+
+08:19:45.990> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0}}}
+
+08:19:45.992> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+08:19:45.995> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:19:41.058Z",
+   "orderNumber": "",
+   "serialNumber": "",
+   "workstation": "ML1-005A",
+   "operation": "005A",
+   "user": "436-DALF"
+}
+]]]
+
+08:19:45.998> {{{SERVER: Sending to server}}}
+
+08:19:46.038> {{{SERVER: Response code: 400}}}
+
+08:19:46.041> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"OrderNumber is null or empty","errorMessageForLogging":"OrderNumber is null or empty","errors":["OrderNumber is null or empty"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:19:46.044> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:19:46.047> [[[DEBUG: Moving to error: Avvio ML1-005A - 2024-03-29 08-19-41.txt]]]
+
+08:19:46.051> [[[DEBUG: Processing end: Avvio ML1-005A - 2024-03-29 08-19-41.txt]]]
+08:19:57.046> [[[DEBUG: Processing start: Avvio ML1-005B - 2024-03-29 08-19-57.txt]]]
+
+08:19:57.052> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:19:57.965Z",
+   "orderNumber": "OP000053860-01",
+   "serialNumber": "OP000053860-01",
+   "workstation": "ML1-005B",
+   "operation": "005B",
+   "user": "020-VOTI"
+}
+]]]
+
+08:19:57.055> {{{SERVER: Sending to server}}}
+
+08:19:57.230> {{{SERVER: Response code: 200}}}
+
+08:19:57.234> {{{SERVER: Response body: true}}}
+
+08:19:57.236> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:19:57.239> [[[DEBUG: Moving to sent: Avvio ML1-005B - 2024-03-29 08-19-57.txt]]]
+
+08:19:57.243> [[[DEBUG: Processing end: Avvio ML1-005B - 2024-03-29 08-19-57.txt]]]
+08:28:13.914> [[[DEBUG: Processing start: Avvio ML1-005B - 2024-03-29 08-28-15.txt]]]
+
+08:28:13.918> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:28:15.078Z",
+   "orderNumber": "OP000053860.1-01",
+   "serialNumber": "OP000053860.1-01",
+   "workstation": "ML1-005B",
+   "operation": "005B",
+   "user": "020-VOTI"
+}
+]]]
+
+08:28:13.922> {{{SERVER: Sending to server}}}
+
+08:28:13.957> {{{SERVER: Response code: 400}}}
+
+08:28:13.961> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Value cannot be null.\r\nParameter name: logger","errorMessageForLogging":"Value cannot be null.\rParameter name: logger","errors":["Value cannot be null.\r\nParameter name: logger"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:28:13.964> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:28:13.969> [[[DEBUG: Moving to error: Avvio ML1-005B - 2024-03-29 08-28-15.txt]]]
+
+08:28:13.972> [[[DEBUG: Processing end: Avvio ML1-005B - 2024-03-29 08-28-15.txt]]]
+08:28:42.137> [[[DEBUG: Processing start: Avvio ML1-005A - 2024-03-29 08-28-37.txt]]]
+
+08:28:42.142> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:28:37.405Z",
+   "orderNumber": "OP000054518-01",
+   "serialNumber": "OP000054518-01",
+   "workstation": "ML1-005A",
+   "operation": "005A",
+   "user": "438-LEOV"
+}
+]]]
+
+08:28:42.145> {{{SERVER: Sending to server}}}
+
+08:28:42.320> {{{SERVER: Response code: 200}}}
+
+08:28:42.324> {{{SERVER: Response body: true}}}
+
+08:28:42.327> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:28:42.330> [[[DEBUG: Moving to sent: Avvio ML1-005A - 2024-03-29 08-28-37.txt]]]
+
+08:28:42.333> [[[DEBUG: Processing end: Avvio ML1-005A - 2024-03-29 08-28-37.txt]]]
+08:30:20.709> [[[DEBUG: Processing start: Avvio ML2-05B - 2024-03-29 08-26-28.txt]]]
+
+08:30:20.714> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:26:28.150Z",
+   "orderNumber": "OP000054445-01",
+   "serialNumber": "OP000054445-01",
+   "workstation": "ML2-05B",
+   "operation": "05B",
+   "user": "038-MARA"
+}
+]]]
+
+08:30:20.717> {{{SERVER: Sending to server}}}
+
+08:30:21.063> {{{SERVER: Response code: 400}}}
+
+08:30:21.066> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Errore durante lo start della produzione, contattare l'assistenza","errorMessageForLogging":"Errore durante lo start della produzione, contattare l'assistenza","errors":["Errore durante lo start della produzione, contattare l'assistenza"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:30:21.070> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:30:21.073> [[[DEBUG: Moving to error: Avvio ML2-05B - 2024-03-29 08-26-28.txt]]]
+
+08:30:21.077> [[[DEBUG: Processing end: Avvio ML2-05B - 2024-03-29 08-26-28.txt]]]
+08:32:07.915> [[[DEBUG: Processing start: Avvio ML1-0010 - 2024-03-29 08-32-02.txt]]]
+
+08:32:07.920> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:32:02.178Z",
+   "orderNumber": "OP000054518.1-01",
+   "serialNumber": "OP000054518.1-01",
+   "workstation": "ML1-0010",
+   "operation": "0010",
+   "user": "438-LEOV"
+}
+]]]
+
+08:32:07.923> {{{SERVER: Sending to server}}}
+
+08:32:08.209> {{{SERVER: Response code: 200}}}
+
+08:32:08.213> {{{SERVER: Response body: true}}}
+
+08:32:08.216> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:32:08.219> [[[DEBUG: Moving to sent: Avvio ML1-0010 - 2024-03-29 08-32-02.txt]]]
+
+08:32:08.223> [[[DEBUG: Processing end: Avvio ML1-0010 - 2024-03-29 08-32-02.txt]]]
+08:35:40.302> [[[DEBUG: Processing start: Avvio ML1-005A - 2024-03-29 08-35-34.txt]]]
+
+08:35:40.313> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0}}}
+
+08:35:40.319> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+08:35:40.323> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:35:34.145Z",
+   "orderNumber": "",
+   "serialNumber": "",
+   "workstation": "ML1-005A",
+   "operation": "005A",
+   "user": "436-DALF"
+}
+]]]
+
+08:35:40.326> {{{SERVER: Sending to server}}}
+
+08:35:40.364> {{{SERVER: Response code: 400}}}
+
+08:35:40.368> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"OrderNumber is null or empty","errorMessageForLogging":"OrderNumber is null or empty","errors":["OrderNumber is null or empty"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:35:40.371> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:35:40.374> [[[DEBUG: Moving to error: Avvio ML1-005A - 2024-03-29 08-35-34.txt]]]
+
+08:35:40.377> [[[DEBUG: Processing end: Avvio ML1-005A - 2024-03-29 08-35-34.txt]]]
+08:38:11.749> [[[DEBUG: Processing start: Avvio ML2-190 - 2024-03-29 08-38-10.txt]]]
+
+08:38:11.754> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:38:10.028Z",
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "workstation": "ML2-190",
+   "operation": "190",
+   "user": "343-ROSA"
+}
+]]]
+
+08:38:11.757> {{{SERVER: Sending to server}}}
+
+08:38:11.792> {{{SERVER: Response code: 400}}}
+
+08:38:11.796> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Value cannot be null.\r\nParameter name: logger","errorMessageForLogging":"Value cannot be null.\rParameter name: logger","errors":["Value cannot be null.\r\nParameter name: logger"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:38:11.800> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:38:11.804> [[[DEBUG: Moving to error: Avvio ML2-190 - 2024-03-29 08-38-10.txt]]]
+
+08:38:11.808> [[[DEBUG: Processing end: Avvio ML2-190 - 2024-03-29 08-38-10.txt]]]
+08:39:04.929> [[[DEBUG: Processing start: Avvio ML2-05A - 2024-03-29 08-39-00.txt]]]
+
+08:39:04.934> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:39:00.515Z",
+   "orderNumber": "OP000054445-01",
+   "serialNumber": "OP000054445-01",
+   "workstation": "ML2-05A",
+   "operation": "05A",
+   "user": "038-MARA"
+}
+]]]
+
+08:39:04.937> {{{SERVER: Sending to server}}}
+
+08:39:05.023> {{{SERVER: Response code: 400}}}
+
+08:39:05.027> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054445-01, OrderNumber: OP000054445-01, Operation: 05A","errorMessageForLogging":"Serial Number sconosciuto !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054445-01, OrderNumber: OP000054445-01, Operation: 05A","errors":["Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054445-01, OrderNumber: OP000054445-01, Operation: 05A"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:39:05.030> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:39:05.033> [[[DEBUG: Moving to error: Avvio ML2-05A - 2024-03-29 08-39-00.txt]]]
+
+08:39:05.037> [[[DEBUG: Processing end: Avvio ML2-05A - 2024-03-29 08-39-00.txt]]]
+08:39:57.093> [[[DEBUG: Processing start: Avvio ML1-005B - 2024-03-29 08-39-57.txt]]]
+
+08:39:57.098> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:39:57.829Z",
+   "orderNumber": "OP000055178-01",
+   "serialNumber": "OP000055178-01",
+   "workstation": "ML1-005B",
+   "operation": "005B",
+   "user": "020-VOTI"
+}
+]]]
+
+08:39:57.102> {{{SERVER: Sending to server}}}
+
+08:39:57.397> {{{SERVER: Response code: 200}}}
+
+08:39:57.401> {{{SERVER: Response body: true}}}
+
+08:39:57.404> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:39:57.407> [[[DEBUG: Moving to sent: Avvio ML1-005B - 2024-03-29 08-39-57.txt]]]
+
+08:39:57.411> [[[DEBUG: Processing end: Avvio ML1-005B - 2024-03-29 08-39-57.txt]]]
+08:40:54.519> [[[DEBUG: Processing start: Avvio ML2-190 - 2024-03-29 08-40-48.txt]]]
+
+08:40:54.525> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:40:48.968Z",
+   "orderNumber": "OP000055409-01",
+   "serialNumber": "OP000055409-01",
+   "workstation": "ML2-190",
+   "operation": "190",
+   "user": "343-ROSA"
+}
+]]]
+
+08:40:54.528> {{{SERVER: Sending to server}}}
+
+08:40:54.611> {{{SERVER: Response code: 400}}}
+
+08:40:54.614> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Il Serial Number non � ancora stato dichiarato nell'operazione 180 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055409-01, OrderNumber: OP000055409-01, Operation: 190","errorMessageForLogging":"Il Serial Number non � ancora stato dichiarato nell'operazione 180 !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055409-01, OrderNumber: OP000055409-01, Operation: 190","errors":["Il Serial Number non � ancora stato dichiarato nell'operazione 180 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055409-01, OrderNumber: OP000055409-01, Operation: 190"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:40:54.618> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:40:54.622> [[[DEBUG: Moving to error: Avvio ML2-190 - 2024-03-29 08-40-48.txt]]]
+
+08:40:54.626> [[[DEBUG: Processing end: Avvio ML2-190 - 2024-03-29 08-40-48.txt]]]
+08:42:53.844> [[[DEBUG: Processing start: Avvio ML2-180 - 2024-03-29 08-42-53.txt]]]
+
+08:42:53.849> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:42:53.975Z",
+   "orderNumber": "OP000054441-01",
+   "serialNumber": "OP000054441-01",
+   "workstation": "ML2-180",
+   "operation": "180",
+   "user": "038-MARA"
+}
+]]]
+
+08:42:53.852> {{{SERVER: Sending to server}}}
+
+08:42:53.930> {{{SERVER: Response code: 400}}}
+
+08:42:53.933> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Il Serial Number non � ancora stato dichiarato nell'operazione 160 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441-01, OrderNumber: OP000054441-01, Operation: 180","errorMessageForLogging":"Il Serial Number non � ancora stato dichiarato nell'operazione 160 !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441-01, OrderNumber: OP000054441-01, Operation: 180","errors":["Il Serial Number non � ancora stato dichiarato nell'operazione 160 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441-01, OrderNumber: OP000054441-01, Operation: 180"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:42:53.936> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:42:53.940> [[[DEBUG: Moving to error: Avvio ML2-180 - 2024-03-29 08-42-53.txt]]]
+
+08:42:53.944> [[[DEBUG: Processing end: Avvio ML2-180 - 2024-03-29 08-42-53.txt]]]
+08:43:49.921> [[[DEBUG: Processing start: Avvio ML2-160 - 2024-03-29 08-43-48.txt]]]
+
+08:43:49.926> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:43:48.287Z",
+   "orderNumber": "OP000055411-01",
+   "serialNumber": "OP000055411-01",
+   "workstation": "ML2-160",
+   "operation": "160",
+   "user": "048-MAGG"
+}
+]]]
+
+08:43:49.929> {{{SERVER: Sending to server}}}
+
+08:43:50.053> {{{SERVER: Response code: 400}}}
+
+08:43:50.057> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Il Serial Number non � ancora stato dichiarato nell'operazione 05A !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055411-01, OrderNumber: OP000055411-01, Operation: 160","errorMessageForLogging":"Il Serial Number non � ancora stato dichiarato nell'operazione 05A !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055411-01, OrderNumber: OP000055411-01, Operation: 160","errors":["Il Serial Number non � ancora stato dichiarato nell'operazione 05A !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055411-01, OrderNumber: OP000055411-01, Operation: 160"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:43:50.060> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:43:50.064> [[[DEBUG: Moving to error: Avvio ML2-160 - 2024-03-29 08-43-48.txt]]]
+
+08:43:50.067> [[[DEBUG: Processing end: Avvio ML2-160 - 2024-03-29 08-43-48.txt]]]
+08:51:19.539> [[[DEBUG: Processing start: Avvio ML1-005C - 2024-03-29 08-51-17.txt]]]
+
+08:51:19.545> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:51:17.442Z",
+   "orderNumber": "OP000055178-01",
+   "serialNumber": "OP000055178-01",
+   "workstation": "ML1-005C",
+   "operation": "005C",
+   "user": "020-VOTI"
+}
+]]]
+
+08:51:19.549> {{{SERVER: Sending to server}}}
+
+08:51:19.729> {{{SERVER: Response code: 200}}}
+
+08:51:19.733> {{{SERVER: Response body: true}}}
+
+08:51:19.737> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:51:19.740> [[[DEBUG: Moving to sent: Avvio ML1-005C - 2024-03-29 08-51-17.txt]]]
+
+08:51:19.744> [[[DEBUG: Processing end: Avvio ML1-005C - 2024-03-29 08-51-17.txt]]]
+08:55:05.252> [[[DEBUG: Processing start: Avvio ML1-0030 - 2024-03-29 08-55-01.txt]]]
+
+08:55:05.257> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:55:01.063Z",
+   "orderNumber": "OP000054518-01",
+   "serialNumber": "OP000054518-01",
+   "workstation": "ML1-0030",
+   "operation": "0030",
+   "user": "438-LEOV"
+}
+]]]
+
+08:55:05.261> {{{SERVER: Sending to server}}}
+
+08:55:05.427> {{{SERVER: Response code: 200}}}
+
+08:55:05.431> {{{SERVER: Response body: true}}}
+
+08:55:05.434> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:55:05.438> [[[DEBUG: Moving to sent: Avvio ML1-0030 - 2024-03-29 08-55-01.txt]]]
+
+08:55:05.442> [[[DEBUG: Processing end: Avvio ML1-0030 - 2024-03-29 08-55-01.txt]]]
+08:55:31.434> [[[DEBUG: Processing start: Avvio ML2-180 - 2024-03-29 08-55-34.txt]]]
+
+08:55:31.439> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T07:55:34.199Z",
+   "orderNumber": "OP000054441.1-01",
+   "serialNumber": "OP000054441.1-01",
+   "workstation": "ML2-180",
+   "operation": "180",
+   "user": "038-MARA"
+}
+]]]
+
+08:55:31.442> {{{SERVER: Sending to server}}}
+
+08:55:31.580> {{{SERVER: Response code: 400}}}
+
+08:55:31.585> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441.1-01, OrderNumber: OP000054441.1-01, Operation: 180","errorMessageForLogging":"Serial Number sconosciuto !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441.1-01, OrderNumber: OP000054441.1-01, Operation: 180","errors":["Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441.1-01, OrderNumber: OP000054441.1-01, Operation: 180"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:55:31.588> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+08:55:31.592> [[[DEBUG: Moving to error: Avvio ML2-180 - 2024-03-29 08-55-34.txt]]]
+
+08:55:31.595> [[[DEBUG: Processing end: Avvio ML2-180 - 2024-03-29 08-55-34.txt]]]
+09:02:35.545> [[[DEBUG: Processing start: Avvio ML2-190 - 2024-03-29 09-02-32.txt]]]
+
+09:02:35.551> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-03-29T08:02:32.229Z",
+   "orderNumber": "OP000054441-01",
+   "serialNumber": "OP000054441-01",
+   "workstation": "ML2-190",
+   "operation": "190",
+   "user": "343-ROSA"
+}
+]]]
+
+09:02:35.554> {{{SERVER: Sending to server}}}
+
+09:02:35.637> {{{SERVER: Response code: 400}}}
+
+09:02:35.642> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Il Serial Number non � ancora stato dichiarato nell'operazione 180 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441-01, OrderNumber: OP000054441-01, Operation: 190","errorMessageForLogging":"Il Serial Number non � ancora stato dichiarato nell'operazione 180 !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441-01, OrderNumber: OP000054441-01, Operation: 190","errors":["Il Serial Number non � ancora stato dichiarato nell'operazione 180 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000054441-01, OrderNumber: OP000054441-01, Operation: 190"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+09:02:35.645> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+09:02:35.652> [[[DEBUG: Moving to error: Avvio ML2-190 - 2024-03-29 09-02-32.txt]]]
+
+09:02:35.657> [[[DEBUG: Processing end: Avvio ML2-190 - 2024-03-29 09-02-32.txt]]]

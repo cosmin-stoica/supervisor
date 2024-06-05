@@ -1,0 +1,1998 @@
+15:23:19.962> [[[DEBUG: Processing start: AFAS1453LE AS1-095 - 2023-09-28 15-23-56.txt]]]
+
+15:23:19.967> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "OP000031430-02",
+   "serialNumber": "OP000031430-02",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AS1-095",
+   "traceability": [{
+      "timeStamp": "2023-09-28T13:23:56.292Z",
+      "attachments": [],
+      "name": "1;AFAS1453LE|OP000031430-02|OP000031430-02;SCHIENALE"
+   }],
+   "timeStamp": "2023-09-28T13:23:56.292Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "095",
+   "user": "340-TEDV"
+}
+]]]
+
+15:23:19.969> {{{SERVER: Sending to server}}}
+
+15:23:20.065> {{{SERVER: Response code: 400}}}
+
+15:23:20.067> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"ProgressDeclaration - Error: ReworkOrder Not found: ParentOrderNumber = OP000031430-02 Operation = 095 SerialNumber = OP000031430-02 WorkstationId = c9ce33be-aab4-48db-9494-b290c7038ea3","errorMessageForLogging":"ProgressDeclaration - Error: ReworkOrder Not found: ParentOrderNumber = OP000031430-02 Operation = 095 SerialNumber = OP000031430-02 WorkstationId = c9ce33be-aab4-48db-9494-b290c7038ea3","errors":["ProgressDeclaration - Error: ReworkOrder Not found: ParentOrderNumber = OP000031430-02 Operation = 095 SerialNumber = OP000031430-02 WorkstationId = c9ce33be-aab4-48db-9494-b290c7038ea3"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+15:23:20.069> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/qa-sabelt/cg/ProgressDeclaration POST}}}
+
+15:23:20.071> [[[DEBUG: Moving to error: AFAS1453LE AS1-095 - 2023-09-28 15-23-56.txt]]]
+15:47:58.764> [[[DEBUG: Processing start: AFAS1453LE AS1-035 - 2023-09-28 15-47-53.txt]]]
+
+15:47:58.781> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "attachments": [],
+         "name": "1;alzasedile su guide;3;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "1;alzasedile su guide;3;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 45.16
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "1;alzasedile su guide;3;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 82
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;alzasedile su guide;3;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;alzasedile su guide;3;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;alzasedile su guide;3;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "2;alzasedile su guide;3;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 45.32
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "2;alzasedile su guide;3;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 67
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;alzasedile su guide;3;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;alzasedile su guide;3;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;alzasedile su guide;3;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "3;alzasedile su guide;3;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 45.41
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "3;alzasedile su guide;3;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 107
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;alzasedile su guide;3;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;alzasedile su guide;3;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;alzasedile su guide;3;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "4;alzasedile su guide;3;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 45.51
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "4;alzasedile su guide;3;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 73
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;alzasedile su guide;3;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;alzasedile su guide;3;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Avvitatura guscio cuscino su alzasedile;5;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "5;Avvitatura guscio cuscino su alzasedile;5;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.18
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "5;Avvitatura guscio cuscino su alzasedile;5;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 28
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Avvitatura guscio cuscino su alzasedile;5;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Avvitatura guscio cuscino su alzasedile;5;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Avvitatura guscio cuscino su alzasedile;5;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "6;Avvitatura guscio cuscino su alzasedile;5;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.28
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "6;Avvitatura guscio cuscino su alzasedile;5;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 61
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Avvitatura guscio cuscino su alzasedile;5;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Avvitatura guscio cuscino su alzasedile;5;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura guscio cuscino su alzasedile;5;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "7;Avvitatura guscio cuscino su alzasedile;5;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.28
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "7;Avvitatura guscio cuscino su alzasedile;5;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura guscio cuscino su alzasedile;5;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura guscio cuscino su alzasedile;5;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Avvitatura guscio cuscino su alzasedile;5;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "8;Avvitatura guscio cuscino su alzasedile;5;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.28
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "8;Avvitatura guscio cuscino su alzasedile;5;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 35
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Avvitatura guscio cuscino su alzasedile;5;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Avvitatura guscio cuscino su alzasedile;5;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Avvitatura guscio cuscino su alzasedile;6;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "9;Avvitatura guscio cuscino su alzasedile;6;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.09
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "9;Avvitatura guscio cuscino su alzasedile;6;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 10
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Avvitatura guscio cuscino su alzasedile;6;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 35
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Avvitatura guscio cuscino su alzasedile;6;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Avvitatura guscio cuscino su alzasedile;6;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "10;Avvitatura guscio cuscino su alzasedile;6;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.18
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "10;Avvitatura guscio cuscino su alzasedile;6;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Avvitatura guscio cuscino su alzasedile;6;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 35
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Avvitatura guscio cuscino su alzasedile;6;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "11;Avvitatura schienale su alzasedile;9;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "11;Avvitatura schienale su alzasedile;9;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.28
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "11;Avvitatura schienale su alzasedile;9;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 18
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "11;Avvitatura schienale su alzasedile;9;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "11;Avvitatura schienale su alzasedile;9;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "12;Avvitatura schienale su alzasedile;9;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "12;Avvitatura schienale su alzasedile;9;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.28
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "12;Avvitatura schienale su alzasedile;9;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 62
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "12;Avvitatura schienale su alzasedile;9;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "12;Avvitatura schienale su alzasedile;9;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "13;Avvitatura schienale su alzasedile;9;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "13;Avvitatura schienale su alzasedile;9;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.66
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "13;Avvitatura schienale su alzasedile;9;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 15
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "13;Avvitatura schienale su alzasedile;9;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "13;Avvitatura schienale su alzasedile;9;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "14;Avvitatura schienale su alzasedile;9;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "14;Avvitatura schienale su alzasedile;9;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.28
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "14;Avvitatura schienale su alzasedile;9;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 15
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "14;Avvitatura schienale su alzasedile;9;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "14;Avvitatura schienale su alzasedile;9;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "15;Avvitatura schienale su alzasedile;9;5;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "15;Avvitatura schienale su alzasedile;9;5;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.48
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "15;Avvitatura schienale su alzasedile;9;5;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 72
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "15;Avvitatura schienale su alzasedile;9;5;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "15;Avvitatura schienale su alzasedile;9;5;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "16;Avvitatura schienale su alzasedile;9;6;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "16;Avvitatura schienale su alzasedile;9;6;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 24.18
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "16;Avvitatura schienale su alzasedile;9;6;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 18
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "16;Avvitatura schienale su alzasedile;9;6;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "16;Avvitatura schienale su alzasedile;9;6;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "17;Avvitatura ramo cintura DX;11;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "17;Avvitatura ramo cintura DX;11;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 21.42
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "17;Avvitatura ramo cintura DX;11;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 13
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "17;Avvitatura ramo cintura DX;11;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 32
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "17;Avvitatura ramo cintura DX;11;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;21;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;21;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.53
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;21;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 493
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;21;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;21;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;21;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;21;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.53
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;21;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 116
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;21;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;21;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;23;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;23;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;23;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 69
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;23;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;23;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;26;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;26;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;26;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 205
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;26;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;26;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "22;Avvitatura carter cuscino esterno - balena;27;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "22;Avvitatura carter cuscino esterno - balena;27;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.52
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "22;Avvitatura carter cuscino esterno - balena;27;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 324
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "22;Avvitatura carter cuscino esterno - balena;27;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "22;Avvitatura carter cuscino esterno - balena;27;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "23;Avvitatura viti per plastica;28;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "23;Avvitatura viti per plastica;28;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.54
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "23;Avvitatura viti per plastica;28;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "23;Avvitatura viti per plastica;28;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "23;Avvitatura viti per plastica;28;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica;28;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica;28;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.54
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica;28;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica;28;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica;28;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica;28;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica;28;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.56
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica;28;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 50
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica;28;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica;28;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;30;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;30;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;30;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 520
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;30;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;30;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;30;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;30;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.54
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;30;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 92
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;30;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;30;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;31;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;31;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.53
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;31;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;31;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;31;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;31;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;31;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.52
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;31;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 45
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;31;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;31;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "30;Avvitatura viti per plastica;31;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "30;Avvitatura viti per plastica;31;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 2.51
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "30;Avvitatura viti per plastica;31;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 37
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "30;Avvitatura viti per plastica;31;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "30;Avvitatura viti per plastica;31;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "31;Avvitatura vitE LEVA;33;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "31;Avvitatura vitE LEVA;33;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 34.2
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "31;Avvitatura vitE LEVA;33;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 95
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "31;Avvitatura vitE LEVA;33;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "31;Avvitatura vitE LEVA;33;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "1;Montaggio seeger manopola;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 211.82
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Montaggio seeger manopola;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Controllo con presenza seeger;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Controllo con presenza seeger;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T13:47:53.184Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000031430-02",
+   "serialNumber": "OP000031430-02",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AS1-035",
+   "traceability": [
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "1;AFAS1453LE|OP000031430-02|OP000031430-02;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "2;S309521224;LOTTO GUIDA MANUALE"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "3;S309521224;LOTTO GUIDA MANUALE"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "4;AAAS1120_G270230200011OK;alzasedile"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "5;DIMA PASQUET DX EST;DIMA PASQUET SEDILE DX EST VETTURA"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "6;DIMA PASQUET DX INT;DIMA PASQUET SEDILE DX INT VETTURA"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "7;AFAS1453LE.CU|OP000031430.1-02|OP000031430.1-02;CUSCINO"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "8;AFAS1453LE|OP000031430-02|OP000031430-02;SCHIENALE"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "9;ACAS1011;RAMO CINTURA DRIVER"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "10;ACAS1684;RONDELLA ELASTICA"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "11;ACAS1676;VITE AS1 6W (CORTA)"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "12;RIMOZIONE DIMA CABLAGGIO DX TERMOFORO;DIMA  CABLAGGIO DX TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "13;ACAS1652;CABLAGGIO DX TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "14;RIMOZIONE DIMA CABLAGGIO DX TERMOFORO;RIMOZIONE DIMA CABLAGGIO DX TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "15;360300411262;Tasto termoforo"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "16;AAAS1608TFNO_B;carter balena con termoforo dx"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "17;ACAS1168GI_A;MANOPOLA"
+      },
+      {
+         "timeStamp": "2023-09-28T13:47:53.184Z",
+         "attachments": [],
+         "name": "18;ACAS1010;ARCHETTO"
+      }
+   ],
+   "timeStamp": "2023-09-28T13:47:53.184Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": true,
+   "checkList": [],
+   "operation": "035",
+   "user": "027-TUTG"
+}
+]]]
+
+15:47:58.787> {{{SERVER: Sending to server}}}
+
+15:47:58.863> {{{SERVER: Response code: 400}}}
+
+15:47:58.865> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"ProgressDeclaration - Error: ReworkOrder Not found: ParentOrderNumber = OP000031430-02 Operation = 035 SerialNumber = OP000031430-02 WorkstationId = 81439336-32a8-4804-a669-f52570e6fcec","errorMessageForLogging":"ProgressDeclaration - Error: ReworkOrder Not found: ParentOrderNumber = OP000031430-02 Operation = 035 SerialNumber = OP000031430-02 WorkstationId = 81439336-32a8-4804-a669-f52570e6fcec","errors":["ProgressDeclaration - Error: ReworkOrder Not found: ParentOrderNumber = OP000031430-02 Operation = 035 SerialNumber = OP000031430-02 WorkstationId = 81439336-32a8-4804-a669-f52570e6fcec"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+15:47:58.868> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/qa-sabelt/cg/ProgressDeclaration POST}}}
+
+15:47:58.871> [[[DEBUG: Moving to error: AFAS1453LE AS1-035 - 2023-09-28 15-47-53.txt]]]
+16:06:16.008> [[[DEBUG: Processing start: AFAS1453LE AS1-045 - 2023-09-28 16-06-00.txt]]]
+
+16:06:16.012> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 222.86
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 4148.57
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Funzionamento sensore DPD;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Funzionamento sensore DPD;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "mA",
+         "attachments": [],
+         "name": "3;Verifica termoforo - SB CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 11.62
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Verifica termoforo - SB CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "3;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 4.06
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "4;Leva alzasedile con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 59.67
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Leva alzasedile con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "5;Scorr. guide indietro con 75kg;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 141.25
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Scorr. guide indietro con 75kg;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "6;Scorr. guide indietro con 75kg - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 124.96
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Scorr. guide indietro con 75kg - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "6;Scorr. guide avanti con 75kg;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 139.56
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Scorr. guide avanti con 75kg;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "7;Scorr. guide avanti con 75kg - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 130.35
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Scorr. guide avanti con 75kg - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "7;Scorr. guide indietro a Vuoto;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 85.08
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Scorr. guide indietro a Vuoto;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "8;Scorr. guide indietro a Vuoto - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 86.5
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Scorr. guide indietro a Vuoto - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "8;Scorr. guide avanti a Vuoto;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 93.52
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Scorr. guide avanti a Vuoto;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "9;Scorr. guide avanti a Vuoto - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 84.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Scorr. guide avanti a Vuoto - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "9;Regolazione schienale avanti;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 1.71
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Regolazione schienale avanti;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "10;Regolazione schienale indietro;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": 1.52
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Regolazione schienale indietro;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-28T14:06:00.879Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000031430-02",
+   "serialNumber": "OP000031430-02",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AS1-045",
+   "traceability": [
+      {
+         "timeStamp": "2023-09-28T14:06:00.879Z",
+         "attachments": [],
+         "name": "1;AFAS1453LE|OP000031430-02|OP000031430-02;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2023-09-28T14:06:00.879Z",
+         "attachments": [],
+         "name": "2;Interfaccia DX;Interfaccia leva DX"
+      }
+   ],
+   "timeStamp": "2023-09-28T14:06:00.879Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": true,
+   "checkList": [],
+   "operation": "045",
+   "user": "468-ALFG"
+}
+]]]
+
+16:06:16.015> {{{SERVER: Sending to server}}}
+
+16:06:16.101> {{{SERVER: Response code: 400}}}
+
+16:06:16.104> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"ProgressDeclaration - Error: ReworkOrder Not found: ParentOrderNumber = OP000031430-02 Operation = 045 SerialNumber = OP000031430-02 WorkstationId = 9022adb2-b988-4470-b0b8-752bab3b5fb8","errorMessageForLogging":"ProgressDeclaration - Error: ReworkOrder Not found: ParentOrderNumber = OP000031430-02 Operation = 045 SerialNumber = OP000031430-02 WorkstationId = 9022adb2-b988-4470-b0b8-752bab3b5fb8","errors":["ProgressDeclaration - Error: ReworkOrder Not found: ParentOrderNumber = OP000031430-02 Operation = 045 SerialNumber = OP000031430-02 WorkstationId = 9022adb2-b988-4470-b0b8-752bab3b5fb8"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+16:06:16.107> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/qa-sabelt/cg/ProgressDeclaration POST}}}
+
+16:06:16.110> [[[DEBUG: Moving to error: AFAS1453LE AS1-045 - 2023-09-28 16-06-00.txt]]]

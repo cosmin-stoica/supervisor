@@ -1,0 +1,31 @@
+REPORT ESEMPIO AVVITATURA;
+
+Stabilimento;SABELT;
+Postazione;CP1-010;
+Data e ora;02-08-2022 09:09:09.100;
+Operatore;001-CARS;
+Codice completo;AFSECUP401P|C01082202|001;
+Progressivo;10;
+Tipo postazione;Collaudo;
+Operazione;010;
+
+#RICORDATI DELLA STRINGA DEL CODICE CHE SE VIENE AGGIUNTA UN ALTRA STRINGA CHE TIENE IL TUTTO ALLORA DEVI USARE QUELLA
+
+Barcode componenti;
+ID;Barcode;Descrizione;
+1;CUSCINO DRV SX NERO;CUSCINO DRV SX NERO;
+2;SCHIENALE SX NERO;SCHIENALE SX NERO;
+3;AFSECUP401P|C01082202|002;Ciao test;
+
+Risultati avvitature;
+Vite;Nome Job;ID Job; ID Vite;UCA;Coppia;Angolo;Esito;
+1;Avvitatura nr 4 viti a 33 Nm-MARRIAGE SX;2;1;Cleco LW;33.19;24;OK;
+2;Avvitatura nr 4 viti a 33 Nm-MARRIAGE SX;2;2;Cleco LW;33.06;27;OK;
+3;Avvitatura nr 4 viti a 33 Nm-MARRIAGE SX;2;3;Cleco LW;33.09;22;OK;
+4;Avvitatura nr 4 viti a 33 Nm-MARRIAGE SX;2;4;Cleco LW;33.21;24;OK;
+5;Avvitatura nr 2 viti a 8 Nm-ANIMA METALLICA SX;3;1;Cleco LW;8.04;43;OK;
+6;Avvitatura nr 2 viti a 8 Nm-ANIMA METALLICA SX;3;2;Cleco LW;8.10;20;OK;
+7;Avvitatura nr 2 viti a 8 Nm-SUPPORTO CARTER SX;4;1;Cleco LW;8.02;30;OK;
+8;Avvitatura nr 2 viti a 8 Nm-SUPPORTO CARTER SX;4;2;Cleco LW;8.04;19;OK;
+9;Avvitatura nr 1 vite a 20 Nm-RAMO CINTURA SX;7;1;Cleco LW;20.23;15;OK;
+

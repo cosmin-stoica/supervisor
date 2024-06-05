@@ -1,0 +1,26 @@
+REPORT CUPRA COLLAUDO SCHIENALE;
+
+Stabilimento;SABELT MONCALIERI;
+Postazione;CP-070;
+Tipo postazione;Collaudo;
+Operazione;070;
+Data e ora;09-05-2023 09:57:48.006;
+Operatore;254-ARUG;
+Codice;COLLAUDO 01Srework;
+Progressivo;10700;
+
+Barcode componenti;
+ID;Barcode;Descrizione;
+1;#5FA880241F    ##450313213#061022*672 DU9D0089B6N*=;BAG SX (51);
+2;#5FF881805BD   ##435202385#300123*676 EL80014558.*=;FODERA SX (baugruppen);
+3;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZJYU*=;RAMO CINTURA (52);
+4;#5FA881021B WYF##428502975#090523*755 TOS0010700F*&#5FA880241F    ##450313213#061022*672 DU9D0089B6N*&#5FF881805BD   ##435202385#300123*676 EL80014558.*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZJYU*=;etichetta BAUGRUPPEN (205);
+
+Risultati collaudo;
+ID:;Nome job:;Valore finale:;Esito;
+1;Funzionamento ramo cintura - Linguetta disinserita;220.73 Ohm;OK;
+1;Funzionamento ramo cintura - Linguetta inserita;818.49 Ohm;OK;
+2;Funzionamento Sidebag;2.23 Ohm;OK;
+3;Verifica termoforo - HT CRT;4.89 A;OK;
+3;Verifica termoforo - SNS RES;8193.19 Ohm;OK;
+

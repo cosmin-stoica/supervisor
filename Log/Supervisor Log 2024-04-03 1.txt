@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+14:48:33.148> [[[DEBUG: Processing start: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+14:48:33.221> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T09:10:57.510Z",
+   "orderNumber": "OP000055176.1-01",
+   "serialNumber": "OP000055176.1-01",
+   "workstation": "ML1-0050",
+   "operation": "0050",
+   "user": "438-LEOV"
+}
+]]]
+
+14:48:33.228> {{{SERVER: Sending to server}}}
+
+14:48:39.322> {{{SERVER: Response code: 200}}}
+
+14:48:39.330> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+14:48:39.340> {{{SERVER: Request data: https://localhost:443/sabelt/cg/AvvioFase POST}}}
+
+14:48:39.352> [[[DEBUG: Moving to sent: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+14:48:39.360> [[[DEBUG: Processing end: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+
+
+
+
+
+
+14:49:45.506> [[[DEBUG: Processing start: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+14:49:45.517> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+14:49:45.527> {{{SERVER: Sending to server}}}
+
+14:49:51.589> {{{SERVER: Response code: 400}}}
+
+14:49:51.597> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+14:49:51.605> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+14:49:51.618> [[[DEBUG: Moving to error: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+14:49:51.624> [[[DEBUG: Processing end: Login ML1-005B - 2024-04-03 10-55-28.txt]]]

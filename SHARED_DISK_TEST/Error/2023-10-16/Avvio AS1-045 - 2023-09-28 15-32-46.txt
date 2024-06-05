@@ -1,0 +1,8 @@
+REPORT BANCO ESEMPIO AVVITATURA;
+
+Stabilimento;SABELT;
+Postazione;CP1-010;
+Data e ora;02-08-2022 09:09:09.100;
+Operatore;001-CARS;
+Codice;AFSECUP401P|C01082202|001;
+Progressivo;10;

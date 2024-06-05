@@ -1,0 +1,48 @@
+REPORT MASERATI SELLATURA;
+
+Postazione;MS1-069;
+Tipo postazione;Montaggio;
+Operazione;069;
+Operatore;024-LEOC;
+Codice;AFM240CEPSVYY704YR;
+Codice completo;AFM240CEPSVYY704YR|OP000014054-02|OP000014054-02;
+Data e ora;22-05-2023 08:42:56.460;
+
+Barcode componenti;
+ID;Barcode;Descrizione;
+1;AFM240CEPSVYY704YR|OP000014054-02|OP000014054-02;SCHIENALE;
+2;AAM240031 S/N002122;Schienale nero dx;
+3;ACM240104_C/834;Cablaggio;
+4;AAP13034;Lombare;
+5;8583403 A15 ASM PUMP 4W 0005006 M8D4 20230204 2 1198;Motore Lombare;
+6;ACM240013_B A8.8;Termoforo;
+7;ACM240704YSDXR_D03312301223000026098;Fodera;
+
+Risultati avvitature;
+Vite;Nome Job;ID Job; ID Vite;UCA;Coppia;Angolo;GP;Esito;
+1;Pre avvitatura viti snodi su schienale;5;1;Cleco;4.05;296;1;OK;
+2;Pre avvitatura viti snodi su schienale;5;2;Cleco;4.25;4;1;OK;
+3;Pre avvitatura viti snodi su schienale;5;3;Cleco;4.02;103;1;OK;
+4;Pre avvitatura viti snodi su schienale;5;4;Cleco;4.04;319;2;OK;
+5;Pre avvitatura viti snodi su schienale;5;5;Cleco;4.07;316;2;OK;
+6;Pre avvitatura viti snodi su schienale;5;6;Cleco;4.03;19;2;OK;
+7;Avvitatura viti attuatore;10;1;Cleco;9.05;102;2;OK;
+
+Risultati collaudo;
+ID:;Nome job:;Valore finale:;Esito;
+1;Montaggio seeger manopola SX;549.51 N;OK;
+2;Verifica funzionamento termoforo - HT CRT;6.81 A;OK;
+3;Verifica funzionamento termoforo - HT CRT;6.82 A;OK;
+
+Controlli;
+ID;Nome job;Nome Variabile;Valore;Esito;
+1;Conformità cuciture cuscino;;;OK
+2;Controllo assorbimento termoforo;Corrente assorbita;6.81 A;OK;
+3;Controllo forza manopola seeger;Resistenza applicata;549.51 N;OK;
+4;Controllo viti fissate;Numero viti;5;OK;
+
+
+
+
+
+

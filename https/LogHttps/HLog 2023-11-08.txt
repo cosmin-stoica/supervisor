@@ -1,0 +1,1024 @@
+
+10:02:18.680> Extracting Checks...
+
+10:02:18.682> Extracting Barcodes...
+
+10:02:18.683> Extracting Variables...
+
+10:02:18.685> {{{SERVER: Sending to the Server...}}}
+
+10:02:18.977> {{{SERVER: Response Code: 200}}}
+
+10:02:18.980> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.065> {{{SERVER: Response Code: 200}}}
+
+10:02:19.065> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.164> {{{SERVER: Response Code: 200}}}
+
+10:02:19.165> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.252> {{{SERVER: Response Code: 200}}}
+
+10:02:19.254> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.329> {{{SERVER: Response Code: 200}}}
+
+10:02:19.331> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.407> {{{SERVER: Response Code: 200}}}
+
+10:02:19.408> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.480> {{{SERVER: Response Code: 200}}}
+
+10:02:19.480> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.567> {{{SERVER: Response Code: 200}}}
+
+10:02:19.568> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.633> {{{SERVER: Response Code: 200}}}
+
+10:02:19.634> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.703> {{{SERVER: Response Code: 200}}}
+
+10:02:19.705> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.783> {{{SERVER: Response Code: 200}}}
+
+10:02:19.784> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.878> {{{SERVER: Response Code: 200}}}
+
+10:02:19.879> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:19.952> {{{SERVER: Response Code: 200}}}
+
+10:02:19.953> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.022> {{{SERVER: Response Code: 200}}}
+
+10:02:20.023> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.097> {{{SERVER: Response Code: 200}}}
+
+10:02:20.098> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.189> {{{SERVER: Response Code: 200}}}
+
+10:02:20.190> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.273> {{{SERVER: Response Code: 200}}}
+
+10:02:20.274> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.352> {{{SERVER: Response Code: 200}}}
+
+10:02:20.352> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.434> {{{SERVER: Response Code: 200}}}
+
+10:02:20.436> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.514> {{{SERVER: Response Code: 200}}}
+
+10:02:20.515> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.592> {{{SERVER: Response Code: 200}}}
+
+10:02:20.593> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.685> {{{SERVER: Response Code: 200}}}
+
+10:02:20.686> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.765> {{{SERVER: Response Code: 200}}}
+
+10:02:20.767> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.843> {{{SERVER: Response Code: 200}}}
+
+10:02:20.843> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.919> {{{SERVER: Response Code: 200}}}
+
+10:02:20.921> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:20.995> {{{SERVER: Response Code: 200}}}
+
+10:02:20.996> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.082> {{{SERVER: Response Code: 200}}}
+
+10:02:21.084> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.161> {{{SERVER: Response Code: 200}}}
+
+10:02:21.162> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.240> {{{SERVER: Response Code: 200}}}
+
+10:02:21.242> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.317> {{{SERVER: Response Code: 200}}}
+
+10:02:21.318> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.396> {{{SERVER: Response Code: 200}}}
+
+10:02:21.398> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.479> {{{SERVER: Response Code: 200}}}
+
+10:02:21.481> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.598> {{{SERVER: Response Code: 200}}}
+
+10:02:21.599> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.709> {{{SERVER: Response Code: 200}}}
+
+10:02:21.710> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.786> {{{SERVER: Response Code: 200}}}
+
+10:02:21.788> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.857> {{{SERVER: Response Code: 200}}}
+
+10:02:21.858> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:21.951> {{{SERVER: Response Code: 200}}}
+
+10:02:21.952> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.043> {{{SERVER: Response Code: 200}}}
+
+10:02:22.044> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.122> {{{SERVER: Response Code: 200}}}
+
+10:02:22.123> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.195> {{{SERVER: Response Code: 200}}}
+
+10:02:22.196> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.280> {{{SERVER: Response Code: 200}}}
+
+10:02:22.282> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.377> {{{SERVER: Response Code: 200}}}
+
+10:02:22.378> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.444> {{{SERVER: Response Code: 200}}}
+
+10:02:22.445> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.522> {{{SERVER: Response Code: 200}}}
+
+10:02:22.523> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.604> {{{SERVER: Response Code: 200}}}
+
+10:02:22.605> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.683> {{{SERVER: Response Code: 200}}}
+
+10:02:22.684> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.770> {{{SERVER: Response Code: 200}}}
+
+10:02:22.771> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.850> {{{SERVER: Response Code: 200}}}
+
+10:02:22.851> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.926> {{{SERVER: Response Code: 200}}}
+
+10:02:22.927> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:22.997> {{{SERVER: Response Code: 200}}}
+
+10:02:22.998> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:23.071> {{{SERVER: Response Code: 200}}}
+
+10:02:23.072> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:02:23.140> {{{SERVER: Response Code: 200}}}
+
+10:02:23.141> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:28.396> [[[DEBUG: Extracting Checks...]]]
+
+10:54:28.399> [[[DEBUG: Extracting Barcodes...]]]
+
+10:54:28.402> [[[DEBUG: Extracting Variables...]]]
+
+10:54:28.407> {{{SERVER: Sending to the Server...}}}
+
+10:54:30.864> {{{SERVER: Response Code: 200 For Element: {"UoM":"null","variableName":"null","orderNumber":"OP000014054-02","isFailed":"false","workstation":"MS1-069","step":"1;Conformità cuciture cuscino","value":0,"user":"024-LEOC"}}}}
+
+10:54:30.867> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:30.940> {{{SERVER: Response Code: 200 For Element: {"UoM":"A","variableName":"Corrente assorbita","orderNumber":"OP000014054-02","isFailed":"false","workstation":"MS1-069","step":"2;Controllo assorbimento termoforo","value":6.81,"user":"024-LEOC"}}}}
+
+10:54:30.940> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.019> {{{SERVER: Response Code: 200 For Element: {"UoM":"N","variableName":"Resistenza applicata","orderNumber":"OP000014054-02","isFailed":"false","workstation":"MS1-069","step":"3;Controllo forza manopola seeger","value":549.51,"user":"024-LEOC"}}}}
+
+10:54:31.020> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.084> {{{SERVER: Response Code: 200 For Element: {"UoM":"null","variableName":"Numero viti","orderNumber":"OP000014054-02","isFailed":"false","workstation":"MS1-069","step":"4;Controllo viti fissate","value":5,"user":"024-LEOC"}}}}
+
+10:54:31.085> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.155> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"1;AFM240CEPSVYY704YR|OP000014054-02|OP000014054-02;SCHIENALE","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:54:31.156> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.222> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"2;AAM240031 S/N002122;Schienale nero dx","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:54:31.223> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.299> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"3;ACM240104_C/834;Cablaggio","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:54:31.300> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.375> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"4;AAP13034;Lombare","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:54:31.376> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.449> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"5;8583403 A15 ASM PUMP 4W 0005006 M8D4 20230204 2 1198;Motore Lombare","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:54:31.450> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.523> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"6;ACM240013_B A8.8;Termoforo","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:54:31.524> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.596> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"7;ACM240704YSDXR_D03312301223000026098;Fodera","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:54:31.597> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.682> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:54:31.683> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.798> {{{SERVER: Response Code: 200 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;Coppia","workstation":"MS1-069","type":0,"value":4.05,"user":"024-LEOC"}}}}
+
+10:54:31.799> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.872> {{{SERVER: Response Code: 200 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;Angolo","workstation":"MS1-069","type":0,"value":296,"user":"024-LEOC"}}}}
+
+10:54:31.873> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:31.945> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;GP","workstation":"MS1-069","type":0,"value":1,"user":"024-LEOC"}}}}
+
+10:54:31.946> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.023> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:32.024> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.089> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:54:32.091> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.167> {{{SERVER: Response Code: 200 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;Coppia","workstation":"MS1-069","type":0,"value":4.25,"user":"024-LEOC"}}}}
+
+10:54:32.168> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.256> {{{SERVER: Response Code: 200 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;Angolo","workstation":"MS1-069","type":0,"value":4,"user":"024-LEOC"}}}}
+
+10:54:32.257> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.334> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;GP","workstation":"MS1-069","type":0,"value":1,"user":"024-LEOC"}}}}
+
+10:54:32.335> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.453> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:32.454> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.527> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:54:32.528> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.600> {{{SERVER: Response Code: 200 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;Coppia","workstation":"MS1-069","type":0,"value":4.02,"user":"024-LEOC"}}}}
+
+10:54:32.600> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.676> {{{SERVER: Response Code: 200 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;Angolo","workstation":"MS1-069","type":0,"value":103,"user":"024-LEOC"}}}}
+
+10:54:32.676> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.780> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;GP","workstation":"MS1-069","type":0,"value":1,"user":"024-LEOC"}}}}
+
+10:54:32.781> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.862> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:32.863> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:32.940> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:54:32.941> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.041> {{{SERVER: Response Code: 200 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;Coppia","workstation":"MS1-069","type":0,"value":4.04,"user":"024-LEOC"}}}}
+
+10:54:33.041> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.113> {{{SERVER: Response Code: 200 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;Angolo","workstation":"MS1-069","type":0,"value":319,"user":"024-LEOC"}}}}
+
+10:54:33.114> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.191> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;GP","workstation":"MS1-069","type":0,"value":2,"user":"024-LEOC"}}}}
+
+10:54:33.193> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.263> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:33.264> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.349> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:54:33.350> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.442> {{{SERVER: Response Code: 200 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;Coppia","workstation":"MS1-069","type":0,"value":4.07,"user":"024-LEOC"}}}}
+
+10:54:33.442> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.521> {{{SERVER: Response Code: 200 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;Angolo","workstation":"MS1-069","type":0,"value":316,"user":"024-LEOC"}}}}
+
+10:54:33.521> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.598> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;GP","workstation":"MS1-069","type":0,"value":2,"user":"024-LEOC"}}}}
+
+10:54:33.599> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.674> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:33.674> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.741> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:54:33.742> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.816> {{{SERVER: Response Code: 200 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;Coppia","workstation":"MS1-069","type":0,"value":4.03,"user":"024-LEOC"}}}}
+
+10:54:33.817> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.912> {{{SERVER: Response Code: 200 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;Angolo","workstation":"MS1-069","type":0,"value":19,"user":"024-LEOC"}}}}
+
+10:54:33.914> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:33.997> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;GP","workstation":"MS1-069","type":0,"value":2,"user":"024-LEOC"}}}}
+
+10:54:33.998> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.071> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:34.072> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.143> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:54:34.144> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.217> {{{SERVER: Response Code: 200 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;Coppia","workstation":"MS1-069","type":0,"value":9.05,"user":"024-LEOC"}}}}
+
+10:54:34.219> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.293> {{{SERVER: Response Code: 200 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;Angolo","workstation":"MS1-069","type":0,"value":102,"user":"024-LEOC"}}}}
+
+10:54:34.294> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.366> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;GP","workstation":"MS1-069","type":0,"value":2,"user":"024-LEOC"}}}}
+
+10:54:34.367> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.439> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:34.440> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.522> {{{SERVER: Response Code: 200 For Element: {"UoM":"N","orderNumber":"OP000014054-02","name":"1;Montaggio seeger manopola SX;Prova","workstation":"MS1-069","type":0,"value":549.51,"user":"024-LEOC"}}}}
+
+10:54:34.522> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.600> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"1;Montaggio seeger manopola SX;Esito","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:34.601> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.682> {{{SERVER: Response Code: 200 For Element: {"UoM":"A","orderNumber":"OP000014054-02","name":"2;Verifica funzionamento termoforo - HT CRT;Prova","workstation":"MS1-069","type":0,"value":6.81,"user":"024-LEOC"}}}}
+
+10:54:34.682> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.757> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"2;Verifica funzionamento termoforo - HT CRT;Esito","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:34.757> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.837> {{{SERVER: Response Code: 200 For Element: {"UoM":"A","orderNumber":"OP000014054-02","name":"3;Verifica funzionamento termoforo - HT CRT;Prova","workstation":"MS1-069","type":0,"value":6.82,"user":"024-LEOC"}}}}
+
+10:54:34.837> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:54:34.945> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"3;Verifica funzionamento termoforo - HT CRT;Esito","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:54:34.946> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:52.143> [[[DEBUG: Extracting Checks...]]]
+
+10:56:52.144> [[[DEBUG: Extracting Barcodes...]]]
+
+10:56:52.144> [[[DEBUG: Extracting Variables...]]]
+
+10:56:52.146> {{{SERVER: Sending to the Server...}}}
+
+10:56:52.301> {{{SERVER: Response Code: 200 For Element: {"UoM":"null","variableName":"null","orderNumber":"OP000014054-02","isFailed":"false","workstation":"MS1-069","step":"1;Conformità cuciture cuscino","value":0,"user":"024-LEOC"}}}}
+
+10:56:52.302> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:52.372> {{{SERVER: Response Code: 200 For Element: {"UoM":"A","variableName":"Corrente assorbita","orderNumber":"OP000014054-02","isFailed":"false","workstation":"MS1-069","step":"2;Controllo assorbimento termoforo","value":6.81,"user":"024-LEOC"}}}}
+
+10:56:52.373> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:52.452> {{{SERVER: Response Code: 200 For Element: {"UoM":"N","variableName":"Resistenza applicata","orderNumber":"OP000014054-02","isFailed":"false","workstation":"MS1-069","step":"3;Controllo forza manopola seeger","value":549.51,"user":"024-LEOC"}}}}
+
+10:56:52.453> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:52.534> {{{SERVER: Response Code: 200 For Element: {"UoM":"null","variableName":"Numero viti","orderNumber":"OP000014054-02","isFailed":"false","workstation":"MS1-069","step":"4;Controllo viti fissate","value":5,"user":"024-LEOC"}}}}
+
+10:56:52.535> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:52.626> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"1;AFM240CEPSVYY704YR|OP000014054-02|OP000014054-02;SCHIENALE","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:56:52.627> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:52.714> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"2;AAM240031 S/N002122;Schienale nero dx","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:56:52.714> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:52.813> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"3;ACM240104_C/834;Cablaggio","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:56:52.814> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:52.881> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"4;AAP13034;Lombare","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:56:52.881> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:52.969> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"5;8583403 A15 ASM PUMP 4W 0005006 M8D4 20230204 2 1198;Motore Lombare","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:56:52.970> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:53.083> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"6;ACM240013_B A8.8;Termoforo","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:56:53.084> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:53.182> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"OP000014054-02","name":"7;ACM240704YSDXR_D03312301223000026098;Fodera","workstation":"MS1-069","user":"024-LEOC"}}}}
+
+10:56:53.183> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+10:56:53.282> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:56:53.284> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:53.387> {{{SERVER: Response Code: 404 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;Coppia","workstation":"MS1-069","type":0,"value":4.05,"user":"024-LEOC"}}}}
+
+10:56:53.388> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:53.503> {{{SERVER: Response Code: 404 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;Angolo","workstation":"MS1-069","type":0,"value":296,"user":"024-LEOC"}}}}
+
+10:56:53.504> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:53.596> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;GP","workstation":"MS1-069","type":0,"value":1,"user":"024-LEOC"}}}}
+
+10:56:53.597> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:53.692> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"1;Pre avvitatura viti snodi su schienale;5;1;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:53.693> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:53.809> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:56:53.810> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:53.901> {{{SERVER: Response Code: 404 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;Coppia","workstation":"MS1-069","type":0,"value":4.25,"user":"024-LEOC"}}}}
+
+10:56:53.901> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:53.998> {{{SERVER: Response Code: 404 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;Angolo","workstation":"MS1-069","type":0,"value":4,"user":"024-LEOC"}}}}
+
+10:56:53.999> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:54.097> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;GP","workstation":"MS1-069","type":0,"value":1,"user":"024-LEOC"}}}}
+
+10:56:54.098> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:54.192> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"2;Pre avvitatura viti snodi su schienale;5;2;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:54.193> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:54.294> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:56:54.295> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:54.392> {{{SERVER: Response Code: 404 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;Coppia","workstation":"MS1-069","type":0,"value":4.02,"user":"024-LEOC"}}}}
+
+10:56:54.393> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:54.501> {{{SERVER: Response Code: 404 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;Angolo","workstation":"MS1-069","type":0,"value":103,"user":"024-LEOC"}}}}
+
+10:56:54.502> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:54.601> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;GP","workstation":"MS1-069","type":0,"value":1,"user":"024-LEOC"}}}}
+
+10:56:54.602> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:54.698> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"3;Pre avvitatura viti snodi su schienale;5;3;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:54.699> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:54.788> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:56:54.789> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:54.918> {{{SERVER: Response Code: 404 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;Coppia","workstation":"MS1-069","type":0,"value":4.04,"user":"024-LEOC"}}}}
+
+10:56:54.919> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.026> {{{SERVER: Response Code: 404 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;Angolo","workstation":"MS1-069","type":0,"value":319,"user":"024-LEOC"}}}}
+
+10:56:55.027> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.128> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;GP","workstation":"MS1-069","type":0,"value":2,"user":"024-LEOC"}}}}
+
+10:56:55.129> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.230> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"4;Pre avvitatura viti snodi su schienale;5;4;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:55.231> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.328> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:56:55.329> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.417> {{{SERVER: Response Code: 404 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;Coppia","workstation":"MS1-069","type":0,"value":4.07,"user":"024-LEOC"}}}}
+
+10:56:55.418> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.514> {{{SERVER: Response Code: 404 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;Angolo","workstation":"MS1-069","type":0,"value":316,"user":"024-LEOC"}}}}
+
+10:56:55.515> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.621> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;GP","workstation":"MS1-069","type":0,"value":2,"user":"024-LEOC"}}}}
+
+10:56:55.621> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.719> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"5;Pre avvitatura viti snodi su schienale;5;5;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:55.720> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.822> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:56:55.823> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:55.921> {{{SERVER: Response Code: 404 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;Coppia","workstation":"MS1-069","type":0,"value":4.03,"user":"024-LEOC"}}}}
+
+10:56:55.921> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.023> {{{SERVER: Response Code: 404 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;Angolo","workstation":"MS1-069","type":0,"value":19,"user":"024-LEOC"}}}}
+
+10:56:56.024> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.129> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;GP","workstation":"MS1-069","type":0,"value":2,"user":"024-LEOC"}}}}
+
+10:56:56.129> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.216> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"6;Pre avvitatura viti snodi su schienale;5;6;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:56.216> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.306> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;UCA","workstation":"MS1-069","type":1,"value":"Cleco","user":"024-LEOC"}}}}
+
+10:56:56.307> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.400> {{{SERVER: Response Code: 404 For Element: {"UoM":"Nm","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;Coppia","workstation":"MS1-069","type":0,"value":9.05,"user":"024-LEOC"}}}}
+
+10:56:56.401> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.507> {{{SERVER: Response Code: 404 For Element: {"UoM":"Deg","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;Angolo","workstation":"MS1-069","type":0,"value":102,"user":"024-LEOC"}}}}
+
+10:56:56.508> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.634> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;GP","workstation":"MS1-069","type":0,"value":2,"user":"024-LEOC"}}}}
+
+10:56:56.634> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.736> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"7;Avvitatura viti attuatore;10;1;ESITO","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:56.737> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.843> {{{SERVER: Response Code: 404 For Element: {"UoM":"N","orderNumber":"OP000014054-02","name":"1;Montaggio seeger manopola SX;Prova","workstation":"MS1-069","type":0,"value":549.51,"user":"024-LEOC"}}}}
+
+10:56:56.843> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:56.938> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"1;Montaggio seeger manopola SX;Esito","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:56.939> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:57.048> {{{SERVER: Response Code: 404 For Element: {"UoM":"A","orderNumber":"OP000014054-02","name":"2;Verifica funzionamento termoforo - HT CRT;Prova","workstation":"MS1-069","type":0,"value":6.81,"user":"024-LEOC"}}}}
+
+10:56:57.049> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:57.151> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"2;Verifica funzionamento termoforo - HT CRT;Esito","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:57.152> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:57.251> {{{SERVER: Response Code: 404 For Element: {"UoM":"A","orderNumber":"OP000014054-02","name":"3;Verifica funzionamento termoforo - HT CRT;Prova","workstation":"MS1-069","type":0,"value":6.82,"user":"024-LEOC"}}}}
+
+10:56:57.252> {{{ERROR: Errore nella risposta del server: 404}}}
+
+10:56:57.339> {{{SERVER: Response Code: 404 For Element: {"UoM":"","orderNumber":"OP000014054-02","name":"3;Verifica funzionamento termoforo - HT CRT;Esito","workstation":"MS1-069","type":1,"value":"OK","user":"024-LEOC"}}}}
+
+10:56:57.339> {{{ERROR: Errore nella risposta del server: 404}}}
+
+11:02:09.564> [[[DEBUG: Extracting Checks...]]]
+
+11:02:09.566> [[[DEBUG: Extracting Barcodes...]]]
+
+11:02:09.568> [[[DEBUG: Extracting Variables...]]]
+
+11:02:09.570> {{{SERVER: Sending to the Server...}}}
+
+11:02:09.855> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"","name":"1;AFSECUP402S|OP000011283|OP000011283-017;ETICHETTA MES","workstation":"CP-070","user":"002-LAFM"}}}}
+
+11:02:09.858> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:09.932> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"","name":"2;#5FA880242F    ##450313213#141022*673 DU9D008BU3%*=;BAG DX (51)","workstation":"CP-070","user":"002-LAFM"}}}}
+
+11:02:09.932> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.025> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"","name":"3;#5FF881806BE   ##435202385#300123*677 EL80014523U*=;FODERA DX (baugruppen)","workstation":"CP-070","user":"002-LAFM"}}}}
+
+11:02:10.026> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.098> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"","name":"4;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;RAMO CINTURA (52)","workstation":"CP-070","user":"002-LAFM"}}}}
+
+11:02:10.099> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.168> {{{SERVER: Response Code: 200 For Element: {"orderNumber":"","name":"5;#5FA881022D WYF##428502975#090523*756 TOS0010714L*&#5FA880242F    ##450313213#141022*673 DU9D008BU3%*&#5FF881806BE   ##435202385#300123*677 EL80014523U*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;etichetta BAUGRUPPEN (205)","workstation":"CP-070","user":"002-LAFM"}}}}
+
+11:02:10.169> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.252> {{{SERVER: Response Code: 200 For Element: {"UoM":"Ohm","orderNumber":"","name":"1;Funzionamento ramo cintura - Linguetta disinserita;Prova","workstation":"CP-070","type":0,"value":220.73,"user":"002-LAFM"}}}}
+
+11:02:10.253> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.326> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"","name":"1;Funzionamento ramo cintura - Linguetta disinserita;Esito","workstation":"CP-070","type":1,"value":"OK","user":"002-LAFM"}}}}
+
+11:02:10.327> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.403> {{{SERVER: Response Code: 200 For Element: {"UoM":"Ohm","orderNumber":"","name":"1;Funzionamento ramo cintura - Linguetta inserita;Prova","workstation":"CP-070","type":0,"value":818.49,"user":"002-LAFM"}}}}
+
+11:02:10.404> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.471> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"","name":"1;Funzionamento ramo cintura - Linguetta inserita;Esito","workstation":"CP-070","type":1,"value":"OK","user":"002-LAFM"}}}}
+
+11:02:10.472> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.552> {{{SERVER: Response Code: 200 For Element: {"UoM":"Ohm","orderNumber":"","name":"2;1 - Prova SBR senza peso;Prova","workstation":"CP-070","type":0,"value":404.36,"user":"002-LAFM"}}}}
+
+11:02:10.554> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.622> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"","name":"2;1 - Prova SBR senza peso;Esito","workstation":"CP-070","type":1,"value":"OK","user":"002-LAFM"}}}}
+
+11:02:10.623> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.695> {{{SERVER: Response Code: 200 For Element: {"UoM":"Ohm","orderNumber":"","name":"3;2 - Prova SBR con peso leggero;Prova","workstation":"CP-070","type":0,"value":404.36,"user":"002-LAFM"}}}}
+
+11:02:10.696> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.762> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"","name":"3;2 - Prova SBR con peso leggero;Esito","workstation":"CP-070","type":1,"value":"OK","user":"002-LAFM"}}}}
+
+11:02:10.763> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.828> {{{SERVER: Response Code: 200 For Element: {"UoM":"Ohm","orderNumber":"","name":"4;3 - Prova SBR con peso;Prova","workstation":"CP-070","type":0,"value":101.41,"user":"002-LAFM"}}}}
+
+11:02:10.829> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.908> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"","name":"4;3 - Prova SBR con peso;Esito","workstation":"CP-070","type":1,"value":"OK","user":"002-LAFM"}}}}
+
+11:02:10.909> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:10.991> {{{SERVER: Response Code: 200 For Element: {"UoM":"Ohm","orderNumber":"","name":"5;4 - Prova SBR senza peso;Prova","workstation":"CP-070","type":0,"value":404.36,"user":"002-LAFM"}}}}
+
+11:02:10.992> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:11.056> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"","name":"5;4 - Prova SBR senza peso;Esito","workstation":"CP-070","type":1,"value":"OK","user":"002-LAFM"}}}}
+
+11:02:11.056> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:11.133> {{{SERVER: Response Code: 200 For Element: {"UoM":"Ohm","orderNumber":"","name":"6;Funzionamento Sidebag;Prova","workstation":"CP-070","type":0,"value":2.11,"user":"002-LAFM"}}}}
+
+11:02:11.134> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:11.212> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"","name":"6;Funzionamento Sidebag;Esito","workstation":"CP-070","type":1,"value":"OK","user":"002-LAFM"}}}}
+
+11:02:11.212> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:11.286> {{{SERVER: Response Code: 200 For Element: {"UoM":"A","orderNumber":"","name":"7;Verifica termoforo - HT CRT;Prova","workstation":"CP-070","type":0,"value":6.17,"user":"002-LAFM"}}}}
+
+11:02:11.287> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:11.358> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"","name":"7;Verifica termoforo - HT CRT;Esito","workstation":"CP-070","type":1,"value":"OK","user":"002-LAFM"}}}}
+
+11:02:11.358> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:11.442> {{{SERVER: Response Code: 200 For Element: {"UoM":"Ohm","orderNumber":"","name":"7;Verifica termoforo - SNS RES;Prova","workstation":"CP-070","type":0,"value":8010.54,"user":"002-LAFM"}}}}
+
+11:02:11.443> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+11:02:11.514> {{{SERVER: Response Code: 200 For Element: {"UoM":"","orderNumber":"","name":"7;Verifica termoforo - SNS RES;Esito","workstation":"CP-070","type":1,"value":"OK","user":"002-LAFM"}}}}
+
+11:02:11.515> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+12:28:55.699> {{{SERVER: Response Code: 200 For Element: {"tipo":["DEBUG"],"descrizione":["DEBUG: Processing start: AFAS1453LE AS1-300 - 2023-09-28 15-23-56.txt"],"data":["15:23:19.962"],"linea":["Scanteq"]}}}}
+
+12:28:55.704> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:29:47.892> {{{SERVER: Response Code: 200 For Element: {"tipo":["DEBUG"],"descrizione":["DEBUG: Processing start: AFAS1453LE AS1-300 - 2023-09-28 15-23-56.txt"],"data":["15:23:19.962"],"linea":["Scanteq"]}}}}
+
+12:29:47.898> {{{SERVER: Server Response: }}}
+
+12:30:55.748> {{{SERVER: Response Code: 200 For Element: {"tipo":["DEBUG"],"descrizione":["DEBUG: Processing start: AFAS1453LE AS1-300 - 2023-09-28 15-23-56.txt"],"data":["15:23:19.962"],"linea":["Scanteq"]}}}}
+
+12:30:55.754> {{{SERVER: Server Response: }}}
+
+12:31:25.728> {{{SERVER: Response Code: 200 For Element: {"tipo":["DEBUG"],"descrizione":["DEBUG: Processing start: AFAS1453LE AS1-300 - 2023-09-28 15-23-56.txt"],"data":["15:23:19.962"],"linea":["Scanteq"]}}}}
+
+12:31:25.734> {{{SERVER: Server Response: {"error":"Campi mancanti nel JSON"}}}}
+
+12:32:21.952> {{{SERVER: Response Code: 200 For Element: {"tipo":["DEBUG"],"descrizione":["DEBUG: Processing start: AFAS1453LE AS1-300 - 2023-09-28 15-23-56.txt"],"data":["15:23:19.962"],"linea":["Scanteq"]}}}}
+
+12:32:21.958> {{{SERVER: Server Response: {"error":"Campi mancanti nel JSON"}}}}
+
+12:34:23.140> {{{SERVER: Response Code: 200 For Element: {"tipo":["DEBUG"],"descrizione":["DEBUG: Processing start: AFAS1453LE AS1-300 - 2023-09-28 15-23-56.txt"],"data":["15:23:19.962"],"linea":["Scanteq"]}}}}
+
+12:34:23.146> {{{SERVER: Server Response: {"error":"Campi mancanti nel JSON"}}}}
+
+12:34:38.742> {{{SERVER: Response Code: 200 For Element: {"tipo":["DEBUG"],"descrizione":["DEBUG: Processing start: AFAS1453LE AS1-300 - 2023-09-28 15-23-56.txt"],"data":["15:23:19.962"],"linea":["Scanteq"]}}}}
+
+12:34:38.749> {{{SERVER: Server Response: {"error":"Campi mancanti nel JSON"}}}}
+
+12:35:13.747> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Client created with base: https://localhost:443"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:35:13.750> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:35:13.836> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Https client enabled"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:35:13.837> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:38:09.380> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Client created with base: https://localhost:443"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:38:09.383> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:38:09.460> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Https client disabled"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:38:09.460> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:35.755> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["DEBUG: Processing start: Avvio.csvDEBUG.txt"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:39:35.756> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:35.889> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["0, -1) out of bounds for length 0"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:39:35.890> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:35.956> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["ERROR: CsvReader::getOrderNumber->Invalid Order Number:"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:39:35.957> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:36.035> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["JSON \n[[[DEBUG: JSON is:\n{\n   \"timeStamp\": \"2022-08-02T07:09:09.100Z\",\n   \"orderNumber\": \"\",\n   \"serialNumber\": \"\",\n   \"workstation\": \"CP1-010\",\n   \"operation\": \"\",\n   \"user\": \"001-CARS\"\n}\n]]]\n"],"data":["07:09:09.100"],"linea":["Scanteq"]}}}}
+
+12:39:36.035> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:36.139> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Sending to server"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:39:36.140> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:42.309> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Response code: 200"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:39:42.310> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:42.396> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":[""],"data":[null],"linea":["Scanteq"]}}}}
+
+12:39:42.397> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:42.492> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Request data: https://localhost:443/qa-sabelt/cg/AvvioFase POST"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:39:42.493> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:42.581> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["DEBUG: Moving to sent: Avvio.csvDEBUG.txt"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:39:42.582> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:39:42.686> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["DEBUG: Processing end: Avvio.csvDEBUG.txt"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:39:42.687> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:40:19.056> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Client created with base: https://localhost:443"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:40:19.058> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:40:19.222> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Https client disabled"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:40:19.223> {{{SERVER: Server Response: <br /><b>Parse error</b>:  syntax error, unexpected token &quot;{&quot; in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>20</b><br />}}}
+
+12:43:05.551> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["DEBUG: Processing start: Default CSV 2.txtDEBUG.txt"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:43:05.552> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:43:05.771> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["JSON \n[[[DEBUG: JSON is:\n{\n   \"variables\": [\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.05\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 296\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.25\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.02\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 103\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.04\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 319\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.07\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 316\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.03\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 19\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 9.05\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 102\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"N\",\n         \"attachments\": [],\n         \"name\": \"1;Montaggio seeger manopola SX;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 549.51\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Montaggio seeger manopola SX;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"attachments\": [],\n         \"name\": \"2;Verifica funzionamento termoforo - HT CRT;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 6.81\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Verifica funzionamento termoforo - HT CRT;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"attachments\": [],\n         \"name\": \"3;Verifica funzionamento termoforo - HT CRT;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 6.82\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Verifica funzionamento termoforo - HT CRT;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      }\n   ],\n   \"orderNumber\": \"OP000014054-02\",\n   \"serialNumber\": \"OP000014054-02\",\n   \"attachments\": [],\n   \"scraps\": [],\n   \"workstation\": \"MS1-069\",\n   \"traceability\": [\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"1;AFM240CEPSVYY704YR|OP000014054-02|OP000014054-02;SCHIENALE\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"2;AAM240031 S/N002122;Schienale nero dx\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"3;ACM240104_C/834;Cablaggio\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"4;AAP13034;Lombare\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"5;8583403 A15 ASM PUMP 4W 0005006 M8D4 20230204 2 1198;Motore Lombare\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"6;ACM240013_B A8.8;Termoforo\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"7;ACM240704YSDXR_D03312301223000026098;Fodera\"\n      }\n   ],\n   \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n   \"huCode\": null,\n   \"okQty\": 1,\n   \"consumptions\": [],\n   \"isQuality\": true,\n   \"checkList\": [\n      {\n         \"UoM\": null,\n         \"variableName\": null,\n         \"step\": \"1;Conformità cuciture cuscino\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 0\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"variableName\": \"Corrente assorbita\",\n         \"step\": \"2;Controllo assorbimento termoforo\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 6.81\n         }]\n      },\n      {\n         \"UoM\": \"N\",\n         \"variableName\": \"Resistenza applicata\",\n         \"step\": \"3;Controllo forza manopola seeger\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 549.51\n         }]\n      },\n      {\n         \"variableName\": \"Numero viti\",\n         \"step\": \"4;Controllo viti fissate\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 5\n         }]\n      }\n   ],\n   \"operation\": \"069\",\n   \"user\": \"024-LEOC\"\n}\n]]]\n"],"data":["06:42:56.460"],"linea":["Scanteq"]}}}}
+
+12:43:05.772> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:43:05.850> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Sending to server"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:43:05.851> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:43:12.325> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Response code: 200"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:43:12.326> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:43:12.448> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":[""],"data":[null],"linea":["Scanteq"]}}}}
+
+12:43:12.449> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:43:12.564> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["Request data: https://localhost:443/qa-sabelt/cg/ProgressDeclaration POST"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:43:12.565> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:43:12.729> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["DEBUG: Moving to sent: Default CSV 2.txtDEBUG.txt"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:43:12.730> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:43:12.896> {{{SERVER: Response Code: 200 For Element: {"tipo":[null],"descrizione":["DEBUG: Processing end: Default CSV 2.txtDEBUG.txt"],"data":[null],"linea":["Scanteq"]}}}}
+
+12:43:12.897> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:50:39.843> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Client created with base: https://localhost:443"],"linea":["Scanteq"]}}}}
+
+12:50:39.846> {{{SERVER: Server Response: {"error":"Campi mancanti nel JSON"}}}}
+
+12:50:39.934> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Https client disabled"],"linea":["Scanteq"]}}}}
+
+12:50:39.935> {{{SERVER: Server Response: {"error":"Campi mancanti nel JSON"}}}}
+
+12:52:31.316> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Processing start: Default CSV 2.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+12:52:31.318> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:52:33.156> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["JSON is:\n{\n   \"variables\": [\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.05\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 296\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.25\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.02\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 103\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.04\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 319\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.07\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 316\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.03\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 19\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 9.05\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 102\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"N\",\n         \"attachments\": [],\n         \"name\": \"1;Montaggio seeger manopola SX;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 549.51\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Montaggio seeger manopola SX;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"attachments\": [],\n         \"name\": \"2;Verifica funzionamento termoforo - HT CRT;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 6.81\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Verifica funzionamento termoforo - HT CRT;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"attachments\": [],\n         \"name\": \"3;Verifica funzionamento termoforo - HT CRT;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 6.82\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Verifica funzionamento termoforo - HT CRT;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      }\n   ],\n   \"orderNumber\": \"OP000014054-02\",\n   \"serialNumber\": \"OP000014054-02\",\n   \"attachments\": [],\n   \"scraps\": [],\n   \"workstation\": \"MS1-069\",\n   \"traceability\": [\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"1;AFM240CEPSVYY704YR|OP000014054-02|OP000014054-02;SCHIENALE\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"2;AAM240031 S/N002122;Schienale nero dx\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"3;ACM240104_C/834;Cablaggio\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"4;AAP13034;Lombare\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"5;8583403 A15 ASM PUMP 4W 0005006 M8D4 20230204 2 1198;Motore Lombare\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"6;ACM240013_B A8.8;Termoforo\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"7;ACM240704YSDXR_D03312301223000026098;Fodera\"\n      }\n   ],\n   \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n   \"huCode\": null,\n   \"okQty\": 1,\n   \"consumptions\": [],\n   \"isQuality\": true,\n   \"checkList\": [\n      {\n         \"UoM\": null,\n         \"variableName\": null,\n         \"step\": \"1;Conformità cuciture cuscino\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 0\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"variableName\": \"Corrente assorbita\",\n         \"step\": \"2;Controllo assorbimento termoforo\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 6.81\n         }]\n      },\n      {\n         \"UoM\": \"N\",\n         \"variableName\": \"Resistenza applicata\",\n         \"step\": \"3;Controllo forza manopola seeger\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 549.51\n         }]\n      },\n      {\n         \"variableName\": \"Numero viti\",\n         \"step\": \"4;Controllo viti fissate\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 5\n         }]\n      }\n   ],\n   \"operation\": \"069\",\n   \"user\": \"024-LEOC\"\n}\n"],"linea":["Scanteq"]}}}}
+
+12:52:33.158> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:52:33.764> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Sending to server"],"linea":["Scanteq"]}}}}
+
+12:52:33.765> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:52:39.986> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Response code: 200"],"linea":["Scanteq"]}}}}
+
+12:52:39.986> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:52:40.190> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Response body: QUESTA E' UNA RISPOSTA DALLL SERVER"],"linea":["Scanteq"]}}}}
+
+12:52:40.191> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:52:40.339> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Request data: https://localhost:443/qa-sabelt/cg/ProgressDeclaration POST"],"linea":["Scanteq"]}}}}
+
+12:52:40.340> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:52:40.412> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Moving to sent: Default CSV 2.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+12:52:40.413> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:52:40.489> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Processing end: Default CSV 2.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+12:52:40.491> {{{SERVER: Server Response: <br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br /><br /><b>Warning</b>:  Array to string conversion in <b>D:\inetpub\webs\scanteqcom\php\supervisor.php</b> on line <b>28</b><br />{"message":"Dati salvati con successo"}}}}
+
+12:55:01.778> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Processing start: Default CSV 2.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+12:55:01.779> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+12:55:01.876> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["JSON is:\n{\n   \"variables\": [\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.05\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 296\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.25\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.02\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 103\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.04\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 319\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.07\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 316\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.03\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 19\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 9.05\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 102\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"N\",\n         \"attachments\": [],\n         \"name\": \"1;Montaggio seeger manopola SX;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 549.51\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Montaggio seeger manopola SX;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"attachments\": [],\n         \"name\": \"2;Verifica funzionamento termoforo - HT CRT;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 6.81\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Verifica funzionamento termoforo - HT CRT;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"attachments\": [],\n         \"name\": \"3;Verifica funzionamento termoforo - HT CRT;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 6.82\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Verifica funzionamento termoforo - HT CRT;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      }\n   ],\n   \"orderNumber\": \"OP000014054-02\",\n   \"serialNumber\": \"OP000014054-02\",\n   \"attachments\": [],\n   \"scraps\": [],\n   \"workstation\": \"MS1-069\",\n   \"traceability\": [\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"1;AFM240CEPSVYY704YR|OP000014054-02|OP000014054-02;SCHIENALE\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"2;AAM240031 S/N002122;Schienale nero dx\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"3;ACM240104_C/834;Cablaggio\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"4;AAP13034;Lombare\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"5;8583403 A15 ASM PUMP 4W 0005006 M8D4 20230204 2 1198;Motore Lombare\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"6;ACM240013_B A8.8;Termoforo\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"7;ACM240704YSDXR_D03312301223000026098;Fodera\"\n      }\n   ],\n   \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n   \"huCode\": null,\n   \"okQty\": 1,\n   \"consumptions\": [],\n   \"isQuality\": true,\n   \"checkList\": [\n      {\n         \"UoM\": null,\n         \"variableName\": null,\n         \"step\": \"1;Conformità cuciture cuscino\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 0\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"variableName\": \"Corrente assorbita\",\n         \"step\": \"2;Controllo assorbimento termoforo\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 6.81\n         }]\n      },\n      {\n         \"UoM\": \"N\",\n         \"variableName\": \"Resistenza applicata\",\n         \"step\": \"3;Controllo forza manopola seeger\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 549.51\n         }]\n      },\n      {\n         \"variableName\": \"Numero viti\",\n         \"step\": \"4;Controllo viti fissate\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 5\n         }]\n      }\n   ],\n   \"operation\": \"069\",\n   \"user\": \"024-LEOC\"\n}\n"],"linea":["Scanteq"]}}}}
+
+12:55:01.877> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+12:55:01.985> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Sending to server"],"linea":["Scanteq"]}}}}
+
+12:55:01.987> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+12:55:08.156> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Response code: 200"],"linea":["Scanteq"]}}}}
+
+12:55:08.157> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+12:55:08.237> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Response body: QUESTA E' UNA RISPOSTA DALLL SERVER"],"linea":["Scanteq"]}}}}
+
+12:55:08.238> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+12:55:08.321> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Request data: https://localhost:443/qa-sabelt/cg/ProgressDeclaration POST"],"linea":["Scanteq"]}}}}
+
+12:55:08.321> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+12:55:08.405> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Moving to sent: Default CSV 2.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+12:55:08.406> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+12:55:08.500> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Processing end: Default CSV 2.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+12:55:08.501> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:00:30.157> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Processing start: Default CSV 2.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+13:00:30.159> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:00:30.236> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["JSON is:\n{\n   \"variables\": [\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.05\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 296\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Pre avvitatura viti snodi su schienale;5;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.25\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Pre avvitatura viti snodi su schienale;5;2;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.02\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 103\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Pre avvitatura viti snodi su schienale;5;3;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.04\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 319\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Pre avvitatura viti snodi su schienale;5;4;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.07\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 316\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"5;Pre avvitatura viti snodi su schienale;5;5;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 4.03\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 19\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"6;Pre avvitatura viti snodi su schienale;5;6;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 9.05\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 102\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"7;Avvitatura viti attuatore;10;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"N\",\n         \"attachments\": [],\n         \"name\": \"1;Montaggio seeger manopola SX;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 549.51\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Montaggio seeger manopola SX;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"attachments\": [],\n         \"name\": \"2;Verifica funzionamento termoforo - HT CRT;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 6.81\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Verifica funzionamento termoforo - HT CRT;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"attachments\": [],\n         \"name\": \"3;Verifica funzionamento termoforo - HT CRT;Prova\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": 6.82\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Verifica funzionamento termoforo - HT CRT;Esito\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"value\": \"OK\"\n         }]\n      }\n   ],\n   \"orderNumber\": \"OP000014054-02\",\n   \"serialNumber\": \"OP000014054-02\",\n   \"attachments\": [],\n   \"scraps\": [],\n   \"workstation\": \"MS1-069\",\n   \"traceability\": [\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"1;AFM240CEPSVYY704YR|OP000014054-02|OP000014054-02;SCHIENALE\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"2;AAM240031 S/N002122;Schienale nero dx\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"3;ACM240104_C/834;Cablaggio\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"4;AAP13034;Lombare\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"5;8583403 A15 ASM PUMP 4W 0005006 M8D4 20230204 2 1198;Motore Lombare\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"6;ACM240013_B A8.8;Termoforo\"\n      },\n      {\n         \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n         \"attachments\": [],\n         \"name\": \"7;ACM240704YSDXR_D03312301223000026098;Fodera\"\n      }\n   ],\n   \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n   \"huCode\": null,\n   \"okQty\": 1,\n   \"consumptions\": [],\n   \"isQuality\": true,\n   \"checkList\": [\n      {\n         \"UoM\": null,\n         \"variableName\": null,\n         \"step\": \"1;Conformità cuciture cuscino\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 0\n         }]\n      },\n      {\n         \"UoM\": \"A\",\n         \"variableName\": \"Corrente assorbita\",\n         \"step\": \"2;Controllo assorbimento termoforo\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 6.81\n         }]\n      },\n      {\n         \"UoM\": \"N\",\n         \"variableName\": \"Resistenza applicata\",\n         \"step\": \"3;Controllo forza manopola seeger\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 549.51\n         }]\n      },\n      {\n         \"variableName\": \"Numero viti\",\n         \"step\": \"4;Controllo viti fissate\",\n         \"results\": [{\n            \"timeStamp\": \"2023-05-22T06:42:56.460Z\",\n            \"attachments\": [],\n            \"isFailed\": false,\n            \"value\": 5\n         }]\n      }\n   ],\n   \"operation\": \"069\",\n   \"user\": \"024-LEOC\"\n}\n"],"linea":["Scanteq"]}}}}
+
+13:00:30.236> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:00:30.309> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Sending to server"],"linea":["Scanteq"]}}}}
+
+13:00:30.310> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:00:36.459> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Response code: 200"],"linea":["Scanteq"]}}}}
+
+13:00:36.460> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:00:36.545> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Response body: QUESTA E' UNA RISPOSTA DALLL SERVER"],"linea":["Scanteq"]}}}}
+
+13:00:36.547> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:00:36.627> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Request data: https://localhost:443/qa-sabelt/cg/ProgressDeclaration POST"],"linea":["Scanteq"]}}}}
+
+13:00:36.628> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:00:36.701> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Moving to sent: Default CSV 2.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+13:00:36.701> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:00:36.785> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Processing end: Default CSV 2.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+13:00:36.786> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:55:59.785> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Processing start: All-Jobs MASP-MNT-1 - 2023-09-28 14-01-12.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+13:55:59.787> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:55:59.895> {{{SERVER: Response Code: 200 For Element: {"tipo":["Error"],"descrizione":["CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0"],"linea":["Scanteq"]}}}}
+
+13:55:59.895> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:55:59.985> {{{SERVER: Response Code: 200 For Element: {"tipo":["Error"],"descrizione":["CsvReader::getOrderNumber->Invalid Order Number:"],"linea":["Scanteq"]}}}}
+
+13:55:59.985> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:56:00.079> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["JSON is:\n{\n   \"variables\": [\n      {\n         \"attachments\": [],\n         \"name\": \"1;Avvitatura con Cleco Wireless;16;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"1;Avvitatura con Cleco Wireless;16;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 60.6\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"1;Avvitatura con Cleco Wireless;16;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 60\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Avvitatura con Cleco Wireless;16;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"1;Avvitatura con Cleco Wireless;16;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Avvitatura con Cleco Wireless;16;2;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"2;Avvitatura con Cleco Wireless;16;2;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 70.7\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"2;Avvitatura con Cleco Wireless;16;2;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 70\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Avvitatura con Cleco Wireless;16;2;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 1\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"2;Avvitatura con Cleco Wireless;16;2;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Avvitatura con Cleco a cavo e braccio con encoder;17;1;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"3;Avvitatura con Cleco a cavo e braccio con encoder;17;1;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 10.1\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"3;Avvitatura con Cleco a cavo e braccio con encoder;17;1;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 10\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Avvitatura con Cleco a cavo e braccio con encoder;17;1;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"3;Avvitatura con Cleco a cavo e braccio con encoder;17;1;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": \"OK\"\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Avvitatura con Cleco a cavo e braccio con encoder;17;2;UCA\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": \"Cleco\"\n         }]\n      },\n      {\n         \"UoM\": \"Nm\",\n         \"attachments\": [],\n         \"name\": \"4;Avvitatura con Cleco a cavo e braccio con encoder;17;2;Coppia\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 20.2\n         }]\n      },\n      {\n         \"UoM\": \"Deg\",\n         \"attachments\": [],\n         \"name\": \"4;Avvitatura con Cleco a cavo e braccio con encoder;17;2;Angolo\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 20\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Avvitatura con Cleco a cavo e braccio con encoder;17;2;GP\",\n         \"type\": 0,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": 2\n         }]\n      },\n      {\n         \"attachments\": [],\n         \"name\": \"4;Avvitatura con Cleco a cavo e braccio con encoder;17;2;ESITO\",\n         \"type\": 1,\n         \"samples\": [{\n            \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n            \"value\": \"OK\"\n         }]\n      }\n   ],\n   \"orderNumber\": \"\",\n   \"serialNumber\": \"\",\n   \"attachments\": [],\n   \"scraps\": [],\n   \"workstation\": \"MASP-MNT-1\",\n   \"traceability\": [],\n   \"timeStamp\": \"2023-09-28T12:01:12.268Z\",\n   \"huCode\": null,\n   \"okQty\": 1,\n   \"consumptions\": [],\n   \"isQuality\": false,\n   \"checkList\": [],\n   \"operation\": \"1\",\n   \"user\": \"Valentin\"\n}\n"],"linea":["Scanteq"]}}}}
+
+13:56:00.080> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:56:00.175> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Sending to server"],"linea":["Scanteq"]}}}}
+
+13:56:00.176> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:56:06.311> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Response code: 200"],"linea":["Scanteq"]}}}}
+
+13:56:06.311> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:56:06.403> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Response body: QUESTA E' UNA RISPOSTA DALLL SERVER"],"linea":["Scanteq"]}}}}
+
+13:56:06.404> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:56:06.472> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Request data: https://localhost:443/qa-sabelt/cg/ProgressDeclaration POST"],"linea":["Scanteq"]}}}}
+
+13:56:06.472> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:56:06.551> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Moving to sent: All-Jobs MASP-MNT-1 - 2023-09-28 14-01-12.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+13:56:06.551> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+13:56:06.625> {{{SERVER: Response Code: 200 For Element: {"tipo":["Debug"],"descrizione":["Processing end: All-Jobs MASP-MNT-1 - 2023-09-28 14-01-12.txtDEBUG.txt"],"linea":["Scanteq"]}}}}
+
+13:56:06.626> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+14:12:58.075> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Client created with base: https://localhost:443"],"linea":["Sabelt"]}}}}
+
+14:12:58.079> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}
+
+14:12:58.279> {{{SERVER: Response Code: 200 For Element: {"tipo":["Server"],"descrizione":["Https client enabled"],"linea":["Sabelt"]}}}}
+
+14:12:58.280> {{{SERVER: Server Response: {"message":"Dati salvati con successo"}}}}

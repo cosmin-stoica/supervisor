@@ -1,0 +1,122 @@
+
+20:03:10.054> {{{ERROR: Client non inizializzato : null}}}
+
+20:03:10.061> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:04:59.212> {{{ERROR: Client non inizializzato : null}}}
+
+20:04:59.220> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:06:21.063> {{{ERROR: Client non inizializzato : null}}}
+
+20:06:21.070> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:06:51.684> {{{ERROR: Client non inizializzato : null}}}
+
+20:07:01.910> {{{ERROR: NON PUOI SPEGNERE UN CLIENT CHE NON E' STATO INIZIALIZZATO}}}
+
+20:07:03.260> {{{ERROR: Client non inizializzato : null}}}
+
+20:07:16.819> {{{ERROR: Client non inizializzato : null}}}
+
+20:07:16.826> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:07:37.962> {{{ERROR: Client non inizializzato : null}}}
+
+20:07:37.969> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:08:43.859> {{{ERROR: Client non inizializzato : null}}}
+
+20:10:02.435> {{{ERROR: Client non inizializzato : Keystore was tampered with, or password was incorrect}}}
+
+20:10:02.443> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			Keystore was tampered with, or password was incorrect}}}
+
+20:10:36.281> {{{ERROR: Client non inizializzato : Keystore was tampered with, or password was incorrect}}}
+
+20:10:36.440> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			Keystore was tampered with, or password was incorrect}}}
+
+20:11:03.733> {{{ERROR: Client non inizializzato : null}}}
+
+20:11:03.740> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:11:19.088> {{{ERROR: Client non inizializzato : null}}}
+
+20:11:23.968> {{{ERROR: Client non inizializzato : null}}}
+
+20:11:25.076> {{{ERROR: NON PUOI SPEGNERE UN CLIENT CHE NON E' STATO INIZIALIZZATO}}}
+
+20:11:25.942> {{{ERROR: Client non inizializzato : null}}}
+
+20:12:34.424> {{{ERROR: Client non inizializzato : null}}}
+
+20:12:44.546> {{{ERROR: Client non inizializzato : null}}}
+
+20:12:45.323> {{{ERROR: Client non inizializzato : null}}}
+
+20:15:28.946> {{{ERROR: Client non inizializzato : null}}}
+
+20:18:37.510> {{{ERROR: Client non inizializzato : null}}}
+
+20:18:37.517> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:20:09.144> {{{SERVER: Trying connection}}}
+
+20:20:09.158> {{{ERROR: Client non inizializzato : null}}}
+
+20:20:09.163> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:21:26.140> {{{SERVER: Trying connection}}}
+
+20:21:26.158> {{{ERROR: Client non inizializzato : null}}}
+
+20:21:26.164> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:22:00.014> {{{SERVER: Trying connection}}}
+
+20:22:00.024> {{{SERVER: Trying -1}}}
+
+20:22:00.033> {{{ERROR: Client non inizializzato : null}}}
+
+20:22:00.037> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:24:07.739> {{{SERVER: Trying connection}}}
+
+20:24:07.770> {{{ERROR: Client non inizializzato : Keystore was tampered with, or password was incorrect}}}
+
+20:24:07.774> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			Keystore was tampered with, or password was incorrect}}}
+
+20:24:26.276> {{{SERVER: Trying connection}}}
+
+20:24:26.294> {{{ERROR: Client non inizializzato : null}}}
+
+20:24:26.299> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:26:13.669> {{{SERVER: Trying connection}}}
+
+20:26:13.685> {{{ERROR: Client non inizializzato : null}}}
+
+20:26:13.690> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}
+
+20:27:00.661> {{{SERVER: Trying connection}}}
+
+20:27:00.669> {{{SERVER: Trying -2}}}
+
+20:27:00.679> {{{ERROR: Client non inizializzato : null}}}
+
+20:27:00.684> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			null}}}

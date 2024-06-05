@@ -1,0 +1,22 @@
+Possibili risposte:
+
+Login
+1- Time keeping event error ! Received Start event prior to last stop event
+2- Value cannot be null.
+3- User already logged in
+
+Avvio
+1- OrderNumber is null or empty
+2- Il Serial Number non 蠡ncora stato dichiarato nell'operazione 160 
+3- Serial Number sconosciuto !
+4- StartProcessingUnitByRequest
+5- Errore durante lo start della produzione, contattare l'assistenza
+6- Value cannot be null. ----> Ordine null
+
+
+
+
+
+
+Resp:
+12:06:49.050> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Il Serial Number non 蠡ncora stato dichiarato nell'operazione 160 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000051324-01, OrderNumber: OP000051324-01, Operation: 180","errorMessageForLogging":"Il Serial Number non 蠡ncora stato dichiarato nell'operazione 160 !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000051324-01, OrderNumber: OP000051324-01, Operation: 180","errors":["Il Serial Number non 蠡ncora stato dichiarato nell'operazione 160 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000051324-01, OrderNumber: OP000051324-01, Operation: 180"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}

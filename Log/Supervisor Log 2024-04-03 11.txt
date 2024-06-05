@@ -1,0 +1,5643 @@
+
+10:30:32.172> {{{ERROR: Connessione non effettuata}}}
+
+10:30:32.181> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+10:30:32.186> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+10:47:38.129> {{{ERROR: Connessione non effettuata}}}
+
+10:47:38.141> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+10:47:38.150> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+10:58:21.402> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+10:58:22.416> [[[DEBUG: Condotta Guidata Error Handling Processing start: Default CSV 2.txt]]]
+
+10:58:22.492> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "attachments": [],
+         "name": "1;Pre avvitatura viti snodi su schienale;5;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "1;Pre avvitatura viti snodi su schienale;5;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 4.05
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "1;Pre avvitatura viti snodi su schienale;5;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 296
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Pre avvitatura viti snodi su schienale;5;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 1
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Pre avvitatura viti snodi su schienale;5;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Pre avvitatura viti snodi su schienale;5;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "2;Pre avvitatura viti snodi su schienale;5;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 4.25
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "2;Pre avvitatura viti snodi su schienale;5;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 4
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Pre avvitatura viti snodi su schienale;5;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 1
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Pre avvitatura viti snodi su schienale;5;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Pre avvitatura viti snodi su schienale;5;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "3;Pre avvitatura viti snodi su schienale;5;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 4.02
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "3;Pre avvitatura viti snodi su schienale;5;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 103
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Pre avvitatura viti snodi su schienale;5;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 1
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Pre avvitatura viti snodi su schienale;5;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Pre avvitatura viti snodi su schienale;5;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "4;Pre avvitatura viti snodi su schienale;5;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 4.04
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "4;Pre avvitatura viti snodi su schienale;5;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 319
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Pre avvitatura viti snodi su schienale;5;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Pre avvitatura viti snodi su schienale;5;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Pre avvitatura viti snodi su schienale;5;5;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "5;Pre avvitatura viti snodi su schienale;5;5;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 4.07
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "5;Pre avvitatura viti snodi su schienale;5;5;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 316
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Pre avvitatura viti snodi su schienale;5;5;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Pre avvitatura viti snodi su schienale;5;5;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Pre avvitatura viti snodi su schienale;5;6;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "6;Pre avvitatura viti snodi su schienale;5;6;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 4.03
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "6;Pre avvitatura viti snodi su schienale;5;6;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 19
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Pre avvitatura viti snodi su schienale;5;6;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Pre avvitatura viti snodi su schienale;5;6;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura viti attuatore;10;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "7;Avvitatura viti attuatore;10;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 9.05
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "7;Avvitatura viti attuatore;10;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 102
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura viti attuatore;10;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura viti attuatore;10;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "1;Montaggio seeger manopola SX;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 549.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Montaggio seeger manopola SX;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funzionamento termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 6.81
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funzionamento termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "3;Verifica funzionamento termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": 6.82
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Verifica funzionamento termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000014054-02",
+   "serialNumber": "OP000014054-02",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "MS1-069",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-22T06:42:56.460Z",
+         "attachments": [],
+         "name": "1;AFM240CEPSVYY704YR|OP000014054-02|OP000014054-02;SCHIENALE"
+      },
+      {
+         "timeStamp": "2023-05-22T06:42:56.460Z",
+         "attachments": [],
+         "name": "2;AAM240031 S/N002122;Schienale nero dx"
+      },
+      {
+         "timeStamp": "2023-05-22T06:42:56.460Z",
+         "attachments": [],
+         "name": "3;ACM240104_C/834;Cablaggio"
+      },
+      {
+         "timeStamp": "2023-05-22T06:42:56.460Z",
+         "attachments": [],
+         "name": "4;AAP13034;Lombare"
+      },
+      {
+         "timeStamp": "2023-05-22T06:42:56.460Z",
+         "attachments": [],
+         "name": "5;8583403 A15 ASM PUMP 4W 0005006 M8D4 20230204 2 1198;Motore Lombare"
+      },
+      {
+         "timeStamp": "2023-05-22T06:42:56.460Z",
+         "attachments": [],
+         "name": "6;ACM240013_B A8.8;Termoforo"
+      },
+      {
+         "timeStamp": "2023-05-22T06:42:56.460Z",
+         "attachments": [],
+         "name": "7;ACM240704YSDXR_D03312301223000026098;Fodera"
+      }
+   ],
+   "timeStamp": "2023-05-22T06:42:56.460Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": true,
+   "checkList": [
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "1;Conformità cuciture cuscino",
+         "results": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "attachments": [],
+            "isFailed": false,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": "A",
+         "variableName": "Corrente assorbita",
+         "step": "2;Controllo assorbimento termoforo",
+         "results": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "attachments": [],
+            "isFailed": false,
+            "value": 6.81
+         }]
+      },
+      {
+         "UoM": "N",
+         "variableName": "Resistenza applicata",
+         "step": "3;Controllo forza manopola seeger",
+         "results": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "attachments": [],
+            "isFailed": false,
+            "value": 549.51
+         }]
+      },
+      {
+         "variableName": "Numero viti",
+         "step": "4;Controllo viti fissate",
+         "results": [{
+            "timeStamp": "2023-05-22T06:42:56.460Z",
+            "attachments": [],
+            "isFailed": false,
+            "value": 5
+         }]
+      }
+   ],
+   "operation": "069",
+   "user": "024-LEOC"
+}
+]]]
+
+10:58:22.502> {{{SERVER: Sending to server}}}
+
+10:58:28.583> {{{SERVER: Response code: 200}}}
+
+10:58:28.588> {{{SERVER: Response body: QUESTA E' UNA RISPOSTA DAL SERVER}}}
+
+10:58:28.592> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+10:58:28.597> [[[DEBUG: Moving to sent delayed Condotta: Default CSV 2.txt]]]
+
+10:58:28.602> [[[DEBUG: Condotta Guidata Error Handling Processing end: Default CSV 2.txt]]]
+
+
+
+
+
+
+
+11:00:22.490> [[[DEBUG: Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:00:22.500> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:00:22.513> {{{SERVER: Sending to server}}}
+
+11:00:28.597> {{{SERVER: Response code: 200}}}
+
+11:00:28.613> {{{SERVER: Response body: QUESTA E' UNA RISPOSTA DAL SERVER}}}
+
+11:00:28.625> {{{SERVER: Request data: https://localhost:443/sabelt/cg/ProgressDeclaration POST}}}
+
+11:00:28.637> [[[DEBUG: Moving to sent: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:00:28.651> [[[DEBUG: Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:01:59.782> [[[DEBUG: Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:01:59.795> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:01:59.803> {{{SERVER: Sending to server}}}
+
+11:02:06.573> {{{SERVER: Response code: 400}}}
+
+11:02:06.581> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:02:06.624> {{{SERVER: Request data: https://localhost:443/sabelt/cg/ProgressDeclaration POST}}}
+
+11:02:06.632> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:06.642> [[[DEBUG: Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:02:08.449> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:08.459> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:02:08.464> {{{SERVER: Sending to server}}}
+
+11:02:14.489> {{{SERVER: Response code: 400}}}
+
+11:02:14.496> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:02:14.501> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:02:14.508> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:14.513> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:02:16.539> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:16.544> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:02:16.552> {{{SERVER: Sending to server}}}
+
+11:02:22.579> {{{SERVER: Response code: 400}}}
+
+11:02:22.582> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:02:22.587> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:02:22.591> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:22.601> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:02:24.614> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:24.624> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:02:24.633> {{{SERVER: Sending to server}}}
+
+11:02:30.662> {{{SERVER: Response code: 400}}}
+
+11:02:30.669> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:02:30.678> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:02:30.684> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:30.692> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:02:32.723> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:32.733> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:02:32.739> {{{SERVER: Sending to server}}}
+
+11:02:38.765> {{{SERVER: Response code: 400}}}
+
+11:02:38.771> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:02:38.778> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:02:38.784> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:38.790> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:02:40.813> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:40.820> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:02:40.826> {{{SERVER: Sending to server}}}
+
+11:02:46.851> {{{SERVER: Response code: 400}}}
+
+11:02:46.857> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:02:46.861> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:02:46.865> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:46.870> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:02:48.887> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:48.897> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:02:48.904> {{{SERVER: Sending to server}}}
+
+11:02:54.987> {{{SERVER: Response code: 400}}}
+
+11:02:54.995> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:02:55.002> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:02:55.011> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:55.034> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:02:57.060> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:02:57.067> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:02:57.072> {{{SERVER: Sending to server}}}
+
+11:03:11.934> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+11:03:12.949> [[[DEBUG: Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:12.949> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:13.023> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:03:13.023> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:03:13.032> {{{SERVER: Sending to server}}}
+
+11:03:13.032> {{{SERVER: Sending to server}}}
+
+11:03:19.057> {{{SERVER: Response code: 400}}}
+
+11:03:19.082> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:03:19.099> {{{SERVER: Request data: https://localhost:443/sabelt/cg/ProgressDeclaration POST}}}
+
+11:03:19.113> {{{ERROR: WorkingClass::run->
+			class jdk.internal.net.http.HttpResponseImpl cannot be cast to class org.json.JSONObject (jdk.internal.net.http.HttpResponseImpl is in module java.net.http of loader 'platform'; org.json.JSONObject is in module org.json@20220320 of loader 'app')}}}
+
+11:03:19.122> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:25.118> {{{SERVER: Response code: 400}}}
+
+11:03:25.129> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:03:25.141> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:03:25.149> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:25.158> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:03:27.185> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:27.203> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:03:27.212> {{{SERVER: Sending to server}}}
+
+11:03:33.247> {{{SERVER: Response code: 400}}}
+
+11:03:33.256> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:03:33.263> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:03:33.269> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:33.275> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:03:35.308> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:35.321> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:03:35.332> {{{SERVER: Sending to server}}}
+
+11:03:41.356> {{{SERVER: Response code: 400}}}
+
+11:03:41.365> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:03:41.372> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:03:41.378> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:41.386> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:03:43.401> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:43.413> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:03:43.427> {{{SERVER: Sending to server}}}
+
+11:03:57.210> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+11:03:58.240> [[[DEBUG: Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:58.242> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:03:58.341> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:03:58.341> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:03:58.380> {{{SERVER: Sending to server}}}
+
+11:03:58.378> {{{SERVER: Sending to server}}}
+
+11:04:04.420> {{{SERVER: Response code: 400}}}
+
+11:04:04.430> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:04:04.441> {{{SERVER: Request data: https://localhost:443/sabelt/cg/ProgressDeclaration POST}}}
+
+11:04:04.453> {{{ERROR: WorkingClass::run->
+			class jdk.internal.net.http.HttpResponseImpl cannot be cast to class org.json.JSONObject (jdk.internal.net.http.HttpResponseImpl is in module java.net.http of loader 'platform'; org.json.JSONObject is in module org.json@20220320 of loader 'app')}}}
+
+11:04:04.462> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:10.547> {{{SERVER: Response code: 400}}}
+
+11:04:10.562> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:04:10.573> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:04:10.586> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:10.597> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:04:12.612> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:12.629> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:04:12.639> {{{SERVER: Sending to server}}}
+
+11:04:18.680> {{{SERVER: Response code: 400}}}
+
+11:04:18.698> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:04:18.707> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:04:18.715> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:18.723> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:04:20.736> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:20.748> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:04:20.754> {{{SERVER: Sending to server}}}
+
+11:04:26.789> {{{SERVER: Response code: 400}}}
+
+11:04:26.794> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:04:26.801> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:04:26.808> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:26.816> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:04:28.950> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:28.961> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:04:28.970> {{{SERVER: Sending to server}}}
+
+11:04:35.002> {{{SERVER: Response code: 400}}}
+
+11:04:35.006> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:04:35.010> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:04:35.013> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:35.017> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:04:37.024> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:37.031> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:04:37.035> {{{SERVER: Sending to server}}}
+
+11:04:43.071> {{{SERVER: Response code: 400}}}
+
+11:04:43.076> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:04:43.081> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:04:43.084> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:43.087> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:04:45.097> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:45.109> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:04:45.113> {{{SERVER: Sending to server}}}
+
+11:04:51.144> {{{SERVER: Response code: 400}}}
+
+11:04:51.147> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:04:51.149> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:04:51.150> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:51.152> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:04:53.159> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:04:53.168> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:04:53.172> {{{SERVER: Sending to server}}}
+
+11:04:59.212> {{{SERVER: Response code: 400}}}
+
+11:04:59.220> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:04:59.224> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:04:59.727> {{{ERROR: 
+Could not read file at attempt: 01}}}
+
+11:05:00.231> {{{ERROR: 
+Could not read file at attempt: 11}}}
+
+11:05:00.737> {{{ERROR: 
+Could not read file at attempt: 21}}}
+
+11:05:01.243> {{{ERROR: 
+Could not read file at attempt: 31}}}
+
+11:05:01.250> {{{ERROR: Error Handling::run->
+			WorkingClass::moveFileToError->java.lang.RuntimeException: WorkingClass::moveFileToError-> isFileReadable returned False.}}}
+
+11:05:01.757> {{{ERROR: 
+Could not read file at attempt: 01}}}
+
+11:05:02.264> {{{ERROR: 
+Could not read file at attempt: 11}}}
+
+11:05:02.770> {{{ERROR: 
+Could not read file at attempt: 21}}}
+
+11:05:03.280> {{{ERROR: 
+Could not read file at attempt: 31}}}
+
+11:05:03.287> {{{ERROR: ErrorHandlingClass::run->
+			java.lang.RuntimeException: WorkingClass::moveFileToError->java.lang.RuntimeException: WorkingClass::moveFileToError-> isFileReadable returned False.}}}
+
+
+
+
+
+
+
+11:05:15.499> [[[DEBUG: Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:05:15.507> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:05:15.511> {{{SERVER: Sending to server}}}
+
+11:05:21.551> {{{SERVER: Response code: 400}}}
+
+11:05:21.558> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:05:21.563> {{{SERVER: Request data: https://localhost:443/sabelt/cg/ProgressDeclaration POST}}}
+
+11:05:21.566> {{{ERROR: WorkingClass::run->
+			class jdk.internal.net.http.HttpResponseImpl cannot be cast to class org.json.JSONObject (jdk.internal.net.http.HttpResponseImpl is in module java.net.http of loader 'platform'; org.json.JSONObject is in module org.json@20220320 of loader 'app')}}}
+
+11:05:21.569> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:05:23.322> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:05:23.332> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:05:23.337> {{{SERVER: Sending to server}}}
+
+11:05:29.381> {{{SERVER: Response code: 400}}}
+
+11:05:29.388> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:05:29.392> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:05:29.395> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:05:29.398> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:05:31.406> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:05:31.415> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:05:31.420> {{{SERVER: Sending to server}}}
+
+11:05:37.456> {{{SERVER: Response code: 200}}}
+
+11:05:37.462> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:05:37.465> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:05:37.471> [[[DEBUG: Moving to sent delayed Supervisor: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:05:37.474> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:05:47.581> [[[DEBUG: Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:05:47.590> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:05:47.594> {{{SERVER: Sending to server}}}
+
+11:05:53.630> {{{SERVER: Response code: 200}}}
+
+11:05:53.637> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:05:53.641> {{{SERVER: Request data: https://localhost:443/sabelt/cg/ProgressDeclaration POST}}}
+
+11:05:53.644> {{{ERROR: WorkingClass::run->
+			class jdk.internal.net.http.HttpResponseImpl cannot be cast to class org.json.JSONObject (jdk.internal.net.http.HttpResponseImpl is in module java.net.http of loader 'platform'; org.json.JSONObject is in module org.json@20220320 of loader 'app')}}}
+
+11:05:53.647> [[[DEBUG: Moving to error: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+
+
+
+
+
+
+11:05:55.506> [[[DEBUG: Error Handling Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:05:55.513> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:05:55.517> {{{SERVER: Sending to server}}}
+
+11:06:01.548> {{{SERVER: Response code: 200}}}
+
+11:06:01.556> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:06:01.561> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:06:01.564> [[[DEBUG: Moving to sent delayed Supervisor: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:06:01.567> [[[DEBUG: Error Handling Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:06:33.910> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:07:04.934> [[[DEBUG: Processing start: AFAS1463LN AS1-045 - 2023-09-27 14-31-06.txt]]]
+
+11:07:05.003> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 222.86
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 4148.57
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Funzionamento sensore DPD;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Funzionamento sensore DPD;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "3;Leva alzasedile con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 74.94
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Leva alzasedile con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "4;Scorr. guide indietro con 75kg;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 130.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Scorr. guide indietro con 75kg;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "5;Scorr. guide indietro con 75kg - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 133.13
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Scorr. guide indietro con 75kg - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "5;Scorr. guide avanti con 75kg;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 138.82
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Scorr. guide avanti con 75kg;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "6;Scorr. guide avanti con 75kg - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 129.34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Scorr. guide avanti con 75kg - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "6;Scorr. guide indietro a Vuoto;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 81.45
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Scorr. guide indietro a Vuoto;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "7;Scorr. guide indietro a Vuoto - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 87.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Scorr. guide indietro a Vuoto - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "7;Scorr. guide avanti a Vuoto;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 91.75
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Scorr. guide avanti a Vuoto;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "8;Scorr. guide avanti a Vuoto - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 84.62
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Scorr. guide avanti a Vuoto - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "8;Regolazione schienale avanti;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 1.94
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Regolazione schienale avanti;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "9;Regolazione schienale indietro;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 1.89
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Regolazione schienale indietro;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000030085-02",
+   "serialNumber": "OP000030085-02",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AS1-045",
+   "traceability": [
+      {
+         "timeStamp": "2023-09-27T12:31:06.896Z",
+         "attachments": [],
+         "name": "1;AFAS1463LN|OP000030085-02|OP000030085-02;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2023-09-27T12:31:06.896Z",
+         "attachments": [],
+         "name": "2;Interfaccia DX;Interfaccia leva DX"
+      }
+   ],
+   "timeStamp": "2023-09-27T12:31:06.896Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "045",
+   "user": "468-ALFG"
+}
+]]]
+
+11:07:05.015> {{{SERVER: Sending to server}}}
+
+11:07:11.084> {{{SERVER: Response code: 200}}}
+
+11:07:11.092> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:07:11.098> {{{SERVER: Request data: https://localhost:443/sabelt/cg/ProgressDeclaration POST}}}
+
+11:07:11.101> {{{ERROR: WorkingClass::run->
+			class jdk.internal.net.http.HttpResponseImpl cannot be cast to class org.json.JSONObject (jdk.internal.net.http.HttpResponseImpl is in module java.net.http of loader 'platform'; org.json.JSONObject is in module org.json@20220320 of loader 'app')}}}
+
+11:07:11.104> [[[DEBUG: Moving to error: AFAS1463LN AS1-045 - 2023-09-27 14-31-06.txt]]]
+
+
+
+
+
+
+
+11:07:12.993> [[[DEBUG: Error Handling Processing start: AFAS1463LN AS1-045 - 2023-09-27 14-31-06.txt]]]
+
+11:07:13.006> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 222.86
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 4148.57
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Funzionamento sensore DPD;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Funzionamento sensore DPD;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "3;Leva alzasedile con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 74.94
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Leva alzasedile con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "4;Scorr. guide indietro con 75kg;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 130.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Scorr. guide indietro con 75kg;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "5;Scorr. guide indietro con 75kg - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 133.13
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Scorr. guide indietro con 75kg - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "5;Scorr. guide avanti con 75kg;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 138.82
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Scorr. guide avanti con 75kg;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "6;Scorr. guide avanti con 75kg - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 129.34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Scorr. guide avanti con 75kg - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "6;Scorr. guide indietro a Vuoto;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 81.45
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Scorr. guide indietro a Vuoto;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "7;Scorr. guide indietro a Vuoto - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 87.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Scorr. guide indietro a Vuoto - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "7;Scorr. guide avanti a Vuoto;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 91.75
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Scorr. guide avanti a Vuoto;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "8;Scorr. guide avanti a Vuoto - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 84.62
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Scorr. guide avanti a Vuoto - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "8;Regolazione schienale avanti;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 1.94
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Regolazione schienale avanti;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "9;Regolazione schienale indietro;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": 1.89
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Regolazione schienale indietro;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-09-27T12:31:06.896Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000030085-02",
+   "serialNumber": "OP000030085-02",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AS1-045",
+   "traceability": [
+      {
+         "timeStamp": "2023-09-27T12:31:06.896Z",
+         "attachments": [],
+         "name": "1;AFAS1463LN|OP000030085-02|OP000030085-02;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2023-09-27T12:31:06.896Z",
+         "attachments": [],
+         "name": "2;Interfaccia DX;Interfaccia leva DX"
+      }
+   ],
+   "timeStamp": "2023-09-27T12:31:06.896Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "045",
+   "user": "468-ALFG"
+}
+]]]
+
+11:07:13.013> {{{SERVER: Sending to server}}}
+
+11:07:19.067> {{{SERVER: Response code: 200}}}
+
+11:07:19.072> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:07:19.078> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryProgressDeclaration POST}}}
+
+11:07:19.085> [[[DEBUG: Moving to sent delayed Supervisor: AFAS1463LN AS1-045 - 2023-09-27 14-31-06.txt]]]
+
+11:07:19.092> [[[DEBUG: Error Handling Processing end: AFAS1463LN AS1-045 - 2023-09-27 14-31-06.txt]]]
+
+11:08:37.642> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:08:43.669> [[[DEBUG: Processing start: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:08:43.727> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8906.02
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 3.51
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": 8281.05
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Verifica funz termoforo driver - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-04T07:56:57.066Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000008914.1",
+   "serialNumber": "OP000008914.1-013",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM-1",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "4;AACUP504_A0000203023;FODERA DX NERA"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "5;5FB971392B;CABLAGGIO PASS"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "6;080205700;DATA PRODUZIONE CABLAGGIO"
+      },
+      {
+         "timeStamp": "2023-05-04T07:56:57.066Z",
+         "attachments": [],
+         "name": "7;080205700;LOTTO CABLAGGIO"
+      }
+   ],
+   "timeStamp": "2023-05-04T07:56:57.066Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "Prova",
+   "user": "002-LAFM"
+}
+]]]
+
+11:08:43.749> {{{SERVER: Sending to server}}}
+
+11:08:49.780> {{{SERVER: Response code: 200}}}
+
+11:08:49.793> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:08:49.799> {{{SERVER: Request data: https://localhost:443/sabelt/cg/ProgressDeclaration POST}}}
+
+11:08:49.804> [[[DEBUG: Moving to sent: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:08:49.809> [[[DEBUG: Processing end: AFSECUP402S.CU CP1-040B - 2023-05-04 09-56-57.txt]]]
+
+11:26:40.578> {{{ERROR: Connessione non effettuata}}}
+
+11:26:40.595> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:26:40.608> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:31:00.822> {{{ERROR: Connessione non effettuata}}}
+
+11:31:00.837> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:31:00.851> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:32:47.289> {{{ERROR: NON PUOI SPEGNERE UN CLIENT CHE NON E' STATO INIZIALIZZATO}}}
+
+11:32:55.249> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:32:56.259> [[[DEBUG: Processing start: COLLAUDO 01Srework - 2023-05-09 09-57-48.txtDEBUG.txt]]]
+
+11:32:56.297> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0}}}
+
+11:32:56.301> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+11:32:56.308> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": 220.73
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": 818.49
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;Funzionamento Sidebag;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": 2.23
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Funzionamento Sidebag;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "3;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": 4.89
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "3;Verifica termoforo - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": 8193.19
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Verifica termoforo - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T07:57:48.006Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP-070",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-09T07:57:48.006Z",
+         "attachments": [],
+         "name": "1;#5FA880241F    ##450313213#061022*672 DU9D0089B6N*=;BAG SX (51)"
+      },
+      {
+         "timeStamp": "2023-05-09T07:57:48.006Z",
+         "attachments": [],
+         "name": "2;#5FF881805BD   ##435202385#300123*676 EL80014558.*=;FODERA SX (baugruppen)"
+      },
+      {
+         "timeStamp": "2023-05-09T07:57:48.006Z",
+         "attachments": [],
+         "name": "3;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZJYU*=;RAMO CINTURA (52)"
+      },
+      {
+         "timeStamp": "2023-05-09T07:57:48.006Z",
+         "attachments": [],
+         "name": "4;#5FA881021B WYF##428502975#090523*755 TOS0010700F*&#5FA880241F    ##450313213#061022*672 DU9D0089B6N*&#5FF881805BD   ##435202385#300123*676 EL80014558.*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZJYU*=;etichetta BAUGRUPPEN (205)"
+      }
+   ],
+   "timeStamp": "2023-05-09T07:57:48.006Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "070",
+   "user": "254-ARUG"
+}
+]]]
+
+11:32:56.312> {{{SERVER: Sending to server}}}
+
+11:33:02.461> {{{SERVER: Response code: 200}}}
+
+11:33:02.469> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:33:02.474> {{{SERVER: Request data: https://localhost:443/sabelt/cg/ProgressDeclaration POST}}}
+
+11:33:02.478> [[[DEBUG: Moving to sent: COLLAUDO 01Srework - 2023-05-09 09-57-48.txtDEBUG.txt]]]
+
+11:33:02.482> [[[DEBUG: Processing end: COLLAUDO 01Srework - 2023-05-09 09-57-48.txtDEBUG.txt]]]
+
+12:26:41.190> {{{SERVER: Client created with base: https://localhost:443}}}
+
+14:47:47.093> {{{SERVER: Client created with base: https://localhost:443}}}

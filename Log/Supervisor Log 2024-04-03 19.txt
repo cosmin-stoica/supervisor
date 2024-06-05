@@ -1,0 +1,2205 @@
+
+10:08:02.415> {{{SERVER: Sending to server}}}
+
+10:08:02.453> {{{SERVER: Response code: 400}}}
+
+10:08:02.456> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:08:02.458> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/RecoveryProgressDeclaration POST}}}
+
+10:08:02.461> [[[DEBUG: Moving to error: AFP14NB356CP-28CS015.01 ML2-070 - 2024-04-03 09-50-57.txt]]]
+
+10:08:02.464> [[[DEBUG: Error Handling Processing end: AFP14NB356CP-28CS015.01 ML2-070 - 2024-04-03 09-50-57.txt]]]
+
+10:08:03.467> [[[DEBUG: Error Handling Processing start: AAP13035 ML1-005A - 2024-04-03 09-55-22.txt]]]
+
+10:08:03.471> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0}}}
+
+10:08:03.474> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:08:03.476> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "ML1-005A",
+   "traceability": [],
+   "timeStamp": "2024-04-03T07:55:22.176Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "005A",
+   "user": "436-DALF"
+}
+]]]
+
+10:08:03.479> {{{SERVER: Sending to server}}}
+
+10:08:03.514> {{{SERVER: Response code: 400}}}
+
+10:08:03.516> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"OrderNumber is null or empty","errorMessageForLogging":"OrderNumber is null or empty","errors":["OrderNumber is null or empty"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:08:03.519> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/RecoveryProgressDeclaration POST}}}
+
+10:08:03.521> [[[DEBUG: Moving to error: AAP13035 ML1-005A - 2024-04-03 09-55-22.txt]]]
+
+10:08:03.523> [[[DEBUG: Error Handling Processing end: AAP13035 ML1-005A - 2024-04-03 09-55-22.txt]]]
+
+10:08:04.528> [[[DEBUG: Error Handling Processing start: AAP13035 ML1-005A - 2024-04-03 09-57-39.txt]]]
+
+10:08:04.532> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 0}}}
+
+10:08:04.535> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:08:04.538> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "ML1-005A",
+   "traceability": [],
+   "timeStamp": "2024-04-03T07:57:39.086Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "005A",
+   "user": "436-DALF"
+}
+]]]
+
+10:08:04.540> {{{SERVER: Sending to server}}}
+
+10:08:04.575> {{{SERVER: Response code: 400}}}
+
+10:08:04.578> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"OrderNumber is null or empty","errorMessageForLogging":"OrderNumber is null or empty","errors":["OrderNumber is null or empty"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:08:04.580> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/RecoveryProgressDeclaration POST}}}
+
+10:08:04.583> [[[DEBUG: Moving to error: AAP13035 ML1-005A - 2024-04-03 09-57-39.txt]]]
+
+10:08:04.586> [[[DEBUG: Error Handling Processing end: AAP13035 ML1-005A - 2024-04-03 09-57-39.txt]]]
+
+10:08:05.591> [[[DEBUG: Error Handling Processing start: AFP14NB356CP-28CS009.01 ML2-190 - 2024-04-03 10-04-17.txt]]]
+
+10:08:05.597> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "attachments": [],
+         "name": "1;Avvitatura viti staffa motorino scorrimento guide;3;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "1;Avvitatura viti staffa motorino scorrimento guide;3;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "1;Avvitatura viti staffa motorino scorrimento guide;3;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura viti staffa motorino scorrimento guide;3;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 4
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura viti staffa motorino scorrimento guide;3;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Avvitatura viti staffa motorino scorrimento guide;3;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "2;Avvitatura viti staffa motorino scorrimento guide;3;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "2;Avvitatura viti staffa motorino scorrimento guide;3;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Avvitatura viti staffa motorino scorrimento guide;3;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 4
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Avvitatura viti staffa motorino scorrimento guide;3;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Avvitatura alzasedile su guide;5;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "3;Avvitatura alzasedile su guide;5;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 20.16
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "3;Avvitatura alzasedile su guide;5;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 18
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Avvitatura alzasedile su guide;5;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Avvitatura alzasedile su guide;5;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Avvitatura alzasedile su guide;5;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "4;Avvitatura alzasedile su guide;5;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 20.25
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "4;Avvitatura alzasedile su guide;5;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 18
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Avvitatura alzasedile su guide;5;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Avvitatura alzasedile su guide;5;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Avvitatura alzasedile su guide;5;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "5;Avvitatura alzasedile su guide;5;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 20.25
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "5;Avvitatura alzasedile su guide;5;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 16
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Avvitatura alzasedile su guide;5;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Avvitatura alzasedile su guide;5;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Avvitatura alzasedile su guide;5;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "6;Avvitatura alzasedile su guide;5;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 20.16
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "6;Avvitatura alzasedile su guide;5;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 15
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Avvitatura alzasedile su guide;5;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Avvitatura alzasedile su guide;5;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura alzasedile su guide;5;5;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "7;Avvitatura alzasedile su guide;5;5;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 20.25
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "7;Avvitatura alzasedile su guide;5;5;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 17
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura alzasedile su guide;5;5;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura alzasedile su guide;5;5;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Avvitatura alzasedile su guide;5;6;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "8;Avvitatura alzasedile su guide;5;6;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 20.34
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "8;Avvitatura alzasedile su guide;5;6;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 14
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Avvitatura alzasedile su guide;5;6;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 30
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Avvitatura alzasedile su guide;5;6;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Avvitatura cuscino posteriore su alzasedile;7;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "9;Avvitatura cuscino posteriore su alzasedile;7;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.03
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "9;Avvitatura cuscino posteriore su alzasedile;7;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 72
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Avvitatura cuscino posteriore su alzasedile;7;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Avvitatura cuscino posteriore su alzasedile;7;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Avvitatura cuscino posteriore su alzasedile;7;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "10;Avvitatura cuscino posteriore su alzasedile;7;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.12
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "10;Avvitatura cuscino posteriore su alzasedile;7;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 58
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Avvitatura cuscino posteriore su alzasedile;7;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Avvitatura cuscino posteriore su alzasedile;7;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "11;Avvitatura cuscino posteriore su alzasedile;7;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "11;Avvitatura cuscino posteriore su alzasedile;7;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.1
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "11;Avvitatura cuscino posteriore su alzasedile;7;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 65
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "11;Avvitatura cuscino posteriore su alzasedile;7;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "11;Avvitatura cuscino posteriore su alzasedile;7;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "12;Avvitatura cuscino posteriore su alzasedile;7;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "12;Avvitatura cuscino posteriore su alzasedile;7;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.02
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "12;Avvitatura cuscino posteriore su alzasedile;7;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 72
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "12;Avvitatura cuscino posteriore su alzasedile;7;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "12;Avvitatura cuscino posteriore su alzasedile;7;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "13;Avvitatura cuscino anteriore su alzasedile;8;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "13;Avvitatura cuscino anteriore su alzasedile;8;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.02
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "13;Avvitatura cuscino anteriore su alzasedile;8;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "13;Avvitatura cuscino anteriore su alzasedile;8;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 32
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "13;Avvitatura cuscino anteriore su alzasedile;8;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "14;Avvitatura cuscino anteriore su alzasedile;8;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "14;Avvitatura cuscino anteriore su alzasedile;8;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.37
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "14;Avvitatura cuscino anteriore su alzasedile;8;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 116
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "14;Avvitatura cuscino anteriore su alzasedile;8;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 32
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "14;Avvitatura cuscino anteriore su alzasedile;8;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "15;Avvitatura biellette;9;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "15;Avvitatura biellette;9;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.37
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "15;Avvitatura biellette;9;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 10
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "15;Avvitatura biellette;9;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "15;Avvitatura biellette;9;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "16;Avvitatura biellette;9;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "16;Avvitatura biellette;9;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.3
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "16;Avvitatura biellette;9;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 12
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "16;Avvitatura biellette;9;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "16;Avvitatura biellette;9;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "17;Avvitatura schienale su alzasedile Parte 1;12;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "17;Avvitatura schienale su alzasedile Parte 1;12;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.21
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "17;Avvitatura schienale su alzasedile Parte 1;12;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 22
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "17;Avvitatura schienale su alzasedile Parte 1;12;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "17;Avvitatura schienale su alzasedile Parte 1;12;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "18;Avvitatura schienale su alzasedile Parte 1;12;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "18;Avvitatura schienale su alzasedile Parte 1;12;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.1
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "18;Avvitatura schienale su alzasedile Parte 1;12;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 22
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "18;Avvitatura schienale su alzasedile Parte 1;12;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "18;Avvitatura schienale su alzasedile Parte 1;12;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "19;Avvitatura schienale su alzasedile Parte 1;12;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "19;Avvitatura schienale su alzasedile Parte 1;12;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.1
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "19;Avvitatura schienale su alzasedile Parte 1;12;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 18
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "19;Avvitatura schienale su alzasedile Parte 1;12;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "19;Avvitatura schienale su alzasedile Parte 1;12;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "20;Avvitatura schienale su alzasedile Parte 1;12;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "20;Avvitatura schienale su alzasedile Parte 1;12;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.19
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "20;Avvitatura schienale su alzasedile Parte 1;12;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 18
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "20;Avvitatura schienale su alzasedile Parte 1;12;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 34
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "20;Avvitatura schienale su alzasedile Parte 1;12;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "21;Avvitatura schienale su alzasedile Parte 2;13;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "21;Avvitatura schienale su alzasedile Parte 2;13;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.19
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "21;Avvitatura schienale su alzasedile Parte 2;13;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 69
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "21;Avvitatura schienale su alzasedile Parte 2;13;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "21;Avvitatura schienale su alzasedile Parte 2;13;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "22;Avvitatura schienale su alzasedile Parte 2;13;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "22;Avvitatura schienale su alzasedile Parte 2;13;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 24.21
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "22;Avvitatura schienale su alzasedile Parte 2;13;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 52
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "22;Avvitatura schienale su alzasedile Parte 2;13;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "22;Avvitatura schienale su alzasedile Parte 2;13;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "23;Avvitatura ramo cintura, sedile destro;17;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "23;Avvitatura ramo cintura, sedile destro;17;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 40.41
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "23;Avvitatura ramo cintura, sedile destro;17;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 106
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "23;Avvitatura ramo cintura, sedile destro;17;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 35
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "23;Avvitatura ramo cintura, sedile destro;17;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica(pull-up);19;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica(pull-up);19;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 1
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica(pull-up);19;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica(pull-up);19;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 1
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "24;Avvitatura viti per plastica(pull-up);19;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica(pull-up);19;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica(pull-up);19;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 1
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica(pull-up);19;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica(pull-up);19;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 1
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "25;Avvitatura viti per plastica(pull-up);19;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;20;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;20;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;20;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;20;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 4
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "26;Avvitatura viti per plastica;20;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;20;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;20;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;20;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;20;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 4
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "27;Avvitatura viti per plastica;20;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;20;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;20;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;20;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;20;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 4
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "28;Avvitatura viti per plastica;20;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;20;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;20;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;20;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;20;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": 4
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "29;Avvitatura viti per plastica;20;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:04:17.204Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000055006-01",
+   "serialNumber": "OP000055006-01",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "ML2-190",
+   "traceability": [
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "1;AAP13026S/N022658;GUIDA SX ELETTRICA"
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "2;AAP13027S/N022622;GUIDA DX ELETTRICA"
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "3;AAP14080   _C085240280011OK;ALZASEDILE ELETTRICO DX"
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "4;AFP14NB356CP-28CS009.01.CU|OP000055006.1-01|OP000055006.1-01|AFP28COMPDRE6C3W009_00;CUSCINO MES"
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "5;AFP14NB356CP-28CS009.01|OP000055006-01|OP000055006-01|AFP28COMPDRE6C3W009_00;SCHIENALE MES"
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "6;ACP13164_A;Ramo cintura"
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "7;0324;Lotto di produzione"
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "8;ACP13349B1052402197H;CABLAGGIO PRINCIPALE (RAGNO DX)"
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "9;ACP13357C005230404169Z;CABLAGGIO VETTURA PASSENGER ELE."
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "10;ACP13045/0000012498;SWITCH PACK PASSENGER DX"
+      },
+      {
+         "timeStamp": "2024-04-03T08:04:17.204Z",
+         "attachments": [],
+         "name": "11;ACP13343000524020520H;CABLAGGIO BRIGLIA TASTI"
+      }
+   ],
+   "timeStamp": "2024-04-03T08:04:17.204Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "190",
+   "user": "343-ROSA"
+}
+]]]
+
+10:08:05.600> {{{SERVER: Sending to server}}}
+
+10:08:05.637> {{{SERVER: Response code: 400}}}
+
+10:08:05.640> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:08:05.643> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/RecoveryProgressDeclaration POST}}}
+
+10:08:05.646> [[[DEBUG: Moving to error: AFP14NB356CP-28CS009.01 ML2-190 - 2024-04-03 10-04-17.txt]]]
+
+10:08:05.649> [[[DEBUG: Error Handling Processing end: AFP14NB356CP-28CS009.01 ML2-190 - 2024-04-03 10-04-17.txt]]]
+
+10:08:06.655> [[[DEBUG: Error Handling Processing start: AFP14NB356CP-28CS004.01 ML2-05A - 2024-04-03 10-05-43.txt]]]
+
+10:08:06.660> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "OP000055715-01",
+   "serialNumber": "OP000055715-01",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "ML2-05A",
+   "traceability": [{
+      "timeStamp": "2024-04-03T08:05:43.202Z",
+      "attachments": [],
+      "name": "1;AFP14NB356CP-28CS004.01|OP000055715-01|OP000055715-01|AFP28COMPDRE6C3W004_00;SCHIENALE"
+   }],
+   "timeStamp": "2024-04-03T08:05:43.202Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "05A",
+   "user": "048-MAGG"
+}
+]]]
+
+10:08:06.663> {{{SERVER: Sending to server}}}
+
+10:08:06.698> {{{SERVER: Response code: 400}}}
+
+10:08:06.702> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:08:06.705> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/RecoveryProgressDeclaration POST}}}
+
+10:08:06.708> [[[DEBUG: Moving to error: AFP14NB356CP-28CS004.01 ML2-05A - 2024-04-03 10-05-43.txt]]]
+
+10:08:06.711> [[[DEBUG: Error Handling Processing end: AFP14NB356CP-28CS004.01 ML2-05A - 2024-04-03 10-05-43.txt]]]
+
+10:08:07.715> [[[DEBUG: Error Handling Processing start: AFP14NB841CP-28CS009.01 ML2-180 - 2024-04-03 10-05-56.txt]]]
+
+10:08:07.720> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "OP000055415-01",
+   "serialNumber": "OP000055415-01",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "ML2-180",
+   "traceability": [{
+      "timeStamp": "2024-04-03T08:05:56.215Z",
+      "attachments": [],
+      "name": "1;AFP14NB841CP-28CS009.01|OP000055415-01|OP000055415-01|AFP28COMPSRM4C3W009_00;ETICHETTA MES"
+   }],
+   "timeStamp": "2024-04-03T08:05:56.215Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "180",
+   "user": "300-VIZF"
+}
+]]]
+
+10:08:07.723> {{{SERVER: Sending to server}}}
+
+10:08:07.757> {{{SERVER: Response code: 400}}}
+
+10:08:07.761> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:08:07.764> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/RecoveryProgressDeclaration POST}}}
+
+10:08:07.767> [[[DEBUG: Moving to error: AFP14NB841CP-28CS009.01 ML2-180 - 2024-04-03 10-05-56.txt]]]
+
+10:08:07.770> [[[DEBUG: Error Handling Processing end: AFP14NB841CP-28CS009.01 ML2-180 - 2024-04-03 10-05-56.txt]]]
+
+10:08:10.729> [[[DEBUG: Processing start: Login ML2-070 - 2024-04-03 10-08-07.txt]]]
+
+10:08:10.734> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:08:07.344Z",
+   "workstation": "ML2-070",
+   "user": "300-VIZF",
+   "status": "1"
+}
+]]]
+
+10:08:10.737> {{{SERVER: Sending to server}}}
+
+10:08:10.793> {{{SERVER: Response code: 200}}}
+
+10:08:10.796> {{{SERVER: Response body: true}}}
+
+10:08:10.799> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:08:10.802> [[[DEBUG: Moving to sent: Login ML2-070 - 2024-04-03 10-08-07.txt]]]
+
+10:08:10.805> [[[DEBUG: Processing end: Login ML2-070 - 2024-04-03 10-08-07.txt]]]
+
+10:08:26.799> [[[DEBUG: Processing start: Avvio ML2-070 - 2024-04-03 10-08-23.txt]]]
+
+10:08:26.804> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:08:23.869Z",
+   "orderNumber": "OP000055006-01",
+   "serialNumber": "OP000055006-01",
+   "workstation": "ML2-070",
+   "operation": "070",
+   "user": "300-VIZF"
+}
+]]]
+
+10:08:26.807> {{{SERVER: Sending to server}}}
+
+10:08:26.899> {{{SERVER: Response code: 400}}}
+
+10:08:26.903> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Il Serial Number non è ancora stato dichiarato nell'operazione 190 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055006-01, OrderNumber: OP000055006-01, Operation: 070","errorMessageForLogging":"Il Serial Number non è ancora stato dichiarato nell'operazione 190 !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055006-01, OrderNumber: OP000055006-01, Operation: 070","errors":["Il Serial Number non è ancora stato dichiarato nell'operazione 190 !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055006-01, OrderNumber: OP000055006-01, Operation: 070"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:08:26.906> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+10:08:26.910> [[[DEBUG: Moving to error: Avvio ML2-070 - 2024-04-03 10-08-23.txt]]]
+
+10:08:26.913> [[[DEBUG: Processing end: Avvio ML2-070 - 2024-04-03 10-08-23.txt]]]
+
+10:08:42.910> [[[DEBUG: Processing start: AFP14NB356CP-28CS009.01 ML2-160 - 2024-04-03 10-08-40.txt]]]
+
+10:08:42.915> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Verif. termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:08:40.670Z",
+            "value": 2.32
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Verif. termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-04-03T08:08:40.670Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000055008-01",
+   "serialNumber": "OP000055008-01",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "ML2-160",
+   "traceability": [
+      {
+         "timeStamp": "2024-04-03T08:08:40.670Z",
+         "attachments": [],
+         "name": "1;AFP14NB356CP-28CS009.01|OP000055008-01|OP000055008-01|AFP28COMPDRE6C3W009_00;SCHIENALE MES"
+      },
+      {
+         "timeStamp": "2024-04-03T08:08:40.670Z",
+         "attachments": [],
+         "name": "2;AAP14129S/N007998;Schienale DX NERO"
+      },
+      {
+         "timeStamp": "2024-04-03T08:08:40.670Z",
+         "attachments": [],
+         "name": "3;02 24;Lotto di produzione"
+      },
+      {
+         "timeStamp": "2024-04-03T08:08:40.670Z",
+         "attachments": [],
+         "name": "4;ACP133460005240104190N;Cablaggio lombare"
+      },
+      {
+         "timeStamp": "2024-04-03T08:08:40.670Z",
+         "attachments": [],
+         "name": "5;AAP13034;Lombare"
+      },
+      {
+         "timeStamp": "2024-04-03T08:08:40.670Z",
+         "attachments": [],
+         "name": "6;8583403 A15 ASM PUMP 4W 0005006 M8D4 20230424 2 0927;Motorino lombare"
+      },
+      {
+         "timeStamp": "2024-04-03T08:08:40.670Z",
+         "attachments": [],
+         "name": "7;V28AR04700046;Termoforo Schienale"
+      },
+      {
+         "timeStamp": "2024-04-03T08:08:40.670Z",
+         "attachments": [],
+         "name": "8;AAP28FOCOMDSCH009_B01224017424000017992;Fodera"
+      }
+   ],
+   "timeStamp": "2024-04-03T08:08:40.670Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "160",
+   "user": "038-MARA"
+}
+]]]
+
+10:08:42.918> {{{SERVER: Sending to server}}}
+
+10:08:42.983> {{{SERVER: Response code: 400}}}
+
+10:08:42.986> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"ProgressDeclarationMultipleByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055008-01, operation: 160, entityId: 112278","errorMessageForLogging":"ProgressDeclarationMultipleByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055008-01, operation: 160, entityId: 112278","errors":["ProgressDeclarationMultipleByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055008-01, operation: 160, entityId: 112278"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:08:42.989> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/ProgressDeclaration POST}}}
+
+10:08:42.991> [[[DEBUG: Moving to error: AFP14NB356CP-28CS009.01 ML2-160 - 2024-04-03 10-08-40.txt]]]
+
+10:08:42.995> [[[DEBUG: Processing end: AFP14NB356CP-28CS009.01 ML2-160 - 2024-04-03 10-08-40.txt]]]
+
+10:09:08.988> [[[DEBUG: Processing start: AFP16NC481CP-16012SS.01 ML1-005A - 2024-04-03 10-09-06.txt]]]
+
+10:09:08.995> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "OP000055176-01",
+   "serialNumber": "OP000055176-01",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "ML1-005A",
+   "traceability": [{
+      "timeStamp": "2024-04-03T08:09:06.148Z",
+      "attachments": [],
+      "name": "1;AFP16NC481CP-16012SS.01|OP000055176-01|OP000055176-01;SCHIENALE"
+   }],
+   "timeStamp": "2024-04-03T08:09:06.148Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "005A",
+   "user": "020-VOTI"
+}
+]]]
+
+10:09:08.998> {{{SERVER: Sending to server}}}
+
+10:09:09.311> {{{SERVER: Response code: 200}}}
+
+10:09:09.314> {{{SERVER: Response body: true}}}
+
+10:09:09.317> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/ProgressDeclaration POST}}}
+
+10:09:09.320> [[[DEBUG: Moving to sent: AFP16NC481CP-16012SS.01 ML1-005A - 2024-04-03 10-09-06.txt]]]
+
+10:09:09.323> [[[DEBUG: Processing end: AFP16NC481CP-16012SS.01 ML1-005A - 2024-04-03 10-09-06.txt]]]
+
+10:09:15.323> [[[DEBUG: Processing start: Avvio ML1-005A - 2024-04-03 10-09-11.txt]]]
+
+10:09:15.328> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:09:11.043Z",
+   "orderNumber": "OP000055176-01",
+   "serialNumber": "OP000055176-01",
+   "workstation": "ML1-005A",
+   "operation": "005A",
+   "user": "020-VOTI"
+}
+]]]
+
+10:09:15.331> {{{SERVER: Sending to server}}}
+
+10:09:15.390> {{{SERVER: Response code: 400}}}
+
+10:09:15.394> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"StartProcessingUnitByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055176-01, operation: 005A ","errorMessageForLogging":"StartProcessingUnitByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055176-01, operation: 005A ","errors":["StartProcessingUnitByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055176-01, operation: 005A "],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:09:15.396> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+10:09:15.399> [[[DEBUG: Moving to error: Avvio ML1-005A - 2024-04-03 10-09-11.txt]]]
+
+10:09:15.404> [[[DEBUG: Processing end: Avvio ML1-005A - 2024-04-03 10-09-11.txt]]]
+
+10:09:36.396> [[[DEBUG: Processing start: Logout ML2-160 - 2024-04-03 10-09-33.txt]]]
+
+10:09:36.402> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:09:33.375Z",
+   "workstation": "ML2-160",
+   "user": "038-MARA",
+   "status": "0"
+}
+]]]
+
+10:09:36.405> {{{SERVER: Sending to server}}}
+
+10:09:36.458> {{{SERVER: Response code: 200}}}
+
+10:09:36.461> {{{SERVER: Response body: true}}}
+
+10:09:36.464> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:09:36.467> [[[DEBUG: Moving to sent: Logout ML2-160 - 2024-04-03 10-09-33.txt]]]
+
+10:09:36.470> [[[DEBUG: Processing end: Logout ML2-160 - 2024-04-03 10-09-33.txt]]]
+
+10:09:47.470> [[[DEBUG: Processing start: AFP16NC478CP-16004SS.01 ML1-0050 - 2024-04-03 10-09-45.txt]]]
+
+10:09:47.475> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "OP000055872-01",
+   "serialNumber": "OP000055872-01",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "ML1-0050",
+   "traceability": [{
+      "timeStamp": "2024-04-03T08:09:45.265Z",
+      "attachments": [],
+      "name": "1;AFP16NC478CP-16004SS.01|OP000055872-01|OP000055872-01;SCHIENALE"
+   }],
+   "timeStamp": "2024-04-03T08:09:45.265Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "0050",
+   "user": "438-LEOV"
+}
+]]]
+
+10:09:47.478> {{{SERVER: Sending to server}}}
+
+10:09:47.785> {{{SERVER: Response code: 200}}}
+
+10:09:47.788> {{{SERVER: Response body: true}}}
+
+10:09:47.791> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/ProgressDeclaration POST}}}
+
+10:09:47.794> [[[DEBUG: Moving to sent: AFP16NC478CP-16004SS.01 ML1-0050 - 2024-04-03 10-09-45.txt]]]
+
+10:09:47.798> [[[DEBUG: Processing end: AFP16NC478CP-16004SS.01 ML1-0050 - 2024-04-03 10-09-45.txt]]]
+
+10:09:53.798> [[[DEBUG: Processing start: Logout ML1-0050 - 2024-04-03 10-09-47.txt]]]
+
+10:09:53.803> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:09:47.549Z",
+   "workstation": "ML1-0050",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+10:09:53.806> {{{SERVER: Sending to server}}}
+
+10:09:53.866> {{{SERVER: Response code: 200}}}
+
+10:09:53.869> {{{SERVER: Response body: true}}}
+
+10:09:53.872> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:09:53.875> [[[DEBUG: Moving to sent: Logout ML1-0050 - 2024-04-03 10-09-47.txt]]]
+
+10:09:53.878> [[[DEBUG: Processing end: Logout ML1-0050 - 2024-04-03 10-09-47.txt]]]
+
+10:09:54.881> [[[DEBUG: Processing start: Login ML2-180 - 2024-04-03 10-09-56.txt]]]
+
+10:09:54.886> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:09:56.199Z",
+   "workstation": "ML2-180",
+   "user": "038-MARA",
+   "status": "1"
+}
+]]]
+
+10:09:54.889> {{{SERVER: Sending to server}}}
+
+10:09:54.973> {{{SERVER: Response code: 200}}}
+
+10:09:54.976> {{{SERVER: Response body: true}}}
+
+10:09:54.979> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:09:54.982> [[[DEBUG: Moving to sent: Login ML2-180 - 2024-04-03 10-09-56.txt]]]
+
+10:09:54.985> [[[DEBUG: Processing end: Login ML2-180 - 2024-04-03 10-09-56.txt]]]
+
+10:10:05.988> [[[DEBUG: Processing start: Avvio ML2-180 - 2024-04-03 10-10-06.txt]]]
+
+10:10:05.993> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:10:06.703Z",
+   "orderNumber": "OP000055415.1-01",
+   "serialNumber": "OP000055415.1-01",
+   "workstation": "ML2-180",
+   "operation": "180",
+   "user": "038-MARA"
+}
+]]]
+
+10:10:05.997> {{{SERVER: Sending to server}}}
+
+10:10:06.111> {{{SERVER: Response code: 400}}}
+
+10:10:06.115> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055415.1-01, OrderNumber: OP000055415.1-01, Operation: 180","errorMessageForLogging":"Serial Number sconosciuto !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055415.1-01, OrderNumber: OP000055415.1-01, Operation: 180","errors":["Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000055415.1-01, OrderNumber: OP000055415.1-01, Operation: 180"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:10:06.118> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+10:10:06.121> [[[DEBUG: Moving to error: Avvio ML2-180 - 2024-04-03 10-10-06.txt]]]
+
+10:10:06.125> [[[DEBUG: Processing end: Avvio ML2-180 - 2024-04-03 10-10-06.txt]]]
+
+10:10:37.115> [[[DEBUG: Processing start: Login ML1-0060 - 2024-04-03 10-10-35.txt]]]
+
+10:10:37.121> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:10:35.699Z",
+   "workstation": "ML1-0060",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+10:10:37.124> {{{SERVER: Sending to server}}}
+
+10:10:37.200> {{{SERVER: Response code: 200}}}
+
+10:10:37.204> {{{SERVER: Response body: true}}}
+
+10:10:37.207> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:10:37.210> [[[DEBUG: Moving to sent: Login ML1-0060 - 2024-04-03 10-10-35.txt]]]
+
+10:10:37.213> [[[DEBUG: Processing end: Login ML1-0060 - 2024-04-03 10-10-35.txt]]]
+
+10:11:13.203> [[[DEBUG: Processing start: AFP16NC481CP-16012SS.01 ML1-005A - 2024-04-03 10-11-10.txt]]]
+
+10:11:13.208> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "OP000055176-01",
+   "serialNumber": "OP000055176-01",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "ML1-005A",
+   "traceability": [{
+      "timeStamp": "2024-04-03T08:11:10.942Z",
+      "attachments": [],
+      "name": "1;AFP16NC481CP-16012SS.01|OP000055176-01|OP000055176-01;SCHIENALE"
+   }],
+   "timeStamp": "2024-04-03T08:11:10.942Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "005A",
+   "user": "020-VOTI"
+}
+]]]
+
+10:11:13.211> {{{SERVER: Sending to server}}}
+
+10:11:13.309> {{{SERVER: Response code: 400}}}
+
+10:11:13.313> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"ProgressDeclarationMultipleByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055176-01, operation: 005A, entityId: 111105","errorMessageForLogging":"ProgressDeclarationMultipleByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055176-01, operation: 005A, entityId: 111105","errors":["ProgressDeclarationMultipleByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055176-01, operation: 005A, entityId: 111105"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:11:13.316> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/ProgressDeclaration POST}}}
+
+10:11:13.318> [[[DEBUG: Moving to error: AFP16NC481CP-16012SS.01 ML1-005A - 2024-04-03 10-11-10.txt]]]
+
+10:11:13.322> [[[DEBUG: Processing end: AFP16NC481CP-16012SS.01 ML1-005A - 2024-04-03 10-11-10.txt]]]
+
+10:11:29.317> [[[DEBUG: Processing start: Avvio ML1-0060 - 2024-04-03 10-11-25.txt]]]
+
+10:11:29.322> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:11:25.424Z",
+   "orderNumber": "OP000055872-01",
+   "serialNumber": "OP000055872-01",
+   "workstation": "ML1-0060",
+   "operation": "0060",
+   "user": "438-LEOV"
+}
+]]]
+
+10:11:29.325> {{{SERVER: Sending to server}}}
+
+10:11:29.540> {{{SERVER: Response code: 200}}}
+
+10:11:29.545> {{{SERVER: Response body: true}}}
+
+10:11:29.548> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+10:11:29.551> [[[DEBUG: Moving to sent: Avvio ML1-0060 - 2024-04-03 10-11-25.txt]]]
+
+10:11:29.555> [[[DEBUG: Processing end: Avvio ML1-0060 - 2024-04-03 10-11-25.txt]]]
+
+10:11:35.558> [[[DEBUG: Processing start: Logout ML1-005A - 2024-04-03 10-11-30.txt]]]
+
+10:11:35.563> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:11:30.242Z",
+   "workstation": "ML1-005A",
+   "user": "020-VOTI",
+   "status": "0"
+}
+]]]
+
+10:11:35.566> {{{SERVER: Sending to server}}}
+
+10:11:35.652> {{{SERVER: Response code: 200}}}
+
+10:11:35.656> {{{SERVER: Response body: true}}}
+
+10:11:35.659> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:11:35.662> [[[DEBUG: Moving to sent: Logout ML1-005A - 2024-04-03 10-11-30.txt]]]
+
+10:11:35.665> [[[DEBUG: Processing end: Logout ML1-005A - 2024-04-03 10-11-30.txt]]]
+
+10:12:06.653> [[[DEBUG: Processing start: Login ML1-0010 - 2024-04-03 10-12-01.txt]]]
+
+10:12:06.658> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:12:01.871Z",
+   "workstation": "ML1-0010",
+   "user": "020-VOTI",
+   "status": "1"
+}
+]]]
+
+10:12:06.661> {{{SERVER: Sending to server}}}
+
+10:12:06.716> {{{SERVER: Response code: 200}}}
+
+10:12:06.719> {{{SERVER: Response body: true}}}
+
+10:12:06.722> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:12:06.725> [[[DEBUG: Moving to sent: Login ML1-0010 - 2024-04-03 10-12-01.txt]]]
+
+10:12:06.728> [[[DEBUG: Processing end: Login ML1-0010 - 2024-04-03 10-12-01.txt]]]
+
+10:12:07.731> [[[DEBUG: Processing start: Avvio ML1-0010 - 2024-04-03 10-12-04.txt]]]
+
+10:12:07.736> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:12:04.961Z",
+   "orderNumber": "OP000055176.1-01",
+   "serialNumber": "OP000055176.1-01",
+   "workstation": "ML1-0010",
+   "operation": "0010",
+   "user": "020-VOTI"
+}
+]]]
+
+10:12:07.739> {{{SERVER: Sending to server}}}
+
+10:12:08.072> {{{SERVER: Response code: 200}}}
+
+10:12:08.075> {{{SERVER: Response body: true}}}
+
+10:12:08.078> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+10:12:08.082> [[[DEBUG: Moving to sent: Avvio ML1-0010 - 2024-04-03 10-12-04.txt]]]
+
+10:12:08.085> [[[DEBUG: Processing end: Avvio ML1-0010 - 2024-04-03 10-12-04.txt]]]
+
+10:14:36.015> [[[DEBUG: Processing start: Logout ML1-0060 - 2024-04-03 10-14-32.txt]]]
+
+10:14:36.020> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:14:32.274Z",
+   "workstation": "ML1-0060",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+10:14:36.023> {{{SERVER: Sending to server}}}
+
+10:14:36.163> {{{SERVER: Response code: 200}}}
+
+10:14:36.167> {{{SERVER: Response body: true}}}
+
+10:14:36.170> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:14:36.173> [[[DEBUG: Moving to sent: Logout ML1-0060 - 2024-04-03 10-14-32.txt]]]
+
+10:14:36.177> [[[DEBUG: Processing end: Logout ML1-0060 - 2024-04-03 10-14-32.txt]]]
+
+10:15:02.165> [[[DEBUG: Processing start: Logout ML2-180 - 2024-04-03 10-14-59.txt]]]
+
+10:15:02.170> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:14:59.563Z",
+   "workstation": "ML2-180",
+   "user": "038-MARA",
+   "status": "0"
+}
+]]]
+
+10:15:02.173> {{{SERVER: Sending to server}}}
+
+10:15:02.245> {{{SERVER: Response code: 200}}}
+
+10:15:02.248> {{{SERVER: Response body: true}}}
+
+10:15:02.251> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:15:02.254> [[[DEBUG: Moving to sent: Logout ML2-180 - 2024-04-03 10-14-59.txt]]]
+
+10:15:02.258> [[[DEBUG: Processing end: Logout ML2-180 - 2024-04-03 10-14-59.txt]]]
+
+10:15:03.261> [[[DEBUG: Processing start: Logout ML1-0010 - 2024-04-03 10-14-56.txt]]]
+
+10:15:03.266> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:14:56.664Z",
+   "workstation": "ML1-0010",
+   "user": "020-VOTI",
+   "status": "0"
+}
+]]]
+
+10:15:03.270> {{{SERVER: Sending to server}}}
+
+10:15:03.328> {{{SERVER: Response code: 200}}}
+
+10:15:03.332> {{{SERVER: Response body: true}}}
+
+10:15:03.335> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:15:03.338> [[[DEBUG: Moving to sent: Logout ML1-0010 - 2024-04-03 10-14-56.txt]]]
+
+10:15:03.342> [[[DEBUG: Processing end: Logout ML1-0010 - 2024-04-03 10-14-56.txt]]]
+
+10:15:04.344> [[[DEBUG: Processing start: Logout ML2-05B - 2024-04-03 10-11-03.txt]]]
+
+10:15:04.349> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:11:03.728Z",
+   "workstation": "ML2-05B",
+   "user": "343-ROSA",
+   "status": "0"
+}
+]]]
+
+10:15:04.352> {{{SERVER: Sending to server}}}
+
+10:15:04.417> {{{SERVER: Response code: 200}}}
+
+10:15:04.421> {{{SERVER: Response body: true}}}
+
+10:15:04.424> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/LoginLogout POST}}}
+
+10:15:04.429> [[[DEBUG: Moving to sent: Logout ML2-05B - 2024-04-03 10-11-03.txt]]]
+
+10:15:04.436> [[[DEBUG: Processing end: Logout ML2-05B - 2024-04-03 10-11-03.txt]]]
