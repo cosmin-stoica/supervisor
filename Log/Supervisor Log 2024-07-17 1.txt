@@ -1,0 +1,550 @@
+
+12:04:28.206> {{{DELETE: File Eliminato con successo : C:\Users\STQ\Desktop\SuperVisorService\Log/Supervisor Log 2024-07-17 1.txt}}}
+
+
+
+
+
+
+
+12:04:40.575> [[[DEBUG: Processing start: Login MAR-25.txt]]]
+
+12:04:40.603> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:04:40.605> [[[DEBUG: 2024-04-03T08:55:28.782Z]]]
+
+12:04:40.607> [[[DEBUG: java.text.SimpleDateFormat@8a9df5f9]]]
+
+12:04:40.611> [[[DEBUG: 2024-04-03 10:55:28.782]]]
+
+12:04:40.622> [[[DEBUG: Utente inserito correttamente]]]
+
+12:04:40.626> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:04:40.630> {{{SERVER: Sending to server}}}
+
+12:04:46.655> {{{SERVER: Response code: 200}}}
+
+12:04:46.661> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:04:46.663> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:04:46.668> [[[DEBUG: Moving to sent: Login MAR-25.txt]]]
+
+12:04:46.671> [[[DEBUG: Processing end: Login MAR-25.txt]]]
+
+12:04:51.304> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:04:51.312> [[[DEBUG: Postazione modificata correttamente]]]
+
+
+
+
+
+
+
+12:05:02.681> [[[DEBUG: Processing start: Login MAR-25.txt]]]
+
+12:05:02.688> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:05:02.691> [[[DEBUG: 2024-04-03T08:55:28.782Z]]]
+
+12:05:02.693> [[[DEBUG: java.text.SimpleDateFormat@8a9df5f9]]]
+
+12:05:02.695> [[[DEBUG: 2024-04-03 10:55:28.782]]]
+
+12:05:02.699> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:05:02.706> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:05:02.708> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:05:02.710> {{{SERVER: Sending to server}}}
+
+12:05:08.730> {{{SERVER: Response code: 200}}}
+
+12:05:08.734> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:05:08.738> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:05:08.741> [[[DEBUG: Moving to sent: Login MAR-25.txt]]]
+
+12:05:08.744> [[[DEBUG: Processing end: Login MAR-25.txt]]]
+
+
+
+
+
+
+
+12:05:54.808> [[[DEBUG: Processing start: Login MAR-25.txt]]]
+
+12:05:54.809> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:05:54.809> [[[DEBUG: 2024-04-03T08:55:28.782Z]]]
+
+12:05:54.809> [[[DEBUG: java.text.SimpleDateFormat@8a9df5f9]]]
+
+12:05:54.809> [[[DEBUG: 2024-04-03 10:55:28.782]]]
+
+12:05:54.817> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:05:54.827> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:05:54.827> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:05:54.827> {{{SERVER: Sending to server}}}
+
+12:06:00.861> {{{SERVER: Response code: 200}}}
+
+12:06:00.863> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:06:00.865> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:06:00.868> [[[DEBUG: Moving to sent: Login MAR-25.txt]]]
+
+12:06:00.870> [[[DEBUG: Processing end: Login MAR-25.txt]]]
+
+
+
+
+
+
+
+12:07:32.009> [[[DEBUG: Processing start: Login MAR-25.txt]]]
+
+12:07:32.019> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:07:32.021> [[[DEBUG: 2024-04-03T08:55:28.782Z]]]
+
+12:07:32.021> [[[DEBUG: java.text.SimpleDateFormat@8a9df5f9]]]
+
+12:07:32.029> [[[DEBUG: 2024-04-03 10:55:28.782]]]
+
+12:07:32.050> [[[DEBUG: Utente inserito correttamente]]]
+
+12:07:32.050> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:07:32.060> {{{SERVER: Sending to server}}}
+
+12:07:38.107> {{{SERVER: Response code: 200}}}
+
+12:07:38.109> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:07:38.110> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:07:38.112> [[[DEBUG: Moving to sent: Login MAR-25.txt]]]
+
+12:07:38.119> [[[DEBUG: Processing end: Login MAR-25.txt]]]
+
+12:08:22.628> {{{SERVER: Client created with base: https://localhost:443}}}
+
+12:08:27.209> [[[DEBUG: Tabella utenti svuotata correttamente]]]
+
+
+
+
+
+
+
+12:08:38.655> [[[DEBUG: Processing start: Login MAR-25.txt]]]
+
+12:08:38.681> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:08:38.685> [[[DEBUG: 2024-04-03T08:55:28.782Z]]]
+
+12:08:38.688> [[[DEBUG: java.text.SimpleDateFormat@8a9df5f9]]]
+
+12:08:38.691> [[[DEBUG: 2024-04-03 10:55:28.782]]]
+
+12:08:38.710> [[[DEBUG: Utente inserito correttamente]]]
+
+12:08:38.714> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:08:38.717> {{{SERVER: Sending to server}}}
+
+12:08:44.737> {{{SERVER: Response code: 200}}}
+
+12:08:44.742> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:08:44.745> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:08:44.757> [[[DEBUG: Moving to sent: Login MAR-25.txt]]]
+
+12:08:44.766> [[[DEBUG: Processing end: Login MAR-25.txt]]]
+
+
+
+
+
+
+
+12:09:25.810> [[[DEBUG: Processing start: Logout.txt]]]
+
+12:09:25.813> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+12:09:25.822> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:09:25.829> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:09:25.832> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+12:09:25.834> {{{SERVER: Sending to server}}}
+
+12:09:31.879> {{{SERVER: Response code: 200}}}
+
+12:09:31.886> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:09:31.892> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:09:31.896> [[[DEBUG: Moving to sent: Logout.txt]]]
+
+12:09:31.899> [[[DEBUG: Processing end: Logout.txt]]]
+
+
+
+
+
+
+
+12:09:57.926> [[[DEBUG: Processing start: Login MAR-25.txt]]]
+
+12:09:57.933> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:09:57.935> [[[DEBUG: 2024-04-03T08:55:28.782Z]]]
+
+12:09:57.936> [[[DEBUG: java.text.SimpleDateFormat@8a9df5f9]]]
+
+12:09:57.938> [[[DEBUG: 2024-04-03 10:55:28.782]]]
+
+12:09:57.942> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:09:57.950> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:09:57.954> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:09:57.956> {{{SERVER: Sending to server}}}
+
+12:10:03.989> {{{SERVER: Response code: 200}}}
+
+12:10:03.991> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:10:03.993> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:10:03.996> [[[DEBUG: Moving to sent: Login MAR-25.txt]]]
+
+12:10:03.999> [[[DEBUG: Processing end: Login MAR-25.txt]]]
+
+
+
+
+
+
+
+12:10:10.004> [[[DEBUG: Processing start: Logout.txt]]]
+
+12:10:10.007> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+12:10:10.012> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:10:10.020> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:10:10.023> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+12:10:10.025> {{{SERVER: Sending to server}}}
+
+12:10:16.048> {{{SERVER: Response code: 200}}}
+
+12:10:16.052> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:10:16.055> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:10:16.058> [[[DEBUG: Moving to sent: Logout.txt]]]
+
+12:10:16.062> [[[DEBUG: Processing end: Logout.txt]]]
+
+12:14:55.448> {{{SERVER: Client created with base: https://localhost:443}}}
+
+12:15:12.315> {{{SERVER: Client created with base: https://localhost:443}}}
+
+12:15:17.607> [[[DEBUG: Tabella utenti svuotata correttamente]]]
+
+
+
+
+
+
+
+12:15:28.334> [[[DEBUG: Processing start: Login MAR-25.txt]]]
+
+12:15:28.368> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:15:28.372> [[[DEBUG: 2024-04-03T08:55:28.782Z]]]
+
+12:15:28.376> [[[DEBUG: java.text.SimpleDateFormat@8a9df5f9]]]
+
+12:15:28.379> [[[DEBUG: 2024-04-03 10:55:28.782]]]
+
+12:15:28.398> [[[DEBUG: Utente inserito correttamente]]]
+
+12:15:28.402> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:15:28.408> {{{SERVER: Sending to server}}}
+
+12:15:34.433> {{{SERVER: Response code: 200}}}
+
+12:15:34.440> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:15:34.444> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:15:34.448> [[[DEBUG: Moving to sent: Login MAR-25.txt]]]
+
+12:15:34.453> [[[DEBUG: Processing end: Login MAR-25.txt]]]
+
+
+
+
+
+
+
+12:15:40.458> [[[DEBUG: Processing start: Logout.txt]]]
+
+12:15:40.466> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+12:15:40.476> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:15:40.486> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:15:40.489> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+12:15:40.492> {{{SERVER: Sending to server}}}
+
+12:15:46.517> {{{SERVER: Response code: 200}}}
+
+12:15:46.524> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:15:46.530> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:15:46.536> [[[DEBUG: Moving to sent: Logout.txt]]]
+
+12:15:46.539> [[[DEBUG: Processing end: Logout.txt]]]
+
+
+
+
+
+
+
+12:15:52.548> [[[DEBUG: Processing start: Login MAR-25.txt]]]
+
+12:15:52.552> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:15:52.555> [[[DEBUG: 2024-04-03T08:55:28.782Z]]]
+
+12:15:52.557> [[[DEBUG: java.text.SimpleDateFormat@8a9df5f9]]]
+
+12:15:52.559> [[[DEBUG: 2024-04-03 10:55:28.782]]]
+
+12:15:52.564> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:15:52.572> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:15:52.576> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:15:52.579> {{{SERVER: Sending to server}}}
+
+12:15:58.606> {{{SERVER: Response code: 200}}}
+
+12:15:58.610> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:15:58.613> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+12:15:58.616> [[[DEBUG: Moving to sent: Login MAR-25.txt]]]
+
+12:15:58.620> [[[DEBUG: Processing end: Login MAR-25.txt]]]
+
+
+
+
+
+
+
+12:16:04.628> [[[DEBUG: Processing start: Logout.txt]]]
+
+12:16:04.631> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+12:16:04.636> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:16:04.643> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:16:04.645> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+12:16:04.646> {{{SERVER: Sending to server}}}

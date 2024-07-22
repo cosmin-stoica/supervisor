@@ -1,0 +1,27 @@
+REPORT CUPRA PREPARAZIONE CUSCINO;
+
+Postazione;AM-1;
+Tipo postazione;Collaudo;
+Operazione;Prova;
+Operatore;002-LAFM;
+Codice;AFSECUP402S.CU;
+Codice completo;AFSECUP402S.CU|OP000008914.1|OP000008914.1-013;
+Data e ora;04-05-2023 09:56:57.066;
+
+Barcode componenti;
+ID;Barcode;Descrizione;
+1;847# 5WA 881 106 D     ###*SJTL 240DKY*=56122304081032CI  ;STRUTTURA;
+2;VKZ# 8S0 963 553 D     ###30082235=68679479;SBR;
+3;#5FF963555#01S01#360338225#230622*XXX BHN0000021*=;TERMOFORO;
+4;AACUP504_A0000203023;FODERA DX NERA;
+5;5FB971392B;CABLAGGIO PASS;
+6;080205700;DATA PRODUZIONE CABLAGGIO;
+7;080205700;LOTTO CABLAGGIO;
+
+Risultati collaudo;
+ID:;Nome job:;Valore finale:;Esito;
+1;Verifica funz termoforo driver - HT CRT;3.51 A;OK;
+1;Verifica funz termoforo driver - SNS RES;8906.02 Ohm;OK;
+2;Verifica funz termoforo driver - HT CRT;3.51 A;OK;
+2;Verifica funz termoforo driver - SNS RES;8281.05 Ohm;OK;
+

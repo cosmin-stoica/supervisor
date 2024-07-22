@@ -1,0 +1,24 @@
+12:47:51.998> [[[DEBUG: Processing start: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+12:47:52.034> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:47:52.044> {{{SERVER: Sending to server}}}
+
+12:47:52.985> {{{SERVER: Response code: 404}}}
+
+12:47:52.989> {{{SERVER: Response body: Not Found}}}
+
+12:47:52.992> {{{SERVER: Request data: https://apig-qa-sabelt.brickreply.net/sabelt/cg/LoginLogout POST}}}
+
+12:47:52.994> [[[DEBUG: ErrorHandler ERROR:: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]]
+
+12:47:52.997> [[[DEBUG: Moving to error: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+12:47:53.000> [[[DEBUG: Processing end: Login ML1-005B - 2024-04-03 10-55-28.txt]]]

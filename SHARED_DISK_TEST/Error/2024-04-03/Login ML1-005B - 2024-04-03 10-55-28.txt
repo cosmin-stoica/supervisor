@@ -1,0 +1,9 @@
+LOGIN;
+
+Postazione;ML1-005B;
+Tipo postazione;Montaggio;
+Operazione;005B;
+Operatore;438-LEOV;
+Codice;AFP16NC480CP-16006SS.01;
+Codice completo;AFP16NC480CP-16006SS.01|OP000055179-01|OP000055179-01;
+Data e ora;03-04-2024 10:55:28.782;

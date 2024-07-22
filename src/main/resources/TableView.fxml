@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<?import org.controlsfx.control.MaskerPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerClasses.TableController">
+   <children>
+      <AnchorPane fx:id="pane" layoutX="10.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="688.0" prefWidth="1465.0">
+         <children>
+            <Rectangle arcWidth="5.0" fill="#004ebc" height="54.0" layoutX="-10.0" layoutY="34.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="1461.0" />
+            <TableView fx:id="table" fixedCellSize="30.0" layoutX="-6.0" layoutY="97.0" prefHeight="591.0" prefWidth="1458.0" styleClass="dirvieww" stylesheets="@css/textflow.css">
+               <columns>
+                  <TableColumn fx:id="tipocolonna" prefWidth="177.33333921432495" text="Tipo" />
+                  <TableColumn fx:id="nomecolonna" minWidth="0.0" prefWidth="1105.0666198730469" text="Nome" />
+                  <TableColumn fx:id="numfilecolonna" prefWidth="176.2667236328125" text="Num.File" />
+               </columns>
+            </TableView>
+            <Button fx:id="indietrobutton" layoutX="1355.0" layoutY="46.0" mnemonicParsing="false" onAction="#setIndietrobutton" styleClass="buttonho" stylesheets="@css/textflow.css" text="Indietro" />
+            <TextField fx:id="cercatext" layoutX="14.0" layoutY="46.0" prefHeight="30.0" prefWidth="149.0" promptText="File" styleClass="button" stylesheets="@css/textflow.css" />
+            <Button fx:id="cercabutton" layoutX="181.0" layoutY="46.0" mnemonicParsing="false" onAction="#cercabuttonaction" styleClass="buttonho" stylesheets="@css/textflow.css" text="Cerca" />
+            <Button fx:id="clearbuttton" layoutX="1179.0" layoutY="46.0" mnemonicParsing="false" onAction="#setClearbuttton" styleClass="buttonho" stylesheets="@css/textflow.css" text="Clear" visible="false" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="30.0" layoutX="266.0" layoutY="46.0" stroke="BLACK" strokeType="INSIDE" width="866.0" />
+            <Text fx:id="pathtext" layoutX="273.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="845.203369140625">
+               <font>
+                  <Font name="Century Gothic" size="12.0" />
+               </font>
+            </Text>
+            <Button fx:id="aggiornabutton" layoutX="1251.0" layoutY="46.0" mnemonicParsing="false" onAction="#setAggiornabutton" styleClass="buttonho" stylesheets="@css/textflow.css" text="Aggiorna" />
+            <AnchorPane fx:id="textpane" layoutX="5.0" layoutY="87.0" prefHeight="598.0" prefWidth="1445.0" visible="false">
+               <children>
+                  <Rectangle arcWidth="5.0" fill="#004ebc" height="182.0" layoutX="1223.0" layoutY="60.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="209.0" />
+                  <TextArea fx:id="text" editable="false" layoutY="11.0" prefHeight="587.0" prefWidth="1201.0" styleClass="dirvieww" stylesheets="@css/textflow.css" />
+                  <Button fx:id="abilita" layoutX="1236.0" layoutY="75.0" mnemonicParsing="false" onAction="#setabilita" prefHeight="31.0" prefWidth="182.0" stylesheets="@css/textflow.css" text="Abilita Modifiche" />
+                  <Button fx:id="salva" layoutX="1236.0" layoutY="195.0" mnemonicParsing="false" onAction="#setsalva" prefHeight="31.0" prefWidth="94.0" stylesheets="@css/textflow.css" text="Salva" visible="false" />
+                  <TextArea fx:id="cmd" layoutX="1223.0" layoutY="268.0" prefHeight="47.0" prefWidth="209.0" styleClass="textcmd" stylesheets="@css/textflow.css" />
+                  <Button fx:id="disabilita" layoutX="1236.0" layoutY="115.0" mnemonicParsing="false" onAction="#setdisabilita" prefHeight="31.0" prefWidth="182.0" stylesheets="@css/textflow.css" text="Disbilita Modifiche" />
+                  <Button fx:id="processa" layoutX="1236.0" layoutY="155.0" mnemonicParsing="false" onAction="#setprocessa" prefHeight="31.0" prefWidth="182.0" stylesheets="@css/textflow.css" text="Processa File" />
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+      <AnchorPane fx:id="caricamento" layoutX="590.0" layoutY="310.0" prefHeight="200.0" prefWidth="200.0" visible="false">
+         <children>
+            <MaskerPane fx:id="wait" style="-fx-background-color: #004ebc;" text="Caricamento..." />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

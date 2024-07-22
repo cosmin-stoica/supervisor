@@ -1,0 +1,33 @@
+
+15:55:26.184> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+
+
+
+
+
+
+15:55:37.200> [[[DEBUG: Processing start: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+15:55:37.243> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T09:10:57.510Z",
+   "orderNumber": "OP000055176.1-01",
+   "serialNumber": "OP000055176.1-01",
+   "workstation": "ML1-0050",
+   "operation": "0050",
+   "user": "438-LEOV"
+}
+]]]
+
+15:55:37.253> {{{SERVER: Sending to server}}}
+
+15:55:38.138> {{{SERVER: Response code: 400}}}
+
+15:55:38.144> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"StartProcessingUnitByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055176.1-01, operation: 0050 ","errorMessageForLogging":"StartProcessingUnitByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055176.1-01, operation: 0050 ","errors":["StartProcessingUnitByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000055176.1-01, operation: 0050 "],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+15:55:38.150> {{{SERVER: Request data: https://apig-sabelt.brickreply.net/sabelt/cg/AvvioFase POST}}}
+
+15:55:38.157> [[[DEBUG: Moving to error: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+15:55:38.164> [[[DEBUG: Processing end: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]

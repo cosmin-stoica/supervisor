@@ -1,0 +1,182 @@
+
+
+.textflow .generic {
+    -fx-skin: "com.sun.javafx.scene.control.skin.TextAreaSkin";
+    -fx-padding: 0;
+    -fx-cursor: default;
+    -fx-background-color: linear-gradient(to bottom, derive(-fx-text-box-border, -10%), -fx-text-box-border),
+        derive(-fx-base,-1%);
+}
+.textflow  .scroll-pane {
+    -fx-background-color: null;
+}
+.textflow  .scroll-pane  .scroll-bar:horizontal {
+    -fx-background-radius: 0 0 2 2;
+}
+.textflow  .scroll-pane  .scroll-bar:vertical {
+    -fx-background-radius: 0 2 2 0;
+}
+.text-flow  .scroll-pane  .corner {
+    -fx-background-radius: 0 0 2 0;
+}
+.textflow .content {
+    /*the is 1px less top and bottom than TextInput because of scrollpane border */
+    -fx-padding: 0.25em 0.583em 0.25em 0.583em; /* 3 7 3 7 */
+    -fx-cursor: text;
+    -fx-background-color:
+        linear-gradient(from 0px 0px to 0px 4px, derive(-fx-control-inner-background, -8%), -fx-control-inner-background);
+    -fx-background-radius: 2;
+}
+.textflow:focused .content {
+    -fx-background-color:
+        -fx-control-inner-background,
+        -fx-faint-focus-color,
+        linear-gradient(from 0px 0px to 0px 5px, derive(-fx-control-inner-background, -9%), -fx-control-inner-background);
+    -fx-background-insets: 0, 0, 2;
+    -fx-background-radius: 2, 1, 0;
+}
+
+.MainPane{
+    -fx-pref-width: 100%;
+    -fx-pref-height: 100%;
+}
+
+.iniview{
+
+    -fx-background-color: #005bd9;
+    -fx-text-fill: #005bd9;
+    -fx-font-size: 16px;
+    -fx-font-family: "Century Gothic";
+}
+
+.button{
+ -fx-background-color: white;
+        -fx-text-fill: black;
+        -fx-font-size: 16px;
+        -fx-font-family: "Century Gothic";
+}
+
+.buttonho {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-font-size: 16px;
+    -fx-font-family: "Century Gothic";
+}
+
+.buttonho:hover {
+    -fx-background-color: #004ebc;
+    -fx-text-fill: white;
+
+}
+
+.menu{
+    -fx-background-color : #004ebc;
+    -fx-opacity: 1.0;
+    -fx-transition: opacity 0.5s;
+}
+
+.menu:hidden {
+    -fx-opacity: 0.0;
+}
+
+.buttonmenu{
+
+    -fx-background-color : #004ebc;
+    -fx-text-fill : white;
+    -fx-font-size : 30 px;
+
+}
+
+
+.buttonmenu2{
+
+    -fx-background-color : #004ebc;
+    -fx-text-fill : white;
+    -fx-padding: 15px;
+    -fx-font-size : 17 px;
+
+}
+
+.initext{
+
+    -fx-background-color : white;
+    -fx-font-family: "Century Gothic";
+
+}
+
+.logtext{
+
+   -fx-font-size: 20 px;
+   -fx-font-family: "Century Gothic";
+
+}
+
+.error-text{
+         -fx-fill: black;
+         -fx-font-size: 15;
+         -fx-font-family: "Century Gothic";
+}
+
+.dirvieww{
+
+    -fx-font-family: "Century Gothic";
+    -fx-font-size: 16px;
+
+}
+
+.textcmd{
+
+fx-font-family: "Century Gothic";
+    -fx-font-size: 10px;
+}
+
+.logview{
+
+    -fx-font-size: 13;
+    -fx-font-family: "Century Gothic";
+
+}
+
+.grid-pane{
+
+    -fx-hgap: 15px;
+    -fx-vgap: 15px;
+}
+
+
+.stackkk {
+      -fx-max-width: -10px; /* Larghezza minima */
+    -fx-padding: 5px;
+}
+
+.stackkk:hover{
+
+}
+
+.labelll {
+
+    -fx-background-color: white;
+    -fx-background-radius: 50%; /* Percentuale di arrotondamento */
+    -fx-min-width: 100px; /* Larghezza minima */
+    -fx-min-height: 100px; /* Altezza minima */
+    -fx-text-fill: black;
+    -fx-font-size: 15px;
+    -fx-font-family: "Century Gothic";
+    -fx-padding: 10px;
+
+}
+
+.labelll:hover{
+     -fx-background-color: #004ebc;
+       -fx-text-fill: white;
+       -fx-animation: scaleUp 0.2s; /* Utilizzo dell'animazione scaleUp */
+   }
+}
+
+.UserPane{
+    -fx-background-color: #ffffff;
+}
+
+.UserTableButtonPane{
+    -fx-background-color: #ffffff;
+}

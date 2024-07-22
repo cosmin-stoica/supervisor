@@ -1,0 +1,1698 @@
+09:13:51.613> [[[DEBUG: Processing start: Avvio AS2-020 - 2024-02-15 09-13-49.txt]]]
+
+09:13:51.618> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-02-15T08:13:49.717Z",
+   "orderNumber": "OP000049129-02",
+   "serialNumber": "OP000049129-02",
+   "workstation": "AS2-020",
+   "operation": "010",
+   "user": "468-ALFG"
+}
+]]]
+
+09:13:51.621> {{{SERVER: Sending to server}}}
+
+09:13:52.059> {{{SERVER: Response code: 200}}}
+
+09:13:52.063> {{{SERVER: Response body: true}}}
+
+09:13:52.066> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+09:13:52.069> [[[DEBUG: Moving to sent: Avvio AS2-020 - 2024-02-15 09-13-49.txt]]]
+
+
+09:58:54.453> [[[DEBUG: Processing start: AFAS1401EX AS2-020 - 2024-02-15 09-58-50.txt]]]
+
+09:58:54.457> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "OP000049129-02",
+   "serialNumber": "OP000049129-02",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AS2-020",
+   "traceability": [
+      {
+         "timeStamp": "2024-02-15T08:58:50.836Z",
+         "attachments": [],
+         "name": "1;AFAS1401EX|OP000049129-02|OP000049129-02;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2024-02-15T08:58:50.836Z",
+         "attachments": [],
+         "name": "2;06022024;Tracciabilita' imbottitura"
+      },
+      {
+         "timeStamp": "2024-02-15T08:58:50.836Z",
+         "attachments": [],
+         "name": "3;AAAS1012CR_P/A8926;CS MONOSCOCCA RENAULT NERO MOSTRINE CROMO"
+      },
+      {
+         "timeStamp": "2024-02-15T08:58:50.836Z",
+         "attachments": [],
+         "name": "4;8010053780810202678461XACAS1007;SENSORE PRESENZA OCCUPANTE"
+      },
+      {
+         "timeStamp": "2024-02-15T08:58:50.836Z",
+         "attachments": [],
+         "name": "5;AAAS1522EX_D-843-01022024;FODERE SEDILE DX PELLE EXPERT"
+      },
+      {
+         "timeStamp": "2024-02-15T08:58:50.836Z",
+         "attachments": [],
+         "name": "6;ACAS1036CR;MOSTRINA LOGO"
+      },
+      {
+         "timeStamp": "2024-02-15T08:58:50.836Z",
+         "attachments": [],
+         "name": "7;ACAS1021CR;MOSTRINA BATMAN"
+      },
+      {
+         "timeStamp": "2024-02-15T08:58:50.836Z",
+         "attachments": [],
+         "name": "8;ACAS1017CR;MOSTRINA LOMBARE SX"
+      },
+      {
+         "timeStamp": "2024-02-15T08:58:50.836Z",
+         "attachments": [],
+         "name": "9;ACAS1018CR;MOSTRINA LOMBARE DX"
+      }
+   ],
+   "timeStamp": "2024-02-15T08:58:50.836Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "010",
+   "user": "468-ALFG"
+}
+]]]
+
+09:58:54.459> {{{SERVER: Sending to server}}}
+
+09:58:54.524> {{{SERVER: Response code: 400}}}
+
+09:58:54.527> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Value cannot be null.\r\nParameter name: source","errorMessageForLogging":"Value cannot be null.\rParameter name: source","errors":["Value cannot be null.\r\nParameter name: source"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+09:58:54.530> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/ProgressDeclaration POST}}}
+
+09:58:54.532> [[[DEBUG: Moving to error: AFAS1401EX AS2-020 - 2024-02-15 09-58-50.txt]]]
+
+
+10:23:52.448> [[[DEBUG: Processing start: Avvio AS2-030 - 2024-02-15 10-23-34.txt]]]
+
+10:23:52.453> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-02-15T09:23:34.179Z",
+   "orderNumber": "OP000049129-02",
+   "serialNumber": "OP000049129-02",
+   "workstation": "AS2-030",
+   "operation": "030",
+   "user": "029-DEFA"
+}
+]]]
+
+10:23:52.456> {{{SERVER: Sending to server}}}
+
+10:23:52.532> {{{SERVER: Response code: 400}}}
+
+10:23:52.536> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000049129-02, OrderNumber: OP000049129-02, Operation: 030","errorMessageForLogging":"Serial Number sconosciuto !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000049129-02, OrderNumber: OP000049129-02, Operation: 030","errors":["Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000049129-02, OrderNumber: OP000049129-02, Operation: 030"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:23:52.539> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+10:23:52.542> [[[DEBUG: Moving to error: Avvio AS2-030 - 2024-02-15 10-23-34.txt]]]
+
+
+10:32:56.032> [[[DEBUG: Processing start: AFAS1401EX AS2-030 - 2024-02-15 10-32-39.txt]]]
+
+10:32:56.037> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "attachments": [],
+         "name": "1;Avvitatura guscio su staffe;8;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "1;Avvitatura guscio su staffe;8;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 24.18
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "1;Avvitatura guscio su staffe;8;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 46
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura guscio su staffe;8;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura guscio su staffe;8;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Avvitatura guscio su staffe;8;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "2;Avvitatura guscio su staffe;8;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 24.34
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "2;Avvitatura guscio su staffe;8;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 16
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Avvitatura guscio su staffe;8;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Avvitatura guscio su staffe;8;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Avvitatura guscio su staffe;8;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "3;Avvitatura guscio su staffe;8;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 24.27
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "3;Avvitatura guscio su staffe;8;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 37
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Avvitatura guscio su staffe;8;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Avvitatura guscio su staffe;8;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Avvitatura guscio su staffe;8;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "4;Avvitatura guscio su staffe;8;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 24.73
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "4;Avvitatura guscio su staffe;8;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 22
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Avvitatura guscio su staffe;8;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 31
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Avvitatura guscio su staffe;8;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Avvitatura staffe su guide;9;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "5;Avvitatura staffe su guide;9;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 45.1
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "5;Avvitatura staffe su guide;9;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 165
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Avvitatura staffe su guide;9;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 32
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Avvitatura staffe su guide;9;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Avvitatura staffe su guide;9;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "6;Avvitatura staffe su guide;9;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 45.19
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "6;Avvitatura staffe su guide;9;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 126
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Avvitatura staffe su guide;9;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 32
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Avvitatura staffe su guide;9;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura staffe su guide;9;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "7;Avvitatura staffe su guide;9;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 45.32
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "7;Avvitatura staffe su guide;9;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 105
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura staffe su guide;9;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 32
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Avvitatura staffe su guide;9;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Avvitatura staffe su guide;9;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "8;Avvitatura staffe su guide;9;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 45.29
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "8;Avvitatura staffe su guide;9;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 70
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Avvitatura staffe su guide;9;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 32
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "8;Avvitatura staffe su guide;9;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Avvitatura ramo cintura sedile DX;12;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "9;Avvitatura ramo cintura sedile DX;12;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 21.51
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "9;Avvitatura ramo cintura sedile DX;12;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 10
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Avvitatura ramo cintura sedile DX;12;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "9;Avvitatura ramo cintura sedile DX;12;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Avvitatura viti per plastica;20;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "10;Avvitatura viti per plastica;20;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "10;Avvitatura viti per plastica;20;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Avvitatura viti per plastica;20;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "10;Avvitatura viti per plastica;20;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "11;Avvitatura viti per plastica;20;2;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "11;Avvitatura viti per plastica;20;2;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "11;Avvitatura viti per plastica;20;2;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "11;Avvitatura viti per plastica;20;2;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "11;Avvitatura viti per plastica;20;2;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "12;Avvitatura viti per plastica;20;3;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "12;Avvitatura viti per plastica;20;3;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "12;Avvitatura viti per plastica;20;3;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "12;Avvitatura viti per plastica;20;3;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "12;Avvitatura viti per plastica;20;3;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "13;Avvitatura viti per plastica;20;4;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "13;Avvitatura viti per plastica;20;4;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "13;Avvitatura viti per plastica;20;4;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "13;Avvitatura viti per plastica;20;4;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "13;Avvitatura viti per plastica;20;4;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "14;Avvitatura viti per plastica;20;5;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "14;Avvitatura viti per plastica;20;5;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "14;Avvitatura viti per plastica;20;5;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "14;Avvitatura viti per plastica;20;5;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "14;Avvitatura viti per plastica;20;5;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "15;Avvitatura viti per plastica;20;6;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "15;Avvitatura viti per plastica;20;6;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "15;Avvitatura viti per plastica;20;6;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "15;Avvitatura viti per plastica;20;6;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "15;Avvitatura viti per plastica;20;6;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "16;Avvitatura viti per plastica;20;7;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "16;Avvitatura viti per plastica;20;7;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "16;Avvitatura viti per plastica;20;7;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "16;Avvitatura viti per plastica;20;7;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "16;Avvitatura viti per plastica;20;7;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "17;Avvitatura viti per plastica;20;8;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "17;Avvitatura viti per plastica;20;8;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "17;Avvitatura viti per plastica;20;8;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "17;Avvitatura viti per plastica;20;8;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "17;Avvitatura viti per plastica;20;8;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;20;9;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;20;9;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;20;9;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;20;9;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "18;Avvitatura viti per plastica;20;9;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;20;10;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;20;10;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;20;10;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;20;10;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "19;Avvitatura viti per plastica;20;10;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;20;11;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;20;11;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;20;11;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;20;11;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "20;Avvitatura viti per plastica;20;11;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;20;12;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "Jolly"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;20;12;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2.5
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;20;12;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;20;12;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": 2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "21;Avvitatura viti per plastica;20;12;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:32:39.700Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000049129-02",
+   "serialNumber": "OP000049129-02",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AS2-030",
+   "traceability": [
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "1;AFAS1401EX|OP000049129-02|OP000049129-02;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "2;S311115138;lotto guide"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "3;AAAS1055NI_D;STAFFA INTERNA DX ZINCATA"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "4;AAAS1058CR;STAFFA ESTERNA DX CROMATA"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "5;220124;Lotto/data guide"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "6;3J3J;Tracciabilita' staffe"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "7;AAAS1050;VITI GRIGIE"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "8;AFAS1401EX|OP000049129-02|OP000049129-02;barcode monoscocca"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "9;ACAS1011_A;RAMO CINTURA DRIVER"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "10;ACAS1685;VITE RAMO CINTURA (LUNGA)"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "11;ACAS1684;RONDELLA ELASTICA"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "12;090124;Tracciabilità ramo cintura"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "13;RIMOZIONE DIMA CABLAGGIO DX 2W;DIMA CABLAGGIO DX"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "14;ACAS1023_G0/96    ;CABLAGGIO DRIVER"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "15;RIMOZIONE DIMA CABLAGGIO DX 2W;RIMOZIONE DIMA CABLAGGIO DX"
+      },
+      {
+         "timeStamp": "2024-02-15T09:32:39.700Z",
+         "attachments": [],
+         "name": "16;8010053780810202678461XACAS1007;DPD"
+      }
+   ],
+   "timeStamp": "2024-02-15T09:32:39.700Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "030",
+   "user": "029-DEFA"
+}
+]]]
+
+10:32:56.041> {{{SERVER: Sending to server}}}
+
+10:32:56.092> {{{SERVER: Response code: 400}}}
+
+10:32:56.095> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Value cannot be null.\r\nParameter name: source","errorMessageForLogging":"Value cannot be null.\rParameter name: source","errors":["Value cannot be null.\r\nParameter name: source"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:32:56.099> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/ProgressDeclaration POST}}}
+
+10:32:56.102> [[[DEBUG: Moving to error: AFAS1401EX AS2-030 - 2024-02-15 10-32-39.txt]]]
+
+
+10:43:46.840> [[[DEBUG: Processing start: Avvio AS2-040 - 2024-02-15 10-43-49.txt]]]
+
+10:43:46.846> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-02-15T09:43:49.498Z",
+   "orderNumber": "OP000049129-02",
+   "serialNumber": "OP000049129-02",
+   "workstation": "AS2-040",
+   "operation": "040",
+   "user": "468-ALFG"
+}
+]]]
+
+10:43:46.849> {{{SERVER: Sending to server}}}
+
+10:43:46.942> {{{SERVER: Response code: 400}}}
+
+10:43:46.946> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000049129-02, OrderNumber: OP000049129-02, Operation: 040","errorMessageForLogging":"Serial Number sconosciuto !\rStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000049129-02, OrderNumber: OP000049129-02, Operation: 040","errors":["Serial Number sconosciuto !\r\nStartProcessingUnitByRequest - Error: NotStartable SerialNumber: OP000049129-02, OrderNumber: OP000049129-02, Operation: 040"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:43:46.949> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/AvvioFase POST}}}
+
+10:43:46.954> [[[DEBUG: Moving to error: Avvio AS2-040 - 2024-02-15 10-43-49.txt]]]
+
+
+10:50:00.526> [[[DEBUG: Processing start: AFAS1401EX AS2-040 - 2024-02-15 10-50-06.txt]]]
+
+10:50:00.532> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 225.61
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 834.48
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Funz. sensore DPD;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 0
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Funz. sensore DPD;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "3;Scorr. guide indietro con 75kg;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 77.09
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;Scorr. guide indietro con 75kg;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "4;Scorr. guide indietro con 75kg - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 86.33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Scorr. guide indietro con 75kg - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "4;Scorr. guide avanti con 75kg;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 87.64
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;Scorr. guide avanti con 75kg;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "5;Scorr. guide avanti con 75kg - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 92.19
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Scorr. guide avanti con 75kg - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "5;Scorr. guide indietro senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 59.55
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;Scorr. guide indietro senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "6;Scorr. guide indietro senza peso - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 70.1
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Scorr. guide indietro senza peso - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "6;Scorr. guide avanti senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 84.04
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Scorr. guide avanti senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "N",
+         "attachments": [],
+         "name": "7;Scorr. guide avanti senza peso - SPT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": 78.7
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Scorr. guide avanti senza peso - SPT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "OP000049129-02",
+   "serialNumber": "OP000049129-02",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AS2-040",
+   "traceability": [{
+      "timeStamp": "2024-02-15T09:50:06.559Z",
+      "attachments": [],
+      "name": "1;AFAS1401EX|OP000049129-02|OP000049129-02;ETICHETTA MES"
+   }],
+   "timeStamp": "2024-02-15T09:50:06.559Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": true,
+   "checkList": [
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "1;Verifica assenza grinze",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "2;Verifica assenza fili liberi (max 4 mm)",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "3;Verifica allineamento cuciture",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "4;Verifica sellatura zona batman e testone",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "5;Verifica assenza difetti estetici su scocca",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "6;Verifica difetti pelle",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "7;Verifica corretto aggancio mostrina + carter",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "8;Verifica pulizia sedili",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "9;Verifica GAP mostrina superiore e scocca",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "10;Verifica presenza numero sedile",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "11;Verifica conformità ramo cintura + vite",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "12;Verifica difetti su carter plastici / mostrine",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "13;Verifica assenza graffi su guide",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "14;Verifica controllo ritegno Belt-Loop",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "15;Verifica layout cavi",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "16;Verifica conformità Quick-Fix",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "17;Verifica oggettivazione serraggio dadi",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      },
+      {
+         "UoM": null,
+         "variableName": null,
+         "step": "18;Verifica presenza scarpette",
+         "results": [{
+            "timeStamp": "2024-02-15T09:50:06.559Z",
+            "attachments": [],
+            "isFailed": true,
+            "value": 0
+         }]
+      }
+   ],
+   "operation": "040",
+   "user": "468-ALFG"
+}
+]]]
+
+10:50:00.535> {{{SERVER: Sending to server}}}
+
+10:50:00.690> {{{SERVER: Response code: 400}}}
+
+10:50:00.696> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"ProgressDeclarationMultipleByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000049129-02, operation: 040, entityId: 95334","errorMessageForLogging":"ProgressDeclarationMultipleByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000049129-02, operation: 040, entityId: 95334","errors":["ProgressDeclarationMultipleByRequest - Error: ProcessingUnitNotFound, orderNumber: OP000049129-02, operation: 040, entityId: 95334"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+10:50:00.701> {{{SERVER: Request data: https://apig-brick004.westeurope.cloudapp.azure.com/sabelt/cg/ProgressDeclaration POST}}}
+
+10:50:00.706> [[[DEBUG: Moving to error: AFAS1401EX AS2-040 - 2024-02-15 10-50-06.txt]]]
+
+

@@ -1,0 +1,9 @@
+LOGOUT;
+
+Postazione;MAR-25;
+Tipo postazione;Collaudo;
+Operazione;040;
+Operatore;438-LEOV;
+Codice;PEZZO TRAPPOLA MOTORINI;
+Codice completo;PEZZO TRAPPOLA MOTORINI|0|0;
+Data e ora;16-07-2024 08:50:00.251;

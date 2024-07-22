@@ -1,0 +1,1329 @@
+
+09:39:15.750> {{{ERROR: USER_HANDLER::initDB:: [SQLITE_ERROR] SQL error or missing database (near ")": syntax error)}}}
+
+09:40:45.987> {{{ERROR: USER_HANDLER::initDB:: [SQLITE_ERROR] SQL error or missing database (near ")": syntax error)}}}
+
+09:41:18.315> {{{ERROR: USER_HANDLER::initDB:: [SQLITE_ERROR] SQL error or missing database (near ")": syntax error)}}}
+
+09:41:33.028> {{{ERROR: USER_HANDLER::initDB:: [SQLITE_ERROR] SQL error or missing database (near "(": syntax error)}}}
+
+09:42:08.056> {{{ERROR: USER_HANDLER::initDB:: [SQLITE_ERROR] SQL error or missing database (near "(": syntax error)}}}
+
+09:42:16.867> {{{ERROR: USER_HANDLER::initDB:: [SQLITE_ERROR] SQL error or missing database (near ")": syntax error)}}}
+
+09:52:21.708> {{{ERROR: USER_HANDLER::getAllUsers:: no such column: 'name'}}}
+
+09:52:55.770> {{{ERROR: USER_HANDLER::getAllUsers:: no such column: 'name'}}}
+
+09:59:51.190> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: s)}}}
+
+10:00:12.790> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: s)}}}
+
+10:00:20.845> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: BIL)}}}
+
+10:00:38.165> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: BIL)}}}
+
+10:00:45.332> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: BIL)}}}
+
+10:00:56.834> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: BIL)}}}
+
+10:01:06.768> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: BIL)}}}
+
+10:01:38.357> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: BIL)}}}
+
+10:01:47.953> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: BIL)}}}
+
+10:02:07.937> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such column: BIL)}}}
+
+10:10:01.736> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (near "?": syntax error)}}}
+
+10:10:06.633> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (near "?": syntax error)}}}
+
+10:11:00.412> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (near "?": syntax error)}}}
+
+10:15:59.595> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+11:03:25.715> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+11:03:56.675> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+11:05:06.320> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+11:11:04.154> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+11:11:04.178> [[[DEBUG: Checker...I'm Checking]]]
+
+11:11:27.275> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+11:12:29.877> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:12:55.897> [[[DEBUG: Processing start: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:12:55.936> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:12:55.941> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:12:55.946> {{{SERVER: Sending to server}}}
+
+11:13:01.988> {{{SERVER: Response code: 400}}}
+
+11:13:01.993> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:13:02.007> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+11:13:02.013> [[[DEBUG: Moving to error: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:13:02.025> [[[DEBUG: Processing end: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:14:39.143> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:15:15.170> [[[DEBUG: Processing start: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:15:15.205> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:15:15.209> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:15:15.215> {{{SERVER: Sending to server}}}
+
+11:15:21.273> {{{SERVER: Response code: 200}}}
+
+11:15:21.279> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:15:21.282> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+11:15:21.287> [[[DEBUG: Moving to sent: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:15:21.290> [[[DEBUG: Processing end: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:17:00.433> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:17:11.450> [[[DEBUG: Processing start: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:17:11.491> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:17:11.496> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:17:11.502> {{{SERVER: Sending to server}}}
+
+11:17:17.533> {{{SERVER: Response code: 200}}}
+
+11:17:17.537> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:17:17.541> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+11:17:17.546> [[[DEBUG: Moving to sent: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:17:17.551> [[[DEBUG: Processing end: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:22:44.897> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:23:00.919> [[[DEBUG: Processing start: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:23:00.970> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:23:01.165> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "ML1-005B",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:23:01.171> {{{SERVER: Sending to server}}}
+
+11:23:07.204> {{{SERVER: Response code: 200}}}
+
+11:23:07.209> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:23:07.213> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+11:23:07.217> [[[DEBUG: Moving to sent: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+11:23:07.222> [[[DEBUG: Processing end: Login ML1-005B - 2024-04-03 10-55-28.txt]]]
+
+
+
+
+
+
+
+11:25:08.267> [[[DEBUG: Processing start: Login postazione.txt]]]
+
+11:25:08.280> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:25:08.287> [[[DEBUG: Moving to error: Login postazione.txt]]]
+
+
+
+
+
+
+
+11:25:19.298> [[[DEBUG: Processing start: Login postazione.txt]]]
+
+11:25:19.304> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:25:19.309> [[[DEBUG: Moving to error: Login postazione.txt]]]
+
+
+
+
+
+
+
+11:25:55.327> [[[DEBUG: Processing start: Login user.txt]]]
+
+11:25:55.335> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+11:25:55.340> [[[DEBUG: Moving to error: Login user.txt]]]
+
+
+
+
+
+
+
+11:26:21.353> [[[DEBUG: Processing start: Login user.txt]]]
+
+11:26:21.359> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+11:26:21.372> [[[DEBUG: Moving to error: Login user.txt]]]
+
+
+
+
+
+
+
+11:27:32.400> [[[DEBUG: Processing start: Login user.txt]]]
+
+11:27:32.404> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+11:27:32.412> [[[DEBUG: Moving to error: Login user.txt]]]
+
+
+
+
+
+
+
+11:27:38.421> [[[DEBUG: Processing start: Login normal.txt]]]
+
+11:27:38.428> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:27:38.435> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:27:38.438> {{{SERVER: Sending to server}}}
+
+11:27:44.480> {{{SERVER: Response code: 200}}}
+
+11:27:44.485> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:27:44.491> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+11:27:44.495> [[[DEBUG: Moving to sent: Login normal.txt]]]
+
+11:27:44.496> [[[DEBUG: Processing end: Login normal.txt]]]
+
+
+
+
+
+
+
+11:52:00.913> [[[DEBUG: Processing start: Login postazione.txt]]]
+
+11:52:00.920> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:52:00.926> [[[DEBUG: Moving to error: Login postazione.txt]]]
+
+
+
+
+
+
+
+11:52:31.939> [[[DEBUG: Processing start: Login postazione.txt]]]
+
+11:52:31.943> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:52:31.948> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:52:31.950> {{{SERVER: Sending to server}}}
+
+11:52:37.980> {{{SERVER: Response code: 200}}}
+
+11:52:37.984> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:52:37.987> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+11:52:37.991> [[[DEBUG: Moving to sent: Login postazione.txt]]]
+
+11:52:37.995> [[[DEBUG: Processing end: Login postazione.txt]]]
+
+
+
+
+
+
+
+11:53:09.011> [[[DEBUG: Processing start: Login postazione.txt]]]
+
+11:53:09.018> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:53:09.029> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:53:09.031> {{{SERVER: Sending to server}}}
+
+11:53:15.064> {{{SERVER: Response code: 200}}}
+
+11:53:15.069> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:53:15.073> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+11:53:15.075> [[[DEBUG: Moving to sent: Login postazione.txt]]]
+
+11:53:15.079> [[[DEBUG: Processing end: Login postazione.txt]]]
+
+11:56:25.257> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:56:46.276> [[[DEBUG: Processing start: Login user.txt]]]
+
+11:56:46.314> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+11:56:46.465> [[[DEBUG: Moving to error: Login user.txt]]]
+
+11:57:45.970> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:58:11.998> [[[DEBUG: Processing start: Login user.txt]]]
+
+11:58:12.033> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+11:58:12.197> [[[DEBUG: User già loggato su AF50]]]
+
+11:58:12.202> [[[DEBUG: Moving to error: Login user.txt]]]
+
+
+
+
+
+
+
+11:58:33.217> [[[DEBUG: Processing start: Login postazione.txt]]]
+
+11:58:33.226> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:58:33.233> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+11:58:33.241> [[[DEBUG: Postazione modificata correttamente]]]
+
+11:58:33.244> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+11:58:33.248> {{{SERVER: Sending to server}}}
+
+11:58:39.282> {{{SERVER: Response code: 200}}}
+
+11:58:39.285> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+11:58:39.288> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+11:58:39.293> [[[DEBUG: Moving to sent: Login postazione.txt]]]
+
+11:58:39.295> [[[DEBUG: Processing end: Login postazione.txt]]]
+
+11:59:39.964> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+12:00:05.991> [[[DEBUG: Processing start: Login postazione.txt]]]
+
+12:00:06.029> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:00:06.177> [[[DEBUG: Postazione già occupata da 438-LEOV]]]
+
+12:00:06.182> [[[DEBUG: Moving to error: Login postazione.txt]]]
+
+12:08:18.648> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:08:19.008> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:08:30.303> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:23:28.276> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:24:46.859> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:25:03.324> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:26:12.698> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:26:28.971> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:27:05.661> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:27:05.996> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:27:25.214> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:28:52.936> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:34:09.767> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:39:55.142> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:39:55.467> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:40:03.522> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:40:09.180> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:40:09.191> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:40:43.117> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:40:43.442> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:40:51.498> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:40:56.685> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:40:56.694> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:41:02.561> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:41:02.570> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:41:07.235> [[[DEBUG: Postazione eliminata correttamente]]]
+
+12:44:42.942> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:44:43.262> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:44:51.005> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:48:21.144> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:48:21.474> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:50:32.602> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:50:32.929> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:50:41.450> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:51:02.632> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:51:02.967> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:51:11.633> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:51:32.142> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:51:32.469> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:51:41.620> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:51:53.757> [[[DEBUG: Utente inserito correttamente]]]
+
+12:51:57.427> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:51:57.436> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:52:01.299> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:52:01.308> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:52:10.844> [[[DEBUG: Utente inserito correttamente]]]
+
+12:52:13.204> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:52:13.212> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:52:15.158> [[[DEBUG: Postazione eliminata correttamente]]]
+
+12:52:16.089> [[[DEBUG: Postazione eliminata correttamente]]]
+
+12:52:28.776> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:52:28.789> [[[DEBUG: Postazione modificata correttamente]]]
+
+12:57:57.632> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:57:57.950> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+12:58:04.381> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+
+
+
+
+
+
+12:58:15.399> [[[DEBUG: Processing start: Login user.txt]]]
+
+12:58:15.419> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+12:58:15.433> [[[DEBUG: User già loggato su AF50]]]
+
+12:58:15.439> [[[DEBUG: Moving to error: Login user.txt]]]
+
+
+
+
+
+
+
+12:58:36.456> [[[DEBUG: Processing start: Login normal.txt]]]
+
+12:58:36.470> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:58:36.478> [[[DEBUG: User già loggato su AF30]]]
+
+12:58:36.482> [[[DEBUG: Moving to error: Login normal.txt]]]
+
+12:58:53.910> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+12:58:53.920> [[[DEBUG: Postazione modificata correttamente]]]
+
+
+
+
+
+
+
+12:59:02.493> [[[DEBUG: Processing start: Login normal.txt]]]
+
+12:59:02.498> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:59:02.507> [[[DEBUG: Utente inserito correttamente]]]
+
+12:59:02.510> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+12:59:02.514> {{{SERVER: Sending to server}}}
+
+12:59:03.675> {{{SERVER: Response code: 400}}}
+
+12:59:03.677> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Value cannot be null.\r\nParameter name: logger","errorMessageForLogging":"Value cannot be null.\rParameter name: logger","errors":["Value cannot be null.\r\nParameter name: logger"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+12:59:03.681> {{{SERVER: Request data: https://apig-sabelt.brickreply.net/sabelt/cg/LoginLogout POST}}}
+
+12:59:03.684> [[[DEBUG: Moving to error: Login normal.txt]]]
+
+12:59:03.687> [[[DEBUG: Processing end: Login normal.txt]]]
+
+13:04:52.546> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+13:04:52.882> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+13:05:05.546> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+13:05:12.116> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+13:05:12.151> [[[DEBUG: Postazione modificata correttamente]]]
+
+13:05:19.897> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+13:05:19.906> [[[DEBUG: Postazione modificata correttamente]]]
+
+13:05:21.178> [[[DEBUG: Utente inserito correttamente]]]
+
+13:05:23.345> [[[DEBUG: Postazione eliminata correttamente]]]
+
+13:05:24.291> [[[DEBUG: Postazione eliminata correttamente]]]
+
+14:14:07.624> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+14:18:50.144> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+14:18:50.160> [[[DEBUG: Postazione modificata correttamente]]]
+
+14:19:19.880> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+14:20:05.952> [[[DEBUG: Processing start: Logout.txt]]]
+
+14:20:06.004> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "AM1-040",
+   "user": "435-BOSP",
+   "status": "0"
+}
+]]]
+
+14:20:06.024> [[[DEBUG: Utente inserito correttamente]]]
+
+14:20:06.028> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "AM1-040",
+   "user": "435-BOSP",
+   "status": "0"
+}
+]]]
+
+14:20:06.036> {{{SERVER: Sending to server}}}
+
+14:20:12.206> {{{SERVER: Response code: 200}}}
+
+14:20:12.217> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+14:20:12.221> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+14:20:12.226> [[[DEBUG: Moving to sent: Logout.txt]]]
+
+14:20:12.232> [[[DEBUG: Processing end: Logout.txt]]]
+
+14:28:17.895> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+14:28:38.921> [[[DEBUG: Processing start: Login normal.txt]]]
+
+14:28:38.956> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+14:28:38.976> [[[DEBUG: Utente inserito correttamente]]]
+
+14:28:38.982> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+14:28:38.990> {{{SERVER: Sending to server}}}
+
+14:28:45.022> {{{SERVER: Response code: 200}}}
+
+14:28:45.032> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+14:28:45.037> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+14:28:45.044> [[[DEBUG: Moving to sent: Login normal.txt]]]
+
+14:28:45.049> [[[DEBUG: Processing end: Login normal.txt]]]
+
+
+
+
+
+
+
+14:29:06.061> [[[DEBUG: Processing start: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+14:29:06.071> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T09:10:57.510Z",
+   "orderNumber": "OP000055176.1-01",
+   "serialNumber": "OP000055176.1-01",
+   "workstation": "ML1-0050",
+   "operation": "0050",
+   "user": "438-LEOV"
+}
+]]]
+
+14:29:06.079> {{{SERVER: Sending to server}}}
+
+14:29:12.107> {{{SERVER: Response code: 200}}}
+
+14:29:12.111> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+14:29:12.114> {{{SERVER: Request data: https://localhost:443/sabelt/cg/AvvioFase POST}}}
+
+14:29:12.117> [[[DEBUG: Moving to sent: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+14:29:12.121> [[[DEBUG: Processing end: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+14:30:40.353> {{{SERVER: Client created with base: https://localhost:443}}}
+
+14:53:46.729> {{{SERVER: Client created with base: https://localhost:443}}}
+
+14:56:01.849> {{{SERVER: Client created with base: https://localhost:443}}}
+
+14:57:57.181> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+14:58:43.213> [[[DEBUG: Processing start: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+14:58:43.242> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T09:10:57.510Z",
+   "orderNumber": "OP000055176.1-01",
+   "serialNumber": "OP000055176.1-01",
+   "workstation": "ML1-0050",
+   "operation": "0050",
+   "user": "438-LEOV"
+}
+]]]
+
+14:58:43.246> {{{SERVER: Sending to server}}}
+
+14:58:49.302> {{{SERVER: Response code: 200}}}
+
+14:58:49.312> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+14:58:49.322> {{{SERVER: Request data: https://localhost:443/sabelt/cg/AvvioFase POST}}}
+
+14:58:49.333> [[[DEBUG: Moving to sent: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+14:58:49.343> [[[DEBUG: Processing end: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+14:59:51.649> {{{SERVER: Client created with base: https://localhost:443}}}
+
+15:00:32.899> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+15:00:58.924> [[[DEBUG: Processing start: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+15:00:58.972> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T09:10:57.510Z",
+   "orderNumber": "OP000055176.1-01",
+   "serialNumber": "OP000055176.1-01",
+   "workstation": "ML1-0050",
+   "operation": "0050",
+   "user": "438-LEOV"
+}
+]]]
+
+15:00:58.984> {{{SERVER: Sending to server}}}
+
+15:01:05.028> {{{SERVER: Response code: 200}}}
+
+15:01:05.034> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+15:01:05.041> {{{SERVER: Request data: https://localhost:443/sabelt/cg/AvvioFase POST}}}
+
+15:01:05.046> [[[DEBUG: Moving to sent: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+15:01:05.050> [[[DEBUG: Processing end: Avvio ML1-0050 - 2024-04-03 11-10-57.txt]]]
+
+15:17:34.361> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+15:17:34.370> [[[DEBUG: Postazione modificata correttamente]]]
+
+15:25:53.819> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+15:38:26.062> [[[DEBUG: Processing start: Login user.txt]]]
+
+15:38:26.083> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+15:38:26.098> [[[DEBUG: User già loggato su AF50]]]
+
+15:38:26.102> [[[DEBUG: Moving to error: Login user.txt]]]
+
+15:38:55.192> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+15:38:55.201> [[[DEBUG: Postazione modificata correttamente]]]
+
+
+
+
+
+
+
+15:39:07.122> [[[DEBUG: Processing start: Login user.txt]]]
+
+15:39:07.128> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+15:39:07.139> [[[DEBUG: Utente inserito correttamente]]]
+
+15:39:07.142> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+15:39:07.145> {{{SERVER: Sending to server}}}
+
+15:39:13.197> {{{SERVER: Response code: 200}}}
+
+15:39:13.200> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+15:39:13.203> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+15:39:13.208> [[[DEBUG: Moving to sent: Login user.txt]]]
+
+15:39:13.210> [[[DEBUG: Processing end: Login user.txt]]]
+
+15:40:58.743> {{{SERVER: Client created with base: https://localhost:443}}}
+
+15:46:17.415> {{{SERVER: Client created with base: https://localhost:443}}}
+
+15:46:26.365> [[[DEBUG: Tabella utenti svuotata correttamente]]]
+
+15:46:38.421> [[[DEBUG: Utente inserito correttamente]]]
+
+
+
+
+
+
+
+15:46:48.438> [[[DEBUG: Processing start: Login postazione.txt]]]
+
+15:46:48.458> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+15:46:48.469> [[[DEBUG: Utente inserito correttamente]]]
+
+15:46:48.474> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AF30",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+15:46:48.477> {{{SERVER: Sending to server}}}
+
+15:46:54.536> {{{SERVER: Response code: 200}}}
+
+15:46:54.543> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+15:46:54.546> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+15:46:54.553> [[[DEBUG: Moving to sent: Login postazione.txt]]]
+
+15:46:54.558> [[[DEBUG: Processing end: Login postazione.txt]]]
+
+
+
+
+
+
+
+15:46:55.565> [[[DEBUG: Processing start: Login normal.txt]]]
+
+15:46:55.568> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+15:46:55.574> [[[DEBUG: User già loggato su AF30]]]
+
+15:46:55.578> [[[DEBUG: Moving to error: Login normal.txt]]]
+
+
+
+
+
+
+
+15:46:56.586> [[[DEBUG: Processing start: Login user.txt]]]
+
+15:46:56.593> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+15:46:56.607> [[[DEBUG: Utente inserito correttamente]]]
+
+15:46:56.610> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+15:46:56.613> {{{SERVER: Sending to server}}}
+
+15:47:02.654> {{{SERVER: Response code: 200}}}
+
+15:47:02.661> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+15:47:02.666> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+15:47:02.675> [[[DEBUG: Moving to sent: Login user.txt]]]
+
+15:47:02.684> [[[DEBUG: Processing end: Login user.txt]]]
+
+15:49:49.809> {{{SERVER: Client created with base: https://localhost:443}}}
+
+15:51:07.013> {{{SERVER: Client created with base: https://localhost:443}}}
+
+15:55:24.397> {{{SERVER: Client created with base: https://localhost:443}}}
+
+15:56:54.049> {{{SERVER: Client created with base: https://localhost:443}}}
+
+15:57:55.411> {{{SERVER: Client created with base: https://localhost:443}}}
+
+16:00:47.416> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+16:01:03.452> [[[DEBUG: Processing start: Login normal.txt]]]
+
+16:01:03.498> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+16:01:03.524> [[[DEBUG: User già loggato su AF30]]]
+
+16:01:03.534> [[[DEBUG: Moving to error: Login normal.txt]]]
+
+
+
+
+
+
+
+16:02:24.573> [[[DEBUG: Processing start: Login user.txt]]]
+
+16:02:24.583> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "AT30",
+   "user": "387-MUL",
+   "status": "1"
+}
+]]]
+
+16:02:24.589> [[[DEBUG: Postazione già occupata da 387-MUL]]]
+
+16:02:24.593> [[[DEBUG: Moving to error: Login user.txt]]]
+
+
+
+
+
+
+
+16:03:00.609> [[[DEBUG: Processing start: Login MAR-25.txt]]]
+
+16:03:00.618> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-04-03T08:55:28.782Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "1"
+}
+]]]
+
+16:03:00.625> [[[DEBUG: User già loggato su AF30]]]
+
+16:03:00.627> [[[DEBUG: Moving to error: Login MAR-25.txt]]]
+
+16:12:23.676> {{{ERROR: Connessione non effettuata}}}
+
+16:12:23.687> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:12:23.694> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:17:13.234> {{{ERROR: Connessione non effettuata}}}
+
+16:17:13.243> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:17:13.248> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:17:17.015> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:19.634> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:19.639> {{{ERROR: USER_HANDLER::updatePostazione:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:19.644> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:20.996> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:21.002> {{{ERROR: USER_HANDLER::updatePostazione:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:21.006> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:22.795> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:26.870> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:26.874> {{{ERROR: USER_HANDLER::updatePostazione:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:26.878> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:29.127> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:29.628> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:30.129> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:30.629> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:31.132> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:31.635> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:32.927> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:33.129> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:33.786> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:33.789> {{{ERROR: USER_HANDLER::updatePostazione:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:33.792> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:34.043> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:34.046> {{{ERROR: USER_HANDLER::updatePostazione:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:17:34.048> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:18:04.262> {{{ERROR: Connessione non effettuata}}}
+
+16:18:04.271> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:18:04.278> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:40:24.235> {{{ERROR: Connessione non effettuata}}}
+
+16:40:24.247> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:40:24.256> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:40:29.978> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:40:29.991> {{{ERROR: USER_HANDLER::updatePostazione:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:40:30.001> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:41:19.082> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+16:41:31.560> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:41:31.567> {{{ERROR: USER_HANDLER::updatePostazione:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:41:31.572> {{{ERROR: USER_HANDLER::getAllUsers:: [SQLITE_ERROR] SQL error or missing database (no such table: postazioni_user)}}}
+
+16:42:41.444> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+16:42:41.822> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+16:43:00.877> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+16:43:24.741> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+16:43:52.697> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+16:43:53.048> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+16:44:02.537> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+16:44:13.831> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+16:44:35.444> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}

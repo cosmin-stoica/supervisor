@@ -1,0 +1,2313 @@
+10:56:58.533> [[[DEBUG: Processing start: Login AM1-010 - 2023-09-15 11-19-47.txt]]]
+
+10:56:58.535> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2023-09-15T09:19:47.438Z",
+   "workstation": "AM1-010",
+   "user": "275-DOLM",
+   "status": "1"
+}
+]]]
+
+10:56:58.535> {{{SERVER: Sending to server}}}
+
+10:56:58.538> {{{ERROR: WorkingClass::run->
+			RestClass::send_LoginLogout->
+			java.lang.RuntimeException: RestClass::sendRequest->java.net.ConnectException}}}
+
+10:56:58.539> [[[DEBUG: Moving to error: Login AM1-010 - 2023-09-15 11-19-47.txt]]]
+
+
+
+
+
+
+
+10:56:58.726> [[[DEBUG: Error Handling Processing start: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+10:56:58.728> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "CUP2002002",
+   "serialNumber": "CUP2002002-002",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP1-010",
+   "causale": "Abort",
+   "traceability": [],
+   "timeStamp": "2023-02-20T10:08:15.005Z",
+   "huCode": null,
+   "okQty": 0,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "010",
+   "user": "254-ARUG"
+}
+]]]
+
+10:56:58.728> {{{SERVER: Sending to server}}}
+
+10:56:58.733> {{{ERROR: Error Handling::run->
+			RestClass::StopFase->
+			java.lang.RuntimeException: RestClass::sendRequest->java.net.ConnectException}}}
+
+10:56:58.734> [[[DEBUG: Moving to error: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+
+
+
+
+
+
+10:56:59.750> [[[DEBUG: Error Handling Processing start: AFSECUP402S - 2023-05-09 13-48-40.txt]]]
+
+10:56:59.752> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0}}}
+
+10:56:59.752> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:56:59.754> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 220.73
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 818.49
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 101.41
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 2.11
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 6.17
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 8010.54
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP-070",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "1;AFSECUP402S|OP000011283|OP000011283-017;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "2;#5FA880242F    ##450313213#141022*673 DU9D008BU3%*=;BAG DX (51)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "3;#5FF881806BE   ##435202385#300123*677 EL80014523U*=;FODERA DX (baugruppen)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "4;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;RAMO CINTURA (52)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "5;#5FA881022D WYF##428502975#090523*756 TOS0010714L*&#5FA880242F    ##450313213#141022*673 DU9D008BU3%*&#5FF881806BE   ##435202385#300123*677 EL80014523U*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;etichetta BAUGRUPPEN (205)"
+      }
+   ],
+   "timeStamp": "2023-05-09T11:48:40.471Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "070",
+   "user": "002-LAFM"
+}
+]]]
+
+10:56:59.755> {{{SERVER: Sending to server}}}
+
+10:56:59.759> {{{ERROR: Error Handling::run->
+			RestClass::send_ProgressDeclaration->
+			RestClass::sendRequest->java.net.ConnectException}}}
+
+10:56:59.760> [[[DEBUG: Moving to error: AFSECUP402S - 2023-05-09 13-48-40.txt]]]
+
+
+
+
+
+
+
+10:57:00.774> [[[DEBUG: Error Handling Processing start: COLLAUDO 02Srework - 2023-05-09 12-15-02.txt]]]
+
+10:57:00.777> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0}}}
+
+10:57:00.777> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:57:00.779> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 268.24
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 818.49
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 101.41
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 2.35
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 6.2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 8033.21
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP-070",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "1;#5FA880242F    ##450313213#141022*673 DU9D008BTSN*=;BAG DX (51)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "2;#5FF881806BE   ##435202385#300123*677 EL80014519Z*=;FODERA DX (baugruppen)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "3;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZNPP*=;RAMO CINTURA (52)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "4;#5FA881022D WYF##428502975#090523*756 TOS0010709P*&#5FA880242F    ##450313213#141022*673 DU9D008BTSN*&#5FF881806BE   ##435202385#300123*677 EL80014519Z*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZNPP*=;etichetta BAUGRUPPEN (205)"
+      }
+   ],
+   "timeStamp": "2023-05-09T10:15:02.552Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "070",
+   "user": "254-ARUG"
+}
+]]]
+
+10:57:00.780> {{{SERVER: Sending to server}}}
+
+10:57:00.783> {{{ERROR: Error Handling::run->
+			RestClass::send_ProgressDeclaration->
+			RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:00.783> [[[DEBUG: Moving to error: COLLAUDO 02Srework - 2023-05-09 12-15-02.txt]]]
+
+
+
+
+
+
+
+10:57:04.808> [[[DEBUG: Error Handling Processing start: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+10:57:04.810> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "CUP2002002",
+   "serialNumber": "CUP2002002-002",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP1-010",
+   "causale": "Abort",
+   "traceability": [],
+   "timeStamp": "2023-02-20T10:08:15.005Z",
+   "huCode": null,
+   "okQty": 0,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "010",
+   "user": "254-ARUG"
+}
+]]]
+
+10:57:04.810> {{{SERVER: Sending to server}}}
+
+10:57:04.813> {{{ERROR: Error Handling::run->
+			RestClass::StopFase->
+			java.lang.RuntimeException: RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:04.814> [[[DEBUG: Moving to error: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+
+
+
+
+
+
+10:57:05.823> [[[DEBUG: Error Handling Processing start: AFSECUP402S - 2023-05-09 13-48-40.txt]]]
+
+10:57:05.825> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0}}}
+
+10:57:05.825> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:57:05.827> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 220.73
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 818.49
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 101.41
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 2.11
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 6.17
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 8010.54
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP-070",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "1;AFSECUP402S|OP000011283|OP000011283-017;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "2;#5FA880242F    ##450313213#141022*673 DU9D008BU3%*=;BAG DX (51)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "3;#5FF881806BE   ##435202385#300123*677 EL80014523U*=;FODERA DX (baugruppen)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "4;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;RAMO CINTURA (52)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "5;#5FA881022D WYF##428502975#090523*756 TOS0010714L*&#5FA880242F    ##450313213#141022*673 DU9D008BU3%*&#5FF881806BE   ##435202385#300123*677 EL80014523U*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;etichetta BAUGRUPPEN (205)"
+      }
+   ],
+   "timeStamp": "2023-05-09T11:48:40.471Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "070",
+   "user": "002-LAFM"
+}
+]]]
+
+10:57:05.827> {{{SERVER: Sending to server}}}
+
+10:57:05.829> {{{ERROR: Error Handling::run->
+			RestClass::send_ProgressDeclaration->
+			RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:05.830> [[[DEBUG: Moving to error: AFSECUP402S - 2023-05-09 13-48-40.txt]]]
+
+
+
+
+
+
+
+10:57:06.832> [[[DEBUG: Error Handling Processing start: COLLAUDO 02Srework - 2023-05-09 12-15-02.txt]]]
+
+10:57:06.834> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0}}}
+
+10:57:06.834> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:57:06.835> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 268.24
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 818.49
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 101.41
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 2.35
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 6.2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 8033.21
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP-070",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "1;#5FA880242F    ##450313213#141022*673 DU9D008BTSN*=;BAG DX (51)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "2;#5FF881806BE   ##435202385#300123*677 EL80014519Z*=;FODERA DX (baugruppen)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "3;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZNPP*=;RAMO CINTURA (52)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "4;#5FA881022D WYF##428502975#090523*756 TOS0010709P*&#5FA880242F    ##450313213#141022*673 DU9D008BTSN*&#5FF881806BE   ##435202385#300123*677 EL80014519Z*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZNPP*=;etichetta BAUGRUPPEN (205)"
+      }
+   ],
+   "timeStamp": "2023-05-09T10:15:02.552Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "070",
+   "user": "254-ARUG"
+}
+]]]
+
+10:57:06.835> {{{SERVER: Sending to server}}}
+
+10:57:06.838> {{{ERROR: Error Handling::run->
+			RestClass::send_ProgressDeclaration->
+			RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:06.839> [[[DEBUG: Moving to error: COLLAUDO 02Srework - 2023-05-09 12-15-02.txt]]]
+
+
+
+
+
+
+
+10:57:10.846> [[[DEBUG: Error Handling Processing start: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+10:57:10.847> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "CUP2002002",
+   "serialNumber": "CUP2002002-002",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP1-010",
+   "causale": "Abort",
+   "traceability": [],
+   "timeStamp": "2023-02-20T10:08:15.005Z",
+   "huCode": null,
+   "okQty": 0,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "010",
+   "user": "254-ARUG"
+}
+]]]
+
+10:57:10.848> {{{SERVER: Sending to server}}}
+
+10:57:10.852> {{{ERROR: Error Handling::run->
+			RestClass::StopFase->
+			java.lang.RuntimeException: RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:10.853> [[[DEBUG: Moving to error: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+
+
+
+
+
+
+10:57:11.856> [[[DEBUG: Error Handling Processing start: AFSECUP402S - 2023-05-09 13-48-40.txt]]]
+
+10:57:11.858> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0}}}
+
+10:57:11.858> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:57:11.859> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 220.73
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 818.49
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 101.41
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 2.11
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 6.17
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 8010.54
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP-070",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "1;AFSECUP402S|OP000011283|OP000011283-017;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "2;#5FA880242F    ##450313213#141022*673 DU9D008BU3%*=;BAG DX (51)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "3;#5FF881806BE   ##435202385#300123*677 EL80014523U*=;FODERA DX (baugruppen)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "4;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;RAMO CINTURA (52)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "5;#5FA881022D WYF##428502975#090523*756 TOS0010714L*&#5FA880242F    ##450313213#141022*673 DU9D008BU3%*&#5FF881806BE   ##435202385#300123*677 EL80014523U*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;etichetta BAUGRUPPEN (205)"
+      }
+   ],
+   "timeStamp": "2023-05-09T11:48:40.471Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "070",
+   "user": "002-LAFM"
+}
+]]]
+
+10:57:11.859> {{{SERVER: Sending to server}}}
+
+10:57:11.862> {{{ERROR: Error Handling::run->
+			RestClass::send_ProgressDeclaration->
+			RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:11.862> [[[DEBUG: Moving to error: AFSECUP402S - 2023-05-09 13-48-40.txt]]]
+
+
+
+
+
+
+
+10:57:12.863> [[[DEBUG: Error Handling Processing start: COLLAUDO 02Srework - 2023-05-09 12-15-02.txt]]]
+
+10:57:12.865> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0}}}
+
+10:57:12.866> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:57:12.867> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 268.24
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 818.49
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 101.41
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 2.35
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 6.2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 8033.21
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP-070",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "1;#5FA880242F    ##450313213#141022*673 DU9D008BTSN*=;BAG DX (51)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "2;#5FF881806BE   ##435202385#300123*677 EL80014519Z*=;FODERA DX (baugruppen)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "3;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZNPP*=;RAMO CINTURA (52)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "4;#5FA881022D WYF##428502975#090523*756 TOS0010709P*&#5FA880242F    ##450313213#141022*673 DU9D008BTSN*&#5FF881806BE   ##435202385#300123*677 EL80014519Z*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZNPP*=;etichetta BAUGRUPPEN (205)"
+      }
+   ],
+   "timeStamp": "2023-05-09T10:15:02.552Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "070",
+   "user": "254-ARUG"
+}
+]]]
+
+10:57:12.868> {{{SERVER: Sending to server}}}
+
+10:57:12.870> {{{ERROR: Error Handling::run->
+			RestClass::send_ProgressDeclaration->
+			RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:12.871> [[[DEBUG: Moving to error: COLLAUDO 02Srework - 2023-05-09 12-15-02.txt]]]
+
+
+
+
+
+
+
+10:57:16.878> [[[DEBUG: Error Handling Processing start: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+10:57:16.880> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "CUP2002002",
+   "serialNumber": "CUP2002002-002",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP1-010",
+   "causale": "Abort",
+   "traceability": [],
+   "timeStamp": "2023-02-20T10:08:15.005Z",
+   "huCode": null,
+   "okQty": 0,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "010",
+   "user": "254-ARUG"
+}
+]]]
+
+10:57:16.880> {{{SERVER: Sending to server}}}
+
+10:57:16.883> {{{ERROR: Error Handling::run->
+			RestClass::StopFase->
+			java.lang.RuntimeException: RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:16.883> [[[DEBUG: Moving to error: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+10:57:17.190> {{{ERROR: NON PUOI SPEGNERE UN CLIENT CHE NON E' STATO INIZIALIZZATO}}}
+
+
+
+
+
+
+
+10:57:17.885> [[[DEBUG: Error Handling Processing start: AFSECUP402S - 2023-05-09 13-48-40.txt]]]
+
+10:57:17.886> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0}}}
+
+10:57:17.887> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:57:17.888> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 220.73
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 818.49
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 101.41
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 2.11
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 6.17
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": 8010.54
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T11:48:40.471Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP-070",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "1;AFSECUP402S|OP000011283|OP000011283-017;ETICHETTA MES"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "2;#5FA880242F    ##450313213#141022*673 DU9D008BU3%*=;BAG DX (51)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "3;#5FF881806BE   ##435202385#300123*677 EL80014523U*=;FODERA DX (baugruppen)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "4;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;RAMO CINTURA (52)"
+      },
+      {
+         "timeStamp": "2023-05-09T11:48:40.471Z",
+         "attachments": [],
+         "name": "5;#5FA881022D WYF##428502975#090523*756 TOS0010714L*&#5FA880242F    ##450313213#141022*673 DU9D008BU3%*&#5FF881806BE   ##435202385#300123*677 EL80014523U*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFF7*=;etichetta BAUGRUPPEN (205)"
+      }
+   ],
+   "timeStamp": "2023-05-09T11:48:40.471Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "070",
+   "user": "002-LAFM"
+}
+]]]
+
+10:57:17.888> {{{SERVER: Sending to server}}}
+
+10:57:17.891> {{{ERROR: Error Handling::run->
+			RestClass::send_ProgressDeclaration->
+			RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:17.892> [[[DEBUG: Moving to error: AFSECUP402S - 2023-05-09 13-48-40.txt]]]
+
+
+
+
+
+
+
+10:57:18.894> [[[DEBUG: Error Handling Processing start: COLLAUDO 02Srework - 2023-05-09 12-15-02.txt]]]
+
+10:57:18.896> {{{ERROR: CsvReader::getOrderNumber->java.lang.StringIndexOutOfBoundsException: Range [0, -1) out of bounds for length 0}}}
+
+10:57:18.896> {{{ERROR: CsvReader::getOrderNumber->Invalid Order Number:}}}
+
+10:57:18.897> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 268.24
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 818.49
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;1 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "3;2 - Prova SBR con peso leggero;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 101.41
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "4;3 - Prova SBR con peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 404.36
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "5;4 - Prova SBR senza peso;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 2.35
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "6;Funzionamento Sidebag;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 6.2
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - HT CRT;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": 8033.21
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "7;Verifica termoforo - SNS RES;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2023-05-09T10:15:02.552Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "",
+   "serialNumber": "",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP-070",
+   "traceability": [
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "1;#5FA880242F    ##450313213#141022*673 DU9D008BTSN*=;BAG DX (51)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "2;#5FF881806BE   ##435202385#300123*677 EL80014519Z*=;FODERA DX (baugruppen)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "3;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZNPP*=;RAMO CINTURA (52)"
+      },
+      {
+         "timeStamp": "2023-05-09T10:15:02.552Z",
+         "attachments": [],
+         "name": "4;#5FA881022D WYF##428502975#090523*756 TOS0010709P*&#5FA880242F    ##450313213#141022*673 DU9D008BTSN*&#5FF881806BE   ##435202385#300123*677 EL80014519Z*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZNPP*=;etichetta BAUGRUPPEN (205)"
+      }
+   ],
+   "timeStamp": "2023-05-09T10:15:02.552Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "070",
+   "user": "254-ARUG"
+}
+]]]
+
+10:57:18.898> {{{SERVER: Sending to server}}}
+
+10:57:18.900> {{{ERROR: Error Handling::run->
+			RestClass::send_ProgressDeclaration->
+			RestClass::sendRequest->java.net.ConnectException}}}
+
+10:57:18.901> [[[DEBUG: Moving to error: COLLAUDO 02Srework - 2023-05-09 12-15-02.txt]]]
+
+11:01:23.821> {{{ERROR: Connessione non effettuata}}}
+
+11:01:23.822> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:01:23.823> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:02:49.587> {{{ERROR: Connessione non effettuata}}}
+
+11:02:49.588> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:02:49.589> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:06:55.824> {{{ERROR: Connessione non effettuata}}}
+
+11:06:55.825> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:06:55.826> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:07:50.537> {{{ERROR: Connessione non effettuata}}}
+
+11:07:50.539> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:07:50.539> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:09:09.835> {{{ERROR: Connessione non effettuata}}}
+
+11:09:09.836> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:09:09.837> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:09:27.320> {{{ERROR: Connessione non effettuata}}}
+
+11:09:27.321> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:09:27.321> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:09:56.697> {{{ERROR: Connessione non effettuata}}}
+
+11:09:56.699> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:09:56.699> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:11:54.590> {{{ERROR: Connessione non effettuata}}}
+
+11:11:54.591> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:11:54.591> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:12:04.664> {{{ERROR: Connessione non effettuata}}}
+
+11:12:04.665> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:12:04.666> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:17:55.066> {{{ERROR: Connessione non effettuata}}}
+
+11:17:55.068> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:17:55.068> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:20:25.324> {{{ERROR: Connessione non effettuata}}}
+
+11:20:25.325> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:20:25.325> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:21:23.358> {{{ERROR: Connessione non effettuata}}}
+
+11:21:23.360> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:21:23.360> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:22:03.179> {{{ERROR: Connessione non effettuata}}}
+
+11:22:03.180> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:22:03.182> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:22:22.220> {{{ERROR: Connessione non effettuata}}}
+
+11:22:22.221> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:22:22.221> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:22:38.105> {{{ERROR: Connessione non effettuata}}}
+
+11:22:38.106> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:22:38.107> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:23:07.703> {{{ERROR: Connessione non effettuata}}}
+
+11:23:07.705> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:23:07.705> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:24:12.624> {{{ERROR: Connessione non effettuata}}}
+
+11:24:12.626> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:24:12.626> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:24:25.623> {{{ERROR: Connessione non effettuata}}}
+
+11:24:25.625> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:24:25.625> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:25:10.246> {{{ERROR: Connessione non effettuata}}}
+
+11:25:10.247> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:25:10.247> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:25:35.875> {{{ERROR: Connessione non effettuata}}}
+
+11:25:35.877> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:25:35.878> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:26:14.920> {{{ERROR: Connessione non effettuata}}}
+
+11:26:14.921> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:26:14.921> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:27:07.037> {{{ERROR: Connessione non effettuata}}}
+
+11:27:07.038> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:27:07.039> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:27:19.400> {{{ERROR: Connessione non effettuata}}}
+
+11:27:19.402> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:27:19.402> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:27:35.904> {{{ERROR: Connessione non effettuata}}}
+
+11:27:35.905> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:27:35.905> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:27:42.004> {{{ERROR: Connessione non effettuata}}}
+
+11:27:42.005> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:27:44.776> {{{ERROR: NON PUOI SPEGNERE UN CLIENT CHE NON E' STATO INIZIALIZZATO}}}
+
+11:28:11.987> {{{ERROR: Connessione non effettuata}}}
+
+11:28:11.988> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:28:11.989> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:28:59.980> {{{ERROR: Connessione non effettuata}}}
+
+11:28:59.982> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:28:59.982> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+11:29:32.214> {{{ERROR: Connessione non effettuata}}}
+
+11:29:32.215> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+11:29:32.216> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+15:28:19.927> {{{ERROR: Connessione non effettuata}}}
+
+15:28:19.929> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+15:28:19.930> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+15:37:16.914> {{{ERROR: Connessione non effettuata}}}
+
+15:37:16.916> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+15:37:16.916> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+15:37:56.751> {{{ERROR: Connessione non effettuata}}}
+
+15:37:56.752> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+15:37:56.753> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+18:06:32.906> {{{SERVER: Client created with base: https://localhost:443}}}
+
+18:30:07.580> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+18:30:08.590> [[[DEBUG: Error Handling Processing start: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+18:30:08.665> [[[DEBUG: JSON is:
+{
+   "variables": [],
+   "orderNumber": "CUP2002002",
+   "serialNumber": "CUP2002002-002",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "CP1-010",
+   "causale": "Abort",
+   "traceability": [],
+   "timeStamp": "2023-02-20T10:08:15.005Z",
+   "huCode": null,
+   "okQty": 0,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "010",
+   "user": "254-ARUG"
+}
+]]]
+
+18:30:08.667> {{{SERVER: Sending to server}}}
+
+18:30:14.676> {{{SERVER: Response code: 200}}}
+
+18:30:14.676> {{{SERVER: Response body: QUESTA E' UNA RISPOSTA DAL SERVER}}}
+
+18:30:14.677> {{{SERVER: Request data: https://localhost:443/qa-sabelt/cg/RetryStopFase POST}}}
+
+18:30:14.679> [[[DEBUG: Moving to sent delayed: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]
+
+18:30:14.682> [[[DEBUG: Error Handling Processing end: Stop-Abort CP1-010 - 2023-02-20 11-08-15.txt]]]

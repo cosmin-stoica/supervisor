@@ -1,0 +1,32 @@
+REPORT ALPINE COLLAUDO;
+
+Postazione;AS1-045;
+Tipo postazione;Collaudo;
+Operazione;045;
+Operatore;468-ALFG;
+Codice;AFAS1463LN;
+Codice completo;AFAS1463LN|OP000030085-02|OP000030085-02;
+Data e ora;27-09-2023 14:31:06.896;
+
+Barcode componenti;
+ID;Barcode;Descrizione;
+1;AFAS1463LN|OP000030085-02|OP000030085-02;ETICHETTA MES;
+2;Interfaccia DX;Interfaccia leva DX;
+
+Risultati collaudo;
+ID:;Nome job:;Valore finale:;Esito;
+1;Funzionamento ramo cintura - Linguetta disinserita;222.86 Ohm;OK;
+1;Funzionamento ramo cintura - Linguetta inserita;4148.57 Ohm;OK;
+2;Funzionamento sensore DPD;-;OK;
+3;Leva alzasedile con peso;74.94 N;OK;
+4;Scorr. guide indietro con 75kg;130.51 N;OK;
+5;Scorr. guide indietro con 75kg - SPT;133.13 N;OK;
+5;Scorr. guide avanti con 75kg;138.82 N;OK;
+6;Scorr. guide avanti con 75kg - SPT;129.34 N;OK;
+6;Scorr. guide indietro a Vuoto;81.45 N;OK;
+7;Scorr. guide indietro a Vuoto - SPT;87.47 N;OK;
+7;Scorr. guide avanti a Vuoto;91.75 N;OK;
+8;Scorr. guide avanti a Vuoto - SPT;84.62 N;OK;
+8;Regolazione schienale avanti;1.94 Nm;OK;
+9;Regolazione schienale indietro;1.89 Nm;OK;
+

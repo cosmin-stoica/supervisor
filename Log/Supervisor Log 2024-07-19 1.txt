@@ -1,0 +1,70 @@
+
+16:30:34.962> {{{ERROR: Connessione non effettuata}}}
+
+16:30:34.973> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:30:34.985> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:35:53.877> {{{ERROR: Connessione non effettuata}}}
+
+16:35:53.885> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:35:53.890> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:36:07.769> {{{ERROR: Connessione non effettuata}}}
+
+16:36:07.779> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:36:07.784> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:36:43.825> {{{ERROR: Connessione non effettuata}}}
+
+16:36:43.832> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:36:43.838> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:36:58.940> {{{ERROR: Connessione non effettuata}}}
+
+16:36:58.947> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:36:58.952> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:37:09.579> {{{ERROR: Connessione non effettuata}}}
+
+16:37:09.587> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:37:09.592> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:37:21.926> {{{ERROR: Connessione non effettuata}}}
+
+16:37:21.934> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:37:21.940> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:37:42.916> {{{ERROR: Connessione non effettuata}}}
+
+16:37:42.925> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:37:42.930> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:39:33.667> {{{ERROR: Connessione non effettuata}}}
+
+16:39:33.677> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:39:33.683> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+16:40:03.192> {{{ERROR: Connessione non effettuata}}}
+
+16:40:03.204> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+16:40:03.208> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}

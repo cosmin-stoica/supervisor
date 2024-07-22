@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.chart.StackedBarChart?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.control.TreeView?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.text.TextFlow?>
+<?import org.controlsfx.control.MaskerPane?>
+<?import org.fxmisc.flowless.VirtualizedScrollPane?>
+<?import org.fxmisc.richtext.StyleClassedTextArea?>
+
+<AnchorPane id="MainPane" fx:id="MainPane" prefHeight="423.0" prefWidth="1600.0" styleClass="MainPane" stylesheets="@css/textflow.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ControllerClasses.AppWindowController">
+    <children>
+        <ImageView fitHeight="797.0" fitWidth="1543.0">
+            <image>
+                <Image url="@Images/20598146.jpg" />
+            </image>
+        </ImageView>
+        <AnchorPane fx:id="homepane" layoutX="3.0" layoutY="43.0" prefHeight="787.0" prefWidth="1556.0" AnchorPane.bottomAnchor="65.0" AnchorPane.leftAnchor="3.0" AnchorPane.rightAnchor="41.0" AnchorPane.topAnchor="43.0">
+            <children>
+                <ImageView fitHeight="484.0" fitWidth="1577.0" layoutX="-22.0" layoutY="299.0">
+                    <image>
+                        <Image url="@Images/clipart1060032.png" />
+                    </image>
+                </ImageView>
+                <Text fill="WHITE" layoutX="472.0" layoutY="566.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Connecting through Java">
+                    <font>
+                        <Font name="Alef Regular" size="45.0" />
+                    </font>
+                </Text>
+                <Text layoutX="436.0" layoutY="200.0" strokeType="OUTSIDE" strokeWidth="0.0" text="superVisor" visible="false" wrappingWidth="720.83203125">
+                    <font>
+                        <Font name="Bauhaus 93" size="140.0" />
+                    </font>
+                    <fill>
+                        <LinearGradient endX="0.6060605843861897" endY="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color green="0.2666666805744171" blue="1.0" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </fill>
+                </Text>
+                <Button fx:id="BTN_InitClient" layoutX="653.0" layoutY="217.0" mnemonicParsing="false" onAction="#initClient" prefHeight="32.0" prefWidth="192.0" styleClass="buttonho" text="Initialize thread" textAlignment="CENTER" wrapText="true" AnchorPane.leftAnchor="653.0">
+                    <font>
+                        <Font name="Century Gothic" size="12.0" />
+                    </font>
+                </Button>
+                <Button layoutX="682.0" layoutY="267.0" mnemonicParsing="false" onAction="#CloseClient" prefHeight="17.0" prefWidth="128.0" styleClass="buttonho" text="Close thread" textAlignment="CENTER" wrapText="true">
+                    <font>
+                        <Font name="Century Gothic" size="12.0" />
+                    </font>
+                </Button>
+                <ImageView fitHeight="128.0" fitWidth="565.0" layoutX="474.0" layoutY="24.0">
+                    <image>
+                        <Image url="@Images/Screenshot_2023-09-15_092035-removebg-preview.png" />
+                    </image>
+                </ImageView>
+                <Button fx:id="spegniservizio" layoutX="532.0" layoutY="578.0" mnemonicParsing="false" onAction="#spegniservizioaction" prefHeight="32.0" prefWidth="148.0" styleClass="buttonho" text="Spegni Servizio" textAlignment="CENTER" wrapText="true">
+                    <font>
+                        <Font name="Century Gothic" size="12.0" />
+                    </font>
+                </Button>
+                <Button fx:id="accendiservizio" layoutX="771.0" layoutY="578.0" mnemonicParsing="false" onAction="#accendiservizioaction" prefHeight="32.0" prefWidth="150.0" styleClass="buttonho" text="Accendi Servizio" textAlignment="CENTER" wrapText="true">
+                    <font>
+                        <Font name="Century Gothic" size="12.0" />
+                    </font>
+                </Button>
+            </children>
+        </AnchorPane>
+        <AnchorPane fx:id="userpane" layoutY="48.0" prefHeight="634.0" prefWidth="1570.0" visible="false">
+            <children>
+                <fx:include source="UtentiView.fxml" />
+            </children>
+        </AnchorPane>
+        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#004ebc" height="49.0" layoutX="-18.0" smooth="false" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="1556.0" />
+        <Text fill="WHITE" layoutX="664.0" layoutY="38.0" strokeType="OUTSIDE" strokeWidth="0.0" text="superVisor" wrappingWidth="270.4000000000001">
+            <font>
+                <Font name="Century Gothic" size="35.0" />
+            </font>
+        </Text>
+        <VBox layoutX="1089.0" layoutY="694.0" prefHeight="60.0" prefWidth="367.0" style="-fx-border-color: black;" visible="false" AnchorPane.bottomAnchor="151.0" AnchorPane.leftAnchor="1089.0" AnchorPane.rightAnchor="84.0" AnchorPane.topAnchor="694.0">
+            <children>
+                <TreeView fx:id="TrVw_Root" prefHeight="213.0" prefWidth="366.0" />
+                <TreeView fx:id="TrVw_Sent" />
+                <TreeView fx:id="TrVw_Error" prefHeight="246.0" prefWidth="250.0" />
+                <ToolBar nodeOrientation="RIGHT_TO_LEFT" prefHeight="56.0" prefWidth="366.0" style="-fx-border-color: black;">
+                    <items>
+                        <Button mnemonicParsing="false" text="⟳ Retry errors">
+                            <font>
+                                <Font size="14.0" />
+                            </font>
+                        </Button>
+                    </items>
+                </ToolBar>
+            </children>
+        </VBox>
+        <AnchorPane fx:id="configpane" layoutX="1.0" prefHeight="762.0" prefWidth="1538.0" visible="false">
+            <children>
+                <TextArea fx:id="initext" editable="false" layoutX="70.0" layoutY="85.0" prefHeight="658.0" prefWidth="963.0" styleClass="logview" />
+                <TextArea fx:id="TxtA_log" editable="false" layoutX="76.0" layoutY="205.0" prefHeight="596.0" prefWidth="1028.0" style="-fx-border-color: black;" styleClass="iniview" stylesheets="@css/textflow.css" visible="false" AnchorPane.bottomAnchor="132.0" AnchorPane.leftAnchor="76.0" AnchorPane.rightAnchor="219.0" />
+                <TextFlow fx:id="provatext2" layoutX="146.0" layoutY="130.0" prefHeight="602.0" prefWidth="888.0" styleClass="initext" textAlignment="CENTER" visible="false" />
+                <Text layoutX="492.0" layoutY="418.0" opacity="0.17" strokeType="OUTSIDE" strokeWidth="0.0" text="INI" wrappingWidth="135.20000000000005">
+                    <font>
+                        <Font name="Century Gothic" size="43.0" />
+                    </font>
+                </Text>
+                <AnchorPane layoutX="1007.0" layoutY="229.0" prefHeight="419.0" prefWidth="416.0">
+                    <children>
+                        <RadioButton fx:id="RDB_SchemeHTTP" layoutX="147.0" layoutY="122.0" mnemonicParsing="false" selected="true" text="HTTP://">
+                            <toggleGroup>
+                                <ToggleGroup fx:id="GRP_Scheme" />
+                            </toggleGroup>
+                            <font>
+                                <Font name="Century Gothic" size="19.0" />
+                            </font>
+                        </RadioButton>
+                        <RadioButton fx:id="RDB_SchemeHTTPS" layoutX="265.0" layoutY="122.0" mnemonicParsing="false" text="HTTPS://" toggleGroup="$GRP_Scheme">
+                            <font>
+                                <Font name="Century Gothic" size="19.0" />
+                            </font>
+                        </RadioButton>
+                        <TextField fx:id="TxtF_Hostname" layoutX="150.0" layoutY="185.0" prefHeight="25.0" prefWidth="256.0" />
+                        <TextField fx:id="TxtF_Port" disable="true" layoutX="150.0" layoutY="223.0" prefHeight="25.0" prefWidth="74.0" />
+                        <Label layoutX="32.0" layoutY="116.0" prefHeight="34.0" prefWidth="133.0" text="Scheme">
+                            <font>
+                                <Font name="Century Gothic" size="27.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="37.0" layoutY="188.0" text="Hostname">
+                            <font>
+                                <Font name="Century Gothic" size="19.0" />
+                            </font>
+                        </Label>
+                        <Label disable="true" layoutX="36.0" layoutY="227.0" text="Port">
+                            <font>
+                                <Font name="Century Gothic" size="19.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="36.0" layoutY="262.0" text="API path">
+                            <font>
+                                <Font name="Century Gothic" size="18.0" />
+                            </font>
+                        </Label>
+                        <TextField fx:id="TxtF_Path" layoutX="150.0" layoutY="259.0" prefHeight="25.0" prefWidth="185.0" />
+                        <Button fx:id="BTN_SendReq" layoutX="31.0" layoutY="82.0" mnemonicParsing="false" onAction="#sendRequestGET" text="Send GET request (test)" visible="false" AnchorPane.leftAnchor="31.0">
+                            <font>
+                                <Font name="Century Gothic" size="19.0" />
+                            </font>
+                        </Button>
+                        <TextField fx:id="TxtF_File" layoutX="151.0" layoutY="298.0" />
+                        <Label layoutX="38.0" layoutY="303.0" text="File">
+                            <font>
+                                <Font name="Century Gothic" size="19.0" />
+                            </font>
+                        </Label>
+                        <Button fx:id="Btn_SendPost" layoutX="36.0" layoutY="66.0" mnemonicParsing="false" onAction="#sendRequestPOST" text="Send POST request (test)" visible="false">
+                            <font>
+                                <Font name="Century Gothic" size="19.0" />
+                            </font>
+                        </Button>
+                    </children>
+                    <padding>
+                        <Insets left="10.0" />
+                    </padding>
+                </AnchorPane>
+                <Button layoutX="1041.0" layoutY="85.0" mnemonicParsing="false" onAction="#abilitamodificheiniaction" prefHeight="31.0" prefWidth="200.0" text="Dis/Abilita Modifiche" />
+                <TextArea fx:id="abilitamodificheinitext" layoutX="1041.0" layoutY="130.0" prefHeight="22.0" prefWidth="200.0" styleClass="initext" />
+                <Button fx:id="salvaini" layoutX="1041.0" layoutY="177.0" mnemonicParsing="false" onAction="#salvaactionini" text="Salva" visible="false" />
+            </children>
+        </AnchorPane>
+        <AnchorPane fx:id="logpane" layoutX="-4.0" prefHeight="770.0" prefWidth="1543.0" visible="false">
+            <children>
+                <Rectangle fx:id="blulog2" arcWidth="500.0" fill="#004ebc" height="42.0" layoutX="606.0" layoutY="67.0" stroke="WHITE" strokeType="INSIDE" strokeWidth="0.0" width="391.0" />
+                <Rectangle arcWidth="500.0" fill="#004ebc" height="42.0" layoutX="1028.0" layoutY="67.0" stroke="WHITE" strokeType="INSIDE" strokeWidth="0.0" width="465.0" />
+                <Rectangle arcWidth="500.0" fill="#004ebc" height="42.0" layoutX="67.0" layoutY="67.0" stroke="WHITE" strokeType="INSIDE" strokeWidth="0.0" width="192.0" />
+                <Rectangle fx:id="blulog" arcWidth="500.0" fill="#004ebc" height="42.0" layoutX="286.0" layoutY="67.0" stroke="WHITE" strokeType="INSIDE" strokeWidth="0.0" width="303.0" />
+                <ListView fx:id="logviews" fixedCellSize="50.0" layoutX="1038.0" layoutY="117.0" prefHeight="622.0" prefWidth="290.0" styleClass="dirvieww" />
+                <Button fx:id="aggiornalogs" layoutX="1337.0" layoutY="72.0" mnemonicParsing="false" onAction="#aggiornalogaction" prefHeight="30.0" prefWidth="133.0" styleClass="buttonho" text="Aggiorna" />
+                <Button fx:id="clearlog" layoutX="76.0" layoutY="72.0" mnemonicParsing="false" onAction="#clearlogaction" prefHeight="31.0" prefWidth="66.0" styleClass="buttonho" text="Clear" />
+                <VirtualizedScrollPane fx:id="scroll" layoutX="68.0" layoutY="117.0" prefHeight="621.0" prefWidth="800.0" visible="false">
+                    <content>
+                        <StyleClassedTextArea fx:id="stile" editable="false" prefHeight="638.0" prefWidth="850.0" styleClass="logview" visible="false" wrapText="true" />
+                    </content>
+                </VirtualizedScrollPane>
+                <TableView fx:id="provalog" fixedCellSize="25.0" layoutX="67.0" layoutY="113.0" prefHeight="622.0" prefWidth="933.0" styleClass="logview" tableMenuButtonVisible="true">
+                    <columns>
+                        <TableColumn fx:id="tipocolonna" prefWidth="117.5999755859375" text="Tipo" />
+                        <TableColumn fx:id="datacolonna" prefWidth="150.4000244140625" sortType="DESCENDING" text="Data" />
+                        <TableColumn fx:id="descrizionecolonna" prefWidth="646.3999328613281" text="Descrizione" />
+                    </columns>
+                </TableView>
+                <TextArea fx:id="logarea" editable="false" layoutX="66.0" layoutY="115.0" prefHeight="308.0" prefWidth="927.0" styleClass="logtext" visible="false" wrapText="true" />
+                <Button fx:id="indietrolog" layoutX="79.0" layoutY="72.0" mnemonicParsing="false" onAction="#indietrologaction" styleClass="buttonho" text="Indietro" visible="false" />
+                <Button fx:id="eliminalog" layoutX="1057.0" layoutY="73.0" mnemonicParsing="false" onAction="#eliminalogaction" prefHeight="30.0" prefWidth="117.0" styleClass="buttonho" text="Elimina" />
+                <Button fx:id="aggiornalogtable" layoutX="147.0" layoutY="72.0" mnemonicParsing="false" onAction="#aggiornalogtableaction" prefHeight="26.0" prefWidth="103.0" styleClass="buttonho" text="Aggiorna" />
+                <StackedBarChart fx:id="grafico" layoutY="116.0" prefHeight="636.0" prefWidth="851.0" styleClass="logview" visible="false">
+                    <xAxis>
+                        <CategoryAxis prefHeight="0.0" prefWidth="774.0" side="BOTTOM" styleClass="logtext" tickLabelsVisible="false" fx:id="xAxis" />
+                    </xAxis>
+                    <yAxis>
+                        <NumberAxis fx:id="yAxis" prefHeight="324.0" prefWidth="40.0" side="LEFT" />
+                    </yAxis>
+                </StackedBarChart>
+                <Button fx:id="analytics" layoutX="1190.0" layoutY="72.0" mnemonicParsing="false" onAction="#analyticsaction" prefHeight="30.0" prefWidth="133.0" styleClass="buttonho" text="Analytics" />
+                <Button fx:id="escianal" layoutX="75.0" layoutY="73.0" mnemonicParsing="false" onAction="#escianalaction" prefHeight="31.0" prefWidth="62.0" styleClass="buttonho" text="Esci" visible="false" />
+                <Text fx:id="errorstext" fill="#004ebc" layoutX="272.0" layoutY="105.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Errors Analysis" visible="false">
+                    <font>
+                        <Font name="Century Gothic" size="44.0" />
+                    </font>
+                </Text>
+                <CheckBox fx:id="livechoice" layoutX="66.0" layoutY="745.0" mnemonicParsing="false" styleClass="button" text="Live Logging" />
+                <TextArea fx:id="csvarea" layoutX="66.0" layoutY="429.0" prefHeight="308.0" prefWidth="927.0" styleClass="logtext" visible="false" />
+                <Text fx:id="csvcsv" fill="#c7c7c7" layoutX="414.0" layoutY="596.0" strokeType="OUTSIDE" strokeWidth="0.0" text="CSV" visible="false" wrappingWidth="80.0">
+                    <font>
+                        <Font name="Century Gothic" size="34.0" />
+                    </font>
+                </Text>
+                <Button fx:id="logloginbutton" layoutX="300.0" layoutY="72.0" mnemonicParsing="false" onAction="#logloginaction" styleClass="buttonho" text="Login" />
+                <Button fx:id="logavviobutton" layoutX="370.0" layoutY="72.0" mnemonicParsing="false" onAction="#logavvioaction" styleClass="buttonho" text="Avvio" />
+                <Button fx:id="logreportbutton" layoutX="440.0" layoutY="72.0" mnemonicParsing="false" onAction="#logreportaction" styleClass="buttonho" text="Report" />
+                <Button fx:id="logstopbutton" layoutX="520.0" layoutY="72.0" mnemonicParsing="false" onAction="#logstopaction" styleClass="buttonho" text="Stop" />
+                <Text fx:id="logtext" fill="WHITE" layoutX="616.0" layoutY="99.0" strokeType="OUTSIDE" strokeWidth="0.0">
+                    <font>
+                        <Font name="Century Gothic" size="15.0" />
+                    </font>
+                </Text>
+                <Button fx:id="quattroanalbutton" layoutX="141.0" layoutY="73.0" mnemonicParsing="false" onAction="#setQuattroanalbutton" styleClass="buttonho" text="400" visible="false" />
+                <Button fx:id="errorsanalbutton" layoutX="192.0" layoutY="73.0" mnemonicParsing="false" onAction="#setErrorsanalbutton" styleClass="buttonho" text="Errors" visible="false" />
+                <Text fx:id="logtext3" fill="WHITE" layoutX="616.0" layoutY="99.0" strokeType="OUTSIDE" strokeWidth="0.0">
+                    <font>
+                        <Font name="Century Gothic" size="15.0" />
+                    </font>
+                </Text>
+                <Text fx:id="errorstext2" fill="#004ebc" layoutX="282.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Errors Analysis" visible="false">
+                    <font>
+                        <Font name="Century Gothic" size="44.0" />
+                    </font>
+                </Text>
+                <ListView fx:id="httpslogview" fixedCellSize="50.0" layoutX="1340.0" layoutY="117.0" prefHeight="622.0" prefWidth="150.0" styleClass="dirvieww" />
+
+
+            </children>
+        </AnchorPane>
+        <Button fx:id="menubutton" layoutX="12.0" layoutY="8.0" mnemonicParsing="false" onAction="#MenuButtAction" styleClass="buttonho" text="Menu" />
+        <ImageView fitHeight="32.0" fitWidth="106.0" layoutX="1384.0" layoutY="9.0">
+            <image>
+                <Image url="@Images/Sabelt_logo.svg.png" />
+            </image>
+        </ImageView>
+        <Circle fx:id="circlewhite" fill="WHITE" layoutX="1338.0" layoutY="26.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" />
+        <Text fill="WHITE" layoutX="1264.0" layoutY="31.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="button" text="Servizio" />
+        <Circle fx:id="circlegreen" fill="#6dff00" layoutX="1338.0" layoutY="27.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" visible="false" />
+        <Text fx:id="texttest" fill="RED" layoutX="281.0" layoutY="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ambiente di test" visible="false" wrappingWidth="373.0666259765626">
+            <font>
+                <Font name="Bauhaus 93" size="50.0" />
+            </font>
+        </Text>
+        <Text fill="WHITE" layoutX="1207.0" layoutY="32.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="button" text="Connessione" visible="false" />
+        <Circle fx:id="circlewhite2" fill="WHITE" layoutX="1328.0" layoutY="26.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" visible="false" />
+        <Circle fx:id="circlegreen2" fill="#6dff00" layoutX="1338.0" layoutY="26.0" radius="11.0" stroke="BLACK" strokeType="INSIDE" visible="false" />
+        <AnchorPane fx:id="postazionipane" layoutY="46.0" prefHeight="753.0" prefWidth="1549.0" visible="false">
+            <children>
+                <Text layoutX="529.0" layoutY="194.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Postazioni" visible="false">
+                    <font>
+                        <Font name="Century Gothic" size="39.0" />
+                    </font>
+                </Text>
+                <GridPane fx:id="gridlog" alignment="CENTER" layoutX="65.0" layoutY="116.0" prefHeight="510.0" prefWidth="1377.0" styleClass="grid-pane">
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                </GridPane>
+                <Text layoutX="78.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="POSTAZIONI" wrappingWidth="799.7999999999998">
+                    <font>
+                        <Font name="Bauhaus 93" size="71.0" />
+                    </font>
+                    <fill>
+                        <LinearGradient endX="0.6060605843861897" endY="1.0">
+                            <stops>
+                                <Stop>
+                                    <color>
+                                        <Color green="0.2666666805744171" blue="1.0" />
+                                    </color>
+                                </Stop>
+                                <Stop offset="1.0">
+                                    <color>
+                                        <Color />
+                                    </color>
+                                </Stop>
+                            </stops>
+                        </LinearGradient>
+                    </fill>
+                </Text>
+            </children>
+        </AnchorPane>
+        <AnchorPane fx:id="vedispec" layoutY="51.0" prefHeight="689.0" prefWidth="1518.0" visible="false">
+            <children>
+                <Rectangle arcWidth="500.0" fill="#004ebc" height="42.0" layoutX="400.0" layoutY="19.0" stroke="WHITE" strokeType="INSIDE" strokeWidth="0.0" width="297.0" />
+                <Rectangle arcWidth="500.0" fill="#004ebc" height="42.0" layoutX="33.0" layoutY="19.0" stroke="WHITE" strokeType="INSIDE" strokeWidth="0.0" width="323.0" />
+                <TableView fx:id="logspec" fixedCellSize="25.0" layoutX="400.0" layoutY="73.0" prefHeight="647.0" prefWidth="1074.0" styleClass="logview" tableMenuButtonVisible="true">
+                    <columns>
+                        <TableColumn fx:id="tipocolonnaspec" prefWidth="117.5999755859375" text="Tipo" />
+                        <TableColumn fx:id="datacolonnaspec" prefWidth="150.4000244140625" sortType="DESCENDING" text="Data" />
+                        <TableColumn fx:id="descrizionecolonnaspec" prefWidth="549.60009765625" text="Descrizione" />
+                    </columns>
+                </TableView>
+                <ListView fx:id="specviews" fixedCellSize="50.0" layoutX="33.0" layoutY="73.0" prefHeight="647.0" prefWidth="323.0" styleClass="dirvieww" />
+                <Button fx:id="indietrospec" layoutX="1395.0" layoutY="24.0" mnemonicParsing="false" onAction="#indietrospecaction" styleClass="buttonho" text="Indietro" />
+                <Button fx:id="loginbutton" layoutX="410.0" layoutY="24.0" mnemonicParsing="false" onAction="#loginaction" styleClass="buttonho" text="Login" />
+                <Button fx:id="avviobutton" layoutX="480.0" layoutY="24.0" mnemonicParsing="false" onAction="#avvioaction" styleClass="buttonho" text="Avvio" />
+                <Button fx:id="reportbutton" layoutX="550.0" layoutY="24.0" mnemonicParsing="false" onAction="#reportaction" styleClass="buttonho" text="Report" />
+                <Button fx:id="stopbutton" layoutX="630.0" layoutY="24.0" mnemonicParsing="false" onAction="#stopaction" styleClass="buttonho" text="Stop" />
+                <Text fx:id="spectext" fill="WHITE" layoutX="40.0" layoutY="51.0" strokeType="OUTSIDE" strokeWidth="0.0">
+                    <font>
+                        <Font name="Century Gothic" size="33.0" />
+                    </font>
+                </Text>
+                <Rectangle arcWidth="500.0" fill="#004ebc" height="42.0" layoutX="720.0" layoutY="20.0" stroke="WHITE" strokeType="INSIDE" strokeWidth="0.0" width="240.0" />
+                <Text fx:id="logtext1" fill="WHITE" layoutX="730.0" layoutY="50.0" strokeType="OUTSIDE" strokeWidth="0.0">
+                    <font>
+                        <Font name="Century Gothic" size="15.0" />
+                    </font>
+                </Text>
+                <TextArea fx:id="infospec" layoutX="400.0" layoutY="72.0" prefHeight="308.0" prefWidth="1074.0" styleClass="logtext" visible="false" />
+                <TextArea fx:id="vedicsvspec" layoutX="400.0" layoutY="412.0" prefHeight="308.0" prefWidth="1074.0" styleClass="logtext" visible="false" />
+                <Button fx:id="indietrospec1" layoutX="1395.0" layoutY="25.0" mnemonicParsing="false" onAction="#setIndietrospec1" styleClass="buttonho" text="Indietro" visible="false" />
+            </children>
+        </AnchorPane>
+        <AnchorPane fx:id="directoriespane" layoutX="21.0" layoutY="50.0" prefHeight="730.0" prefWidth="1511.0" visible="false">
+            <children>
+                <fx:include source="TableView.fxml" />
+            </children>
+        </AnchorPane>
+        <AnchorPane fx:id="ordinipane" layoutX="4.0" layoutY="53.0" prefHeight="737.0" prefWidth="1538.0" visible="false">
+            <children>
+                <fx:include source="SerialsView.fxml" />
+            </children>
+        </AnchorPane>
+        <AnchorPane fx:id="menu" layoutY="46.0" prefHeight="770.0" prefWidth="290.0" styleClass="menu" stylesheets="@css/textflow.css">
+            <children>
+            <Button fx:id="utentibutton" layoutX="-4.0" layoutY="671.0" mnemonicParsing="false" onAction="#utentiaction" prefHeight="70.0" prefWidth="277.0" styleClass="buttonmenu" text=" Utenti" />
+                <ImageView fitHeight="61.0" fitWidth="61.0" layoutY="673.0">
+                    <image>
+                        <Image url="@Images/user.png" />
+                    </image>
+                </ImageView>
+                <Button fx:id="homebutton" layoutX="-10.0" layoutY="96.0" mnemonicParsing="false" onAction="#homeaction" prefHeight="70.0" prefWidth="282.0" styleClass="buttonmenu" stylesheets="@css/textflow.css" text="  Home" textFill="WHITE">
+                    <font>
+                        <Font size="21.0" />
+                    </font>
+                </Button>
+                <Button fx:id="configbutton" layoutX="-7.0" layoutY="198.0" mnemonicParsing="false" onAction="#configaction" prefHeight="70.0" prefWidth="279.0" styleClass="buttonmenu" text="   Config" />
+                <Button fx:id="logbutton" layoutX="-10.0" layoutY="299.0" mnemonicParsing="false" onAction="#logaction" prefHeight="70.0" prefWidth="281.0" styleClass="buttonmenu" text="Log" />
+                <ImageView fitHeight="49.0" fitWidth="47.0" layoutX="7.0" layoutY="105.0">
+                    <image>
+                        <Image url="@Images/white-home-icon-png-21.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="59.0" fitWidth="58.0" layoutX="2.0" layoutY="203.0">
+                    <image>
+                        <Image url="@Images/userlmn_3a06e7595570ca8b43480ab4a1fc26cd.png" />
+                    </image>
+                </ImageView>
+                <ImageView fitHeight="59.0" fitWidth="58.0" layoutX="-2.0" layoutY="304.0">
+                    <image>
+                        <Image url="@Images/userlmn_17be32f326e8fcb73e89fc2408ce9e1b.png" />
+                    </image>
+                </ImageView>
+                <Button fx:id="dirmenubutton" layoutX="-5.0" layoutY="399.0" mnemonicParsing="false" onAction="#diraction" prefHeight="70.0" prefWidth="277.0" styleClass="buttonmenu" text="         Directories" />
+                <ImageView fitHeight="59.0" fitWidth="58.0" layoutX="2.0" layoutY="404.0">
+                    <image>
+                        <Image url="@Images/icone-de-dossier-symbole-png-noir.png" />
+                    </image>
+                </ImageView>
+                <Button fx:id="postazionibutton" layoutX="-5.0" layoutY="499.0" mnemonicParsing="false" onAction="#postaaction" prefHeight="70.0" prefWidth="277.0" styleClass="buttonmenu" text="        Postazioni" />
+                <Button fx:id="ordinibutton" layoutX="-5.0" layoutY="588.0" mnemonicParsing="false" onAction="#ordiniaction" prefHeight="70.0" prefWidth="277.0" styleClass="buttonmenu" text=" Ordini" />
+                <ImageView fitHeight="61.0" fitWidth="62.0" layoutY="595.0">
+                    <image>
+                        <Image url="@Images/ordini.png" />
+                    </image>
+                </ImageView>
+            <ImageView fitHeight="48.0" fitWidth="48.0" layoutX="6.0" layoutY="512.0">
+               <image>
+                  <Image url="@Images/59505.png" />
+               </image>
+            </ImageView>
+            </children>
+        </AnchorPane>
+        <MaskerPane fx:id="wait" layoutX="680.0" layoutY="360.0" prefHeight="128.0" prefWidth="128.0" style="-fx-background-color: blue;" text="Caricamento..." visible="false" />
+        <Text fx:id="indextext" fill="WHITE" layoutX="89.0" layoutY="31.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="textflow">
+            <font>
+                <Font name="Century Gothic" size="21.0" />
+            </font>
+        </Text>
+    </children>
+</AnchorPane>

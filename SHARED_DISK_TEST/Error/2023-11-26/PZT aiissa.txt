@@ -1,0 +1,5 @@
+LOGIN;
+
+Postazione;prova;
+Operatore;001-CARS;
+Data e ora;28-06-2022 00:00:09.100;

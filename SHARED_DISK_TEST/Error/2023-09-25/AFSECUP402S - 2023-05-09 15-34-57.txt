@@ -1,0 +1,31 @@
+REPORT CUPRA COLLAUDO SCHIENALE;
+
+Stabilimento;SABELT MONCALIERI;
+Postazione;CP-070;
+Tipo postazione;Collaudo;
+Operazione;070;
+Data e ora;09-05-2023 15:34:57.647;
+Operatore;002-LAFM;
+Codice;AFSECUP402S;
+Progressivo;10719;
+
+Barcode componenti;
+ID;Barcode;Descrizione;
+1;AFSECUP402S|OP000011283|OP000011283-019;ETICHETTA MES;
+2;#5FA880242F    ##450313213#141022*673 DU9D008BU62*=;BAG DX (51);
+3;#5FF881806BE   ##435202385#300123*677 EL80014541U*=;FODERA DX (baugruppen);
+4;#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFIA*=;RAMO CINTURA (52);
+5;#5FA881022D WYF##428502975#090523*756 TOS0010719Q*&#5FA880242F    ##450313213#141022*673 DU9D008BU62*&#5FF881806BE   ##435202385#300123*677 EL80014541U*&#8Y0857755  MNB#1#525443070#230123*620 ARO0G0YZFIA*=;etichetta BAUGRUPPEN (205);
+
+Risultati collaudo;
+ID:;Nome job:;Valore finale:;Esito;
+1;Funzionamento ramo cintura - Linguetta disinserita;220.73 Ohm;OK;
+1;Funzionamento ramo cintura - Linguetta inserita;818.49 Ohm;OK;
+2;1 - Prova SBR senza peso;404.36 Ohm;OK;
+3;2 - Prova SBR con peso leggero;404.36 Ohm;OK;
+4;3 - Prova SBR con peso;101.41 Ohm;OK;
+5;4 - Prova SBR senza peso;404.36 Ohm;OK;
+6;Funzionamento Sidebag;2.35 Ohm;OK;
+7;Verifica termoforo - HT CRT;5.52 A;OK;
+7;Verifica termoforo - SNS RES;7920.30 Ohm;OK;
+

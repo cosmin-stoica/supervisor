@@ -1,0 +1,17 @@
+REPORT ASTON MARTIN COLLAUDO;
+
+Postazione;AM1-040;
+Tipo postazione;Collaudo;
+Operazione;040;
+Operatore;435-BOSP;
+Codice;PEZZO TRAPPOLA MOTORINI;
+Codice completo;PEZZO TRAPPOLA MOTORINI|0|0;
+Data e ora;22-07-2024 08:24:14.175;
+
+Risultati collaudo;
+ID:;Nome job:;Valore finale:;Esito;
+1;Regolazione schienale avanti - Pick;0.63 A;OK;
+1;Regolazione schienale avanti - Time;3.44 sec;OK;
+2;Regolazione schienale indietro - Pick;0.63 A;OK;
+2;Regolazione schienale indietro - Time;3.47 sec;OK;
+

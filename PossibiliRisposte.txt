@@ -1,0 +1,21 @@
+Possibili risposte:
+
+OK:
+Messaggio inviato con successo
+
+Errore:{
+Login:
+1- Time keeping event error ! Received Start event prior to last stop event
+2- Value cannot be null.
+3- User already logged in
+
+Avvio:
+1- OrderNumber is null or empty
+2- Il Serial Number non 蠡ncora stato dichiarato nell'operazione 160 
+3- Serial Number sconosciuto !
+4- StartProcessingUnitByRequest
+5- Errore durante lo start della produzione, contattare l'assistenza
+6- Value cannot be null. ----> Ordine null
+}
+
+Il file sarà chiamato "status.txt" ->

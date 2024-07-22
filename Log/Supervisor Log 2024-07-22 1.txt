@@ -1,0 +1,1311 @@
+
+09:07:03.874> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+09:07:04.893> [[[DEBUG: Processing start: Logout.txt]]]
+
+09:07:04.968> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+09:07:05.030> {{{ERROR: USER_HANDLER::insertUser:: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: postazioni_user.postazione)}}}
+
+09:07:05.069> [[[DEBUG: Postazione modificata correttamente]]]
+
+09:07:05.075> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-16T06:50:00.251Z",
+   "workstation": "MAR-25",
+   "user": "438-LEOV",
+   "status": "0"
+}
+]]]
+
+09:07:05.081> {{{SERVER: Sending to server}}}
+
+09:07:11.144> {{{SERVER: Response code: 400}}}
+
+09:07:11.149> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+09:07:11.154> {{{SERVER: Request data: https://localhost:443/sabelt/cg/LoginLogout POST}}}
+
+09:07:11.161> [[[DEBUG: Moving to error: Logout.txt]]]
+
+09:07:11.166> [[[DEBUG: Processing end: Logout.txt]]]
+
+
+
+
+
+
+
+09:07:52.182> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:07:52.187> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+
+
+
+
+
+
+09:08:33.203> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:08:33.260> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:13:48.242> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+09:14:44.013> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+
+
+
+
+
+
+09:14:55.031> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:14:55.061> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+09:14:55.068> [[[DEBUG: {"variables":[{"UoM":"A","attachments":[],"name":"1;Regolazione schienale avanti - Pick;Prova","type":0,"samples":[{"timeStamp":"2024-07-22T06:24:14.175Z","value":0.63}]},{"attachments":[],"name":"1;Regolazione schienale avanti - Pick;Esito","type":1,"samples":[{"timeStamp":"2024-07-22T06:24:14.175Z","value":"OK"}]},{"UoM":"sec","attachments":[],"name":"1;Regolazione schienale avanti - Time;Prova","type":0,"samples":[{"timeStamp":"2024-07-22T06:24:14.175Z","value":3.44}]},{"attachments":[],"name":"1;Regolazione schienale avanti - Time;Esito","type":1,"samples":[{"timeStamp":"2024-07-22T06:24:14.175Z","value":"OK"}]},{"UoM":"A","attachments":[],"name":"2;Regolazione schienale indietro - Pick;Prova","type":0,"samples":[{"timeStamp":"2024-07-22T06:24:14.175Z","value":0.63}]},{"attachments":[],"name":"2;Regolazione schienale indietro - Pick;Esito","type":1,"samples":[{"timeStamp":"2024-07-22T06:24:14.175Z","value":"OK"}]},{"UoM":"sec","attachments":[],"name":"2;Regolazione schienale indietro - Time;Prova","type":0,"samples":[{"timeStamp":"2024-07-22T06:24:14.175Z","value":3.47}]},{"attachments":[],"name":"2;Regolazione schienale indietro - Time;Esito","type":1,"samples":[{"timeStamp":"2024-07-22T06:24:14.175Z","value":"OK"}]}],"orderNumber":"0","serialNumber":"0","attachments":[],"scraps":[],"workstation":"AM1-040","traceability":[],"timeStamp":"2024-07-22T06:24:14.175Z","huCode":null,"okQty":1,"consumptions":[],"isQuality":false,"checkList":[],"operation":"040","user":"435-BOSP"}]]]
+
+09:14:55.076> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:16:39.594> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+09:16:39.980> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+09:16:51.116> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+
+
+
+
+
+
+09:17:12.135> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:17:12.159> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+09:17:12.164> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:18:02.288> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+09:18:02.611> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+09:18:17.120> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+
+
+
+
+
+
+09:21:03.197> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:21:03.228> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+09:21:03.237> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:21:03.244> [[[DEBUG: WORKSSSS:::]]]
+
+09:21:03.249> [[[DEBUG: AM1-040]]]
+
+
+
+
+
+
+
+09:21:09.257> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:21:09.267> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+09:21:09.272> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:21:09.276> [[[DEBUG: WORKSSSS:::]]]
+
+09:21:09.279> [[[DEBUG: AM1-040]]]
+
+09:37:16.360> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+
+
+
+
+
+
+09:37:42.379> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:37:42.408> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+09:37:42.412> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor]]]
+
+09:37:42.417> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:38:16.255> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+09:38:16.609> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+
+
+
+
+
+
+09:38:22.270> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:38:22.293> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+09:38:22.298> [[[DEBUG: ]]]
+
+09:38:22.302> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor]]]
+
+09:38:22.307> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:38:36.045> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+
+
+
+
+
+
+09:38:37.059> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:38:37.097> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+09:38:37.106> [[[DEBUG: ]]]
+
+09:38:37.113> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor]]]
+
+09:38:37.119> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:43:38.647> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+
+
+
+
+
+
+09:43:44.664> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:43:44.705> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+09:43:44.716> [[[DEBUG: AM1-040]]]
+
+09:43:44.722> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-040]]]
+
+09:43:44.730> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+
+
+
+
+
+
+09:44:10.756> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:44:10.769> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+09:44:10.775> [[[DEBUG: AM1-040]]]
+
+09:44:10.780> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-040]]]
+
+09:44:10.787> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+09:44:36.643> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+09:44:52.631> {{{SERVER: Client created with base: https://apig-sabelt.brickreply.net}}}
+
+10:36:52.400> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+10:36:53.450> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+10:36:53.555> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+10:36:53.574> [[[DEBUG: AM1-040]]]
+
+10:36:53.585> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-040]]]
+
+10:36:53.610> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+10:37:43.572> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+10:37:49.589> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+10:37:49.663> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+10:37:49.689> [[[DEBUG: AM1-040]]]
+
+10:37:49.745> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-040]]]
+
+10:37:49.763> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]

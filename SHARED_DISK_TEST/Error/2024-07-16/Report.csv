@@ -1,0 +1,53 @@
+REPORT *Nome Macchina*;
+
+Postazione;*Nome Postazione*;
+Tipo postazione;*Tipo Postazione (Collaudo, Montaggio ecc...);
+Operazione;*Numero operazione*;
+Operatore;*Codice Operatore*;
+Codice;*Codice operazione*;
+Codice completo;*Codice operazione*;
+Data e ora;16-07-2024 09:32:53.374;
+
+Barcode componenti;
+ID;Barcode;Descrizione;
+1;AFCUPBRCPESX6W001|OP000070520|OP000070520-018;*DESCRIZIONE*;
+2;#5FA880242G    ##449616547#110524*673 DU9D00FRVBV*=;BDESCRIZIONE*);
+3;#5FF881806CD   ##559901737#060624*677 TRM13YB6YMW*=;DESCRIZIONE*;
+4;#8Y0857755  MNB#1#525443070#210624*620 ARO0J1SDO1L*=;DESCRIZIONE*;
+5;#5FA881022F INV##428502975#160724*756 TOS0020293O*&#5FA880242G    ##449616547#110524*673 DU9D00FRVBV*&#5FF881806CD   ##559901737#060624*677 TRM13YB6YMW*&#8Y0857755  MNB#1#525443070#210624*620 ARO0J1SDO1L*=;DESCRIZIONE*);
+
+Risultati collaudo;
+ID:;Nome job:;Valore finale:;Esito;
+1;Funzionamento ramo cintura - Linguetta disinserita;220.73 Ohm;OK;
+1;Funzionamento ramo cintura - Linguetta inserita;818.49 Ohm;OK;
+2;1 - Prova SBR senza peso;405.28 Ohm;OK;
+3;2 - Prova SBR con peso leggero;405.28 Ohm;OK;
+4;3 - Prova SBR con peso;103.79 Ohm;OK;
+5;4 - Prova SBR senza peso;405.28 Ohm;OK;
+6;Funzionamento Sidebag;2.13 Ohm;OK;
+7;Verifica termoforo - HT CRT;6.38 A;OK;
+7;Verifica termoforo - SNS RES;7853.09 Ohm;OK;
+8;Mov lomb SU - Pick;0.56 A;OK;
+8;Mov lomb SU - Time;2.25 sec;OK;
+9;Mov lomb GIU - Pick;0.59 A;OK;
+9;Mov lomb GIU - Time;2.26 sec;OK;
+10;Mov lomb AVANTI - Pick;0.86 A;OK;
+10;Mov lomb AVANTI - Time;3.04 sec;OK;
+11;Mov lomb INDIETRO - Pick;0.38 A;OK;
+11;Mov lomb INDIETRO - Time;2.33 sec;OK;
+12;Mov GUIDE - Pick;2.57 A;OK;
+12;Mov GUIDE - Time;2.41 sec;OK;
+13;Mov ALZASEDILE - Pick;1.97 A;OK;
+13;Mov ALZASEDILE - Time;2.45 sec;OK;
+14;Mov CU ANTERIORE - Pick;1.51 A;OK;
+14;Mov CU ANTERIORE - Time;2.33 sec;OK;
+15;Mov SCHIENALE - Pick;1.97 A;OK;
+15;Mov SCHIENALE - Time;2.48 sec;OK;
+
+Controlli;
+ID;Nome Job;Nome Variabile;Valore;Esito;
+1;Verifica conformità / profondità logo / conformità nasetto / gap schienale - montaggio intermediario;;OK;
+2;Verifica vuoto zona apt / ondulazioni su schienale / sellatura schienale / simmetria cuciture schienale;;OK;
+3;Verifica scocca: verso fibre uguale DX e SX / interferenza in movimentazione;;OK;
+4;Verifica linearità cuciture estetiche / corretto fissaggio carter / liabilità / estetica schienale (graffi) / corretto montaggio tasti;;OK;
+
