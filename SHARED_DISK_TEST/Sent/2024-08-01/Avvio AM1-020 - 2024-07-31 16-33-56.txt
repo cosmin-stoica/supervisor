@@ -1,0 +1,9 @@
+AVVIO;
+
+Postazione;AM1-020;
+Tipo postazione;Montaggio;
+Operazione;020;
+Operatore;1-MANUFACTURING;
+Codice;PEZZO-TRAPPOLA-BAG;
+Codice completo;PEZZO-TRAPPOLA-BAG|0|0;
+Data e ora;31-07-2024 16:33:56.941;

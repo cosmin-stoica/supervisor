@@ -1,0 +1,134 @@
+
+08:50:56.786> {{{ERROR: Connessione non effettuata}}}
+
+08:50:56.796> {{{ERROR: Client non inizializzato : RestClass::RestClass->java.net.ConnectException}}}
+
+08:50:56.802> {{{ERROR: CONNESSIONE NON RIUSCITA: WorkingClass::WorkingClass->
+			RestClass::RestClass->java.net.ConnectException}}}
+
+08:51:22.482> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+08:51:38.523> [[[DEBUG: Processing start: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:51:38.565> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-31T14:33:56.941Z",
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "workstation": "AM1-020",
+   "operation": "020",
+   "user": "1-MANUFACTURING"
+}
+]]]
+
+08:51:38.574> {{{SERVER: Sending to server}}}
+
+08:51:44.647> {{{SERVER: Response code: 200}}}
+
+08:51:44.651> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:51:44.654> {{{SERVER: Request data: https://localhost:443/sabelt/cg/AvvioFase POST}}}
+
+08:51:44.658> [[[DEBUG: AM1-020]]]
+
+08:51:44.660> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-020]]]
+
+08:51:44.664> [[[DEBUG: Moving to sent: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:51:44.670> [[[DEBUG: Processing end: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:54:02.684> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+08:54:03.700> [[[DEBUG: Processing start: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:54:03.736> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-31T14:33:56.941Z",
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "workstation": "AM1-020",
+   "operation": "020",
+   "user": "1-MANUFACTURING"
+}
+]]]
+
+08:54:03.745> {{{SERVER: Sending to server}}}
+
+08:54:09.781> {{{SERVER: Response code: 200}}}
+
+08:54:09.789> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:54:09.796> {{{SERVER: Request data: https://localhost:443/sabelt/cg/AvvioFase POST}}}
+
+08:54:09.804> [[[DEBUG: AM1-020]]]
+
+08:54:09.809> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-020]]]
+
+08:54:09.815> [[[DEBUG: Moving to sent: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:54:09.823> [[[DEBUG: Processing end: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:54:42.943> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+08:54:43.961> [[[DEBUG: Processing start: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:54:43.986> [[[DEBUG: JSON is:
+{
+   "timeStamp": "2024-07-31T14:33:56.941Z",
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "workstation": "AM1-020",
+   "operation": "020",
+   "user": "1-MANUFACTURING"
+}
+]]]
+
+08:54:43.994> {{{SERVER: Sending to server}}}
+
+08:54:50.037> {{{SERVER: Response code: 200}}}
+
+08:54:50.042> {{{SERVER: Response body: {"succeeded":false,"errorMessage":"Error on traslate the DTO","errorMessageForLogging":"Error on traslate the DTO","errors":["Error on traslate the DTO"],"warnings":[],"confirmation":null,"detailedNotification":null,"value":null,"typeErrors":{}}}}}
+
+08:54:50.049> {{{SERVER: Request data: https://localhost:443/sabelt/cg/AvvioFase POST}}}
+
+08:54:50.055> [[[DEBUG: AM1-020]]]
+
+08:54:50.058> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-020]]]
+
+08:54:50.062> [[[DEBUG: Moving to sent: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:54:50.067> [[[DEBUG: Processing end: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:56:46.848> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+08:56:47.865> [[[DEBUG: Processing start: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]
+
+08:56:47.891> [[[DEBUG: AM1-020]]]
+
+08:56:47.897> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-020]]]
+
+08:56:47.905> [[[DEBUG: Moving to sent: Avvio AM1-020 - 2024-07-31 16-33-56.txt]]]

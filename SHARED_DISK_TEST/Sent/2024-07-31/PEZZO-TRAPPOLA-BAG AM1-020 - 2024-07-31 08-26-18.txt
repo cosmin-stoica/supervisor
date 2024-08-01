@@ -1,0 +1,18 @@
+REPORT ASTON MARTIN MONTAGGIO;
+
+Postazione;AM1-020;
+Tipo postazione;Montaggio;
+Operazione;020;
+Operatore;414-TAMA;
+Codice;PEZZO-TRAPPOLA-BAG;
+Codice completo;PEZZO-TRAPPOLA-BAG|0|0;
+Data e ora;31-07-2024 08:26:18.102;
+
+Risultati avvitature;
+Vite;Nome Job;ID Job;ID Vite;UCA;Coppia;Angolo;GP;Esito;
+1;Avvitatura dadi autobloccante SAB;3;1;Cleco;5.06;6;90;OK;
+
+Risultati collaudo;
+ID:;Nome job:;Valore finale:;Esito;
+1;Prova Sidebag fine montaggio;2.12 Ohm;OK;
+

@@ -35,10 +35,8 @@ public class ErrorHandler
                 break;
 
             case "Rilevato pezzo trappola":
-                createFolderAndWriteStatus(directory, bench, "Rilevato pezzo trappola");
+                createFolderAndWriteStatus(directory, bench, "Messaggio inviato con successo");
                 break;
-
-
             default:
 
                 //*****************LOGIN********************//

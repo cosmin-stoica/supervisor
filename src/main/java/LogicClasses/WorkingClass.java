@@ -117,12 +117,23 @@ public class WorkingClass extends Thread implements Runnable
                             WriteLogDebug("Processing start: " + fName);
 
                             try {
-                                if (fName.contains("PZT") || fName.contains("PEZZO") || fName.contains("TRAPPOLA") || fName.contains("pezzo") || fName.contains("trappola")) {
+                                /*if (fName.contains("PZT") || fName.contains("PEZZO") || fName.contains("TRAPPOLA") || fName.contains("pezzo") || fName.contains("trappola")) {
                                     JSONObject json = new JsonBuilder(new CsvReader(file.getPath()), JsonBuilder.FileType.REPORT).getJson();
                                     String workStation = (String) json.get("workstation");
                                     evaluateStringWithfName("Rilevato pezzo trappola",workStation);
                                     moveFileToSent(file);
                                     continue;
+                                }*/
+
+                                if (fName.startsWith("Avvio")) {
+                                    CsvReader csv = (new CsvReader(file.getPath()));
+                                    String codice = csv.getCodiceCompleto();
+                                    if (codice.contains("PZT") || codice.contains("PEZZO") || codice.contains("TRAPPOLA") || codice.contains("pzt") || codice.contains("pezzo") || codice.contains("trappola")) {
+                                        WriteLogDebug("IS PEZZO TRAPPOLA!");
+                                        evaluateString("Messaggio inviato con successo", fName);
+                                        moveFileToSent(file);
+                                        continue;
+                                    }
                                 }
 
 

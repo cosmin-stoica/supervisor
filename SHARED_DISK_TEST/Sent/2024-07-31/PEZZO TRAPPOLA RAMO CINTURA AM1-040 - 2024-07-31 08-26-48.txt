@@ -1,0 +1,15 @@
+REPORT ASTON MARTIN COLLAUDO;
+
+Postazione;AM1-040;
+Tipo postazione;Collaudo;
+Operazione;040;
+Operatore;1-MANUFACTURING;
+Codice;PEZZO TRAPPOLA RAMO CINTURA;
+Codice completo;PEZZO TRAPPOLA RAMO CINTURA|0|0;
+Data e ora;31-07-2024 08:26:48.412;
+
+Risultati collaudo;
+ID:;Nome job:;Valore finale:;Esito;
+1;Funzionamento ramo cintura - Linguetta disinserita;3.33 mA;OK;
+1;Funzionamento ramo cintura - Linguetta inserita;15.07 mA;OK;
+

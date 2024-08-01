@@ -1,0 +1,811 @@
+
+11:53:15.650> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+11:53:56.729> [[[DEBUG: Processing start: PEZZO TRAPPOLA RAMO CINTURA AM1-040 - 2024-07-31 08-26-48.txt]]]
+
+11:53:56.760> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "mA",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": 3.33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "mA",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": 15.07
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-31T06:26:48.412Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "1-MANUFACTURING"
+}
+]]]
+
+11:53:56.768> [[[DEBUG: AM1-040]]]
+
+11:53:56.772> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-040]]]
+
+11:53:56.776> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA RAMO CINTURA AM1-040 - 2024-07-31 08-26-48.txt]]]
+
+15:52:45.024> {{{SERVER: Client created with base: https://localhost:443}}}
+
+
+
+
+
+
+
+15:52:46.056> [[[DEBUG: Processing start: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+15:52:46.100> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.44
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Regolazione schienale avanti - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "A",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 0.63
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Pick;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "sec",
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": 3.47
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "2;Regolazione schienale indietro - Time;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-22T06:24:14.175Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-22T06:24:14.175Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "435-BOSP"
+}
+]]]
+
+15:52:46.111> [[[DEBUG: AM1-040]]]
+
+15:52:46.119> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-040]]]
+
+15:52:46.130> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA MOTORINI AM1-040 - 2024-07-22 08-24-14.txt]]]
+
+
+
+
+
+
+
+15:52:47.144> [[[DEBUG: Processing start: PEZZO-TRAPPOLA-BAG AM1-020 - 2024-07-31 08-26-18.txt]]]
+
+15:52:47.186> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 5.06
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 6
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 90
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Prova Sidebag fine montaggio;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 2.12
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Prova Sidebag fine montaggio;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-020",
+   "traceability": [],
+   "timeStamp": "2024-07-31T06:26:18.102Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "020",
+   "user": "414-TAMA"
+}
+]]]
+
+15:52:47.190> [[[DEBUG: AM1-020]]]
+
+15:52:47.195> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-020]]]
+
+15:52:47.200> [[[DEBUG: Moving to sent: PEZZO-TRAPPOLA-BAG AM1-020 - 2024-07-31 08-26-18.txt]]]
+
+
+
+
+
+
+
+15:52:48.206> [[[DEBUG: Processing start: PEZZO TRAPPOLA RAMO CINTURA AM1-040 - 2024-07-31 08-26-48.txt]]]
+
+15:52:48.218> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "mA",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": 3.33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "mA",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": 15.07
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-31T06:26:48.412Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "1-MANUFACTURING"
+}
+]]]
+
+15:52:48.223> [[[DEBUG: AM1-040]]]
+
+15:52:48.226> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-040]]]
+
+15:52:48.229> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA RAMO CINTURA AM1-040 - 2024-07-31 08-26-48.txt]]]
+
+
+
+
+
+
+
+15:53:34.290> [[[DEBUG: Processing start: PEZZO-TRAPPOLA-BAG AM1-020 - 2024-07-31 08-26-18.txt]]]
+
+15:53:34.304> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 5.06
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 6
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 90
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Prova Sidebag fine montaggio;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 2.12
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Prova Sidebag fine montaggio;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-020",
+   "traceability": [],
+   "timeStamp": "2024-07-31T06:26:18.102Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "020",
+   "user": "414-TAMA"
+}
+]]]
+
+15:53:34.312> [[[DEBUG: AM1-020]]]
+
+15:53:34.318> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-020]]]
+
+15:53:34.326> [[[DEBUG: Moving to sent: PEZZO-TRAPPOLA-BAG AM1-020 - 2024-07-31 08-26-18.txt]]]
+
+
+
+
+
+
+
+15:53:45.361> [[[DEBUG: Processing start: PEZZO-TRAPPOLA-BAG AM1-020 - 2024-07-31 08-26-18.txt]]]
+
+15:53:45.372> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 5.06
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 6
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 90
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Prova Sidebag fine montaggio;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 2.12
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Prova Sidebag fine montaggio;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-020",
+   "traceability": [],
+   "timeStamp": "2024-07-31T06:26:18.102Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "020",
+   "user": "414-TAMA"
+}
+]]]
+
+15:53:45.379> [[[DEBUG: AM1-020]]]
+
+15:53:45.387> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-020]]]
+
+15:53:45.396> [[[DEBUG: Moving to sent: PEZZO-TRAPPOLA-BAG AM1-020 - 2024-07-31 08-26-18.txt]]]
+
+
+
+
+
+
+
+15:54:46.441> [[[DEBUG: Processing start: PEZZO-TRAPPOLA-BAG AM1-020 - 2024-07-31 08-26-18.txt]]]
+
+15:54:46.455> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;UCA",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "Cleco"
+         }]
+      },
+      {
+         "UoM": "Nm",
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;Coppia",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 5.06
+         }]
+      },
+      {
+         "UoM": "Deg",
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;Angolo",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 6
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;GP",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 90
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Avvitatura dadi autobloccante SAB;3;1;ESITO",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "Ohm",
+         "attachments": [],
+         "name": "1;Prova Sidebag fine montaggio;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": 2.12
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Prova Sidebag fine montaggio;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:18.102Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-020",
+   "traceability": [],
+   "timeStamp": "2024-07-31T06:26:18.102Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "020",
+   "user": "414-TAMA"
+}
+]]]
+
+15:54:46.463> [[[DEBUG: AM1-020]]]
+
+15:54:46.469> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-020]]]
+
+15:54:46.477> [[[DEBUG: Moving to sent: PEZZO-TRAPPOLA-BAG AM1-020 - 2024-07-31 08-26-18.txt]]]
+
+
+
+
+
+
+
+15:54:47.490> [[[DEBUG: Processing start: PEZZO TRAPPOLA RAMO CINTURA AM1-040 - 2024-07-31 08-26-48.txt]]]
+
+15:54:47.498> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "mA",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": 3.33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "mA",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": 15.07
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-31T06:26:48.412Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "1-MANUFACTURING"
+}
+]]]
+
+15:54:47.503> [[[DEBUG: AM1-040]]]
+
+15:54:47.510> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-040]]]
+
+15:54:47.520> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA RAMO CINTURA AM1-040 - 2024-07-31 08-26-48.txt]]]
+
+
+
+
+
+
+
+15:55:33.551> [[[DEBUG: Processing start: PEZZO TRAPPOLA RAMO CINTURA AM1-040 - 2024-07-31 08-26-48.txt]]]
+
+15:55:33.560> [[[DEBUG: JSON is:
+{
+   "variables": [
+      {
+         "UoM": "mA",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": 3.33
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta disinserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": "OK"
+         }]
+      },
+      {
+         "UoM": "mA",
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Prova",
+         "type": 0,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": 15.07
+         }]
+      },
+      {
+         "attachments": [],
+         "name": "1;Funzionamento ramo cintura - Linguetta inserita;Esito",
+         "type": 1,
+         "samples": [{
+            "timeStamp": "2024-07-31T06:26:48.412Z",
+            "value": "OK"
+         }]
+      }
+   ],
+   "orderNumber": "0",
+   "serialNumber": "0",
+   "attachments": [],
+   "scraps": [],
+   "workstation": "AM1-040",
+   "traceability": [],
+   "timeStamp": "2024-07-31T06:26:48.412Z",
+   "huCode": null,
+   "okQty": 1,
+   "consumptions": [],
+   "isQuality": false,
+   "checkList": [],
+   "operation": "040",
+   "user": "1-MANUFACTURING"
+}
+]]]
+
+15:55:33.567> [[[DEBUG: AM1-040]]]
+
+15:55:33.571> [[[DEBUG: C:\Users\STQ\Desktop\SuperVisorService\SHARED_DISK_TEST\Messaggi Supervisor\AM1-040]]]
+
+15:55:33.577> [[[DEBUG: Moving to sent: PEZZO TRAPPOLA RAMO CINTURA AM1-040 - 2024-07-31 08-26-48.txt]]]
